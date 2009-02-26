@@ -2090,16 +2090,16 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="v" stem="even" umlaut="A" class="I">raada%-guedtedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">rådslå</t>
-         </tg>
-      </mg>
-   </e>
+<!--    <e> -->
+<!--       <lg> -->
+<!--          <l pos="v" stem="even" umlaut="A" class="I">raada%-guedtedh</l> -->
+<!--       </lg> -->
+<!--       <mg> -->
+<!--          <tg> -->
+<!--             <t pos="xxx">rådslå</t> -->
+<!--          </tg> -->
+<!--       </mg> -->
+<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="A" class="I">raakedehtedh</l>
@@ -4692,16 +4692,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v" stem="even" umlaut="C" class="II">hajkodh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">kasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" stem="even" umlaut="C" class="II">heajjodh</l>
       </lg>
       <mg>
@@ -7247,16 +7237,6 @@
       <mg>
          <tg>
             <t pos="xxx">bli snöblind</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">skïerkedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">klarna, bli klart (efter dimma)</t>
          </tg>
       </mg>
    </e>
@@ -10202,16 +10182,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">gaavnedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hitta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">gabredh</l>
       </lg>
       <mg>
@@ -11372,16 +11342,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">jovkedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">dricka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">jovkestalledh</l>
       </lg>
       <mg>
@@ -11417,16 +11377,6 @@
       <mg>
          <tg>
             <t pos="xxx">låta bli avkylt, låta stå och bli avkylt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">jårredh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">snurra</t>
          </tg>
       </mg>
    </e>
@@ -11717,16 +11667,6 @@
       <mg>
          <tg>
             <t pos="xxx">märka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">mïnnedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">besöka</t>
          </tg>
       </mg>
    </e>
@@ -12842,16 +12782,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">roehtedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">springa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">roehtestalledh</l>
       </lg>
       <mg>
@@ -12997,16 +12927,6 @@
       <mg>
          <tg>
             <t pos="xxx">bli överfallen av rövare</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="even" umlaut="D" class="IV">råakedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">träffa</t>
          </tg>
       </mg>
    </e>
@@ -13757,6 +13677,11 @@
       <mg>
          <tg>
             <t pos="xxx">klarna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="xxx">klarna, bli klart (efter dimma)</t>
          </tg>
       </mg>
    </e>
@@ -21219,11 +21144,6 @@
             <t pos="xxx">få tjära på sig; bli insmord med tjära</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">darvenidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">bli fördärvad (moraliskt), bli förtappad</t>
@@ -22459,11 +22379,6 @@
             <t pos="xxx">förfölja, jaga efter</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">dåalvoehtidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">övertala</t>
@@ -22959,11 +22874,6 @@
             <t pos="xxx">vittna (på religiöst möte)</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">eejlestidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">hålla helig</t>
@@ -23129,11 +23039,6 @@
             <t pos="xxx">färdas; ströva omkring (om ren)</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">faalestidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">snabbt erbjuda</t>
@@ -23849,11 +23754,6 @@
             <t pos="xxx">(plötsligt) lukta illa</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">fuekiehtidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">bli nöjd (med något)</t>
@@ -23959,11 +23859,6 @@
             <t pos="xxx">fila</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">fäjloedidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">skada</t>
@@ -24099,11 +23994,6 @@
             <t pos="xxx">frälsa</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">gaajedidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">vika bort</t>
@@ -24309,14 +24199,9 @@
             <t pos="xxx">vara sjuk; (sydl.:) känna smärta</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">gaasedidh</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="xxx">sätta (ost)löpe till mjölken</t>
+            <t pos="xxx">sätta (ost) löpe till mjölken</t>
          </tg>
       </mg>
    </e>
@@ -24699,11 +24584,6 @@
             <t pos="xxx">tvivla</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">geakasjidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">akta, ta hänsyn till (något)</t>
@@ -24779,11 +24659,6 @@
             <t pos="xxx">glädja någon</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">geerjehtidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">sprida ut</t>
@@ -24879,11 +24754,6 @@
             <t pos="xxx">sätta utför, åka utför på skidor</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">gïerestidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">låta glida (om rem/snara)</t>
@@ -25669,11 +25539,6 @@
             <t pos="xxx">hålla på och springa; springa hit och dit</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">hajkedidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">kasta ut; välta (tält, om vind)</t>
@@ -26999,11 +26864,6 @@
             <t pos="xxx">spänna ut skinn på marken</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">håålesjidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">kvista, hugga kvistar (från träd)</t>
@@ -27789,11 +27649,6 @@
             <t pos="xxx">sammanfoga</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">laavkedidh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="xxx">hålla på och bada</t>
@@ -33792,16 +33647,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v" stem="odd">tjuatsajidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">börja snöa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" stem="odd">tjearoehtidh</l>
       </lg>
       <mg>
@@ -34307,16 +34152,6 @@
       <mg>
          <tg>
             <t pos="xxx">snyfta (sydl.)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">snaerpiedidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">ransonera maten</t>
          </tg>
       </mg>
    </e>
@@ -38787,16 +38622,6 @@
       <mg>
          <tg>
             <t pos="xxx">halta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" stem="odd">åarajidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">gå och lägga sig</t>
          </tg>
       </mg>
    </e>
