@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD gt_dictionary//SE" "../../scripts/gt_dictionary.dtd">
 <r>
    <e>
       <lg>
@@ -8,7 +6,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">steka; bränna (brännvin)</t>
+            <t pos="xxx">steka</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bränna (brännvin)</t>
          </tg>
       </mg>
    </e>
@@ -108,7 +111,17 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bränna; svida (om insektsbett); lysa (om stjärna/norrsken)</t>
+            <t pos="xxx">bränna</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">svida (om insektsbett)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lysa (om stjärna/norrsken)</t>
          </tg>
       </mg>
    </e>
@@ -2092,16 +2105,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="A" class="I">raada%-guedtedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">rådslå</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="A" class="I">raakedehtedh</l>
@@ -3028,7 +3031,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">kasta, slå; ta en extra tur fär att se om alla djuren är med</t>
+            <t pos="xxx">kasta</t>
+            <t pos="xxx">slå</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">ta en extra tur fär att se om alla djuren är med</t>
          </tg>
       </mg>
    </e>
@@ -3808,7 +3817,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vara, vistas, stanna; bo</t>
+            <t pos="xxx">vara</t>
+            <t pos="xxx">vistas</t>
+            <t pos="xxx">stanna</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bo</t>
          </tg>
       </mg>
    </e>
@@ -7258,7 +7274,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">ösregna; nappa (om fisk)</t>
+            <t pos="xxx">ösregna</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">nappa (om fisk)</t>
          </tg>
       </mg>
    </e>
@@ -8962,16 +8983,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="D" class="IV">dahkedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">göra</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">dahpedh</l>
@@ -9102,16 +9113,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="D" class="IV">darhkedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">duga</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">darhvedh</l>
@@ -11102,16 +11103,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="D" class="IV">håjjedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">jämra sig</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">hålvesadtedh</l>
@@ -11472,16 +11463,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="D" class="IV">laavkedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">sammanfoga</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="D" class="IV">lïekedh</l>
@@ -11788,7 +11769,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">flå (skinn); flekke av, löype (never)</t>
+            <t pos="xxx">flå (skinn)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">flekke av</t>
+            <t pos="xxx">löype (never)</t>
          </tg>
       </mg>
    </e>
@@ -11798,7 +11785,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">flå (skinn); flekke av, löype (never)</t>
+            <t pos="xxx">flå (skinn)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">flekke av</t>
+            <t pos="xxx">löype (never)</t>
          </tg>
       </mg>
    </e>
@@ -13953,7 +13946,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">konfirmeras, ge nattvarden; klarna</t>
+            <t pos="xxx">konfirmeras</t>
+            <t pos="xxx">ge nattvarden</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">klarna</t>
          </tg>
       </mg>
    </e>
@@ -14287,16 +14286,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="E" class="V">doksedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">samla förråd</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="E" class="V">dolvedh</l>
@@ -14487,16 +14476,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="E" class="V">govledh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">höras</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="E" class="V">gyösedh</l>
@@ -14617,16 +14596,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="E" class="V">loptedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">bli resklar</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="E" class="V">lyjhkedh</l>
@@ -14687,16 +14656,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="E" class="V">provhkedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">bruka</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="E" class="V">pryjjedh</l>
@@ -14877,16 +14836,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="E" class="V">skromhpedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">skryta om sig sälv</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="E" class="V">skygkerostedh</l>
@@ -14987,16 +14936,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="E" class="V">sodtedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">bli snöblind</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="E" class="V">sorkedh</l>
@@ -15413,7 +15352,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">slita av (en gång); dela renflock (om hund)</t>
+            <t pos="xxx">slita av (en gång)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">dela renflock (om hund)</t>
          </tg>
       </mg>
    </e>
@@ -15443,7 +15387,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">slita av (en gång); dela renflock (om hund)</t>
+            <t pos="xxx">slita av (en gång)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">dela renflock (om hund)</t>
          </tg>
       </mg>
    </e>
@@ -15523,7 +15472,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">läka, bota, kurera; förgifta</t>
+            <t pos="xxx">läka</t>
+            <t pos="xxx">bota</t>
+            <t pos="xxx">kurera</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">förgifta</t>
          </tg>
       </mg>
    </e>
@@ -15553,7 +15509,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">pressa ihop; (sydl.:) stånga och röra sig</t>
+            <t pos="xxx">pressa ihop</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) stånga och röra sig</t>
          </tg>
       </mg>
    </e>
@@ -15603,7 +15564,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">ta, gripa; nappa (om fisk)</t>
+            <t pos="xxx">ta</t>
+            <t pos="xxx">gripa</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">nappa (om fisk)</t>
          </tg>
       </mg>
    </e>
@@ -15773,7 +15740,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hota; tvinga</t>
+            <t pos="xxx">hota</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">tvinga</t>
          </tg>
       </mg>
    </e>
@@ -16003,7 +15975,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">strö (salt/pepper eller liknande); falla (om snö)</t>
+            <t pos="xxx">strö (salt/pepper eller liknande)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">falla (om snö)</t>
          </tg>
       </mg>
    </e>
@@ -16013,7 +15990,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">skaka, röra om; lugga, dra i håret</t>
+            <t pos="xxx">skaka</t>
+            <t pos="xxx">röra om</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lugga</t>
+            <t pos="xxx">dra i håret</t>
          </tg>
       </mg>
    </e>
@@ -16103,7 +16087,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">räcka, räcka över; nysta upp (trådar/hår)</t>
+            <t pos="xxx">räcka</t>
+            <t pos="xxx">räcka över</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">nysta upp (trådar/hår)</t>
          </tg>
       </mg>
    </e>
@@ -16123,7 +16113,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">uppvigla; skämma bort</t>
+            <t pos="xxx">uppvigla</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skämma bort</t>
          </tg>
       </mg>
    </e>
@@ -16153,7 +16148,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">fiska; stryka hornen (om hanren)</t>
+            <t pos="xxx">fiska</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">stryka hornen (om hanren)</t>
          </tg>
       </mg>
    </e>
@@ -16163,7 +16163,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">uppvigla; skämma bort</t>
+            <t pos="xxx">uppvigla</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skämma bort</t>
          </tg>
       </mg>
    </e>
@@ -16213,7 +16218,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">göra snön mjuk (om vinden); yra/virvla över (spår etc.)</t>
+            <t pos="xxx">göra snön mjuk (om vinden)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">yra/virvla över (spår etc.)</t>
          </tg>
       </mg>
    </e>
@@ -16253,7 +16263,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">strö ut (ask, hår etc.); sprida/skingra (renhjord)</t>
+            <t pos="xxx">strö ut (ask</t>
+            <t pos="xxx">hår etc.)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">sprida/skingra (renhjord)</t>
          </tg>
       </mg>
    </e>
@@ -16263,7 +16279,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">kasta ned; (sydl.) berömma, lovorda, rosa</t>
+            <t pos="xxx">kasta ned</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.) berömma</t>
+            <t pos="xxx">lovorda</t>
+            <t pos="xxx">rosa</t>
          </tg>
       </mg>
    </e>
@@ -16283,7 +16306,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">svänga med hornen (om ren); skaka (någon)</t>
+            <t pos="xxx">svänga med hornen (om ren)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skaka (någon)</t>
          </tg>
       </mg>
    </e>
@@ -16333,7 +16361,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">yla (om hund/varg); gråta bittert</t>
+            <t pos="xxx">yla (om hund/varg)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">gråta bittert</t>
          </tg>
       </mg>
    </e>
@@ -17227,26 +17260,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="F" class="VI">rijdedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">rida</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="F" class="VI">rijredh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">rida</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="F" class="VI">rijtedh</l>
@@ -17267,16 +17280,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="F" class="VI">rintedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">tränga sej in imellan</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="F" class="VI">rirhmedh</l>
@@ -18157,16 +18160,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="F" class="VI">snuhkedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">snörvla vid förkylning, dra upp snoret i näsan</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="F" class="VI">snöörjedh</l>
@@ -18337,16 +18330,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="F" class="VI">stryjhkedh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">stryka kläder</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="F" class="VI">stulledh</l>
@@ -18417,16 +18400,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="even" umlaut="F" class="VI">suvredh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">vara långsint</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="even" umlaut="F" class="VI">sveehkedh</l>
@@ -19203,7 +19176,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">ana, förstå, anta; anslå</t>
+            <t pos="xxx">ana</t>
+            <t pos="xxx">förstå</t>
+            <t pos="xxx">anta</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">anslå</t>
          </tg>
       </mg>
    </e>
@@ -19503,7 +19483,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">pladdra; sladdra</t>
+            <t pos="xxx">pladdra</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">sladdra</t>
          </tg>
       </mg>
    </e>
@@ -19563,7 +19548,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">fira,sänka; hjälpa fram</t>
+            <t pos="xxx">fira</t>
+            <t pos="xxx">sänka</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">hjälpa fram</t>
          </tg>
       </mg>
    </e>
@@ -19653,7 +19644,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">döda (ett djur); mörda</t>
+            <t pos="xxx">döda (ett djur)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">mörda</t>
          </tg>
       </mg>
    </e>
@@ -19743,7 +19739,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">springa ifrån (någon el. något); inte bry sig om, över</t>
+            <t pos="xxx">springa ifrån (någon el. något)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">inte bry sig om</t>
+            <t pos="xxx">över</t>
          </tg>
       </mg>
    </e>
@@ -19863,7 +19865,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">drunka; sjunka till botten</t>
+            <t pos="xxx">drunka</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">sjunka till botten</t>
          </tg>
       </mg>
    </e>
@@ -20093,7 +20100,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">förklara,vägleda; lära, undervisa</t>
+            <t pos="xxx">förklara</t>
+            <t pos="xxx">vägleda</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lära</t>
+            <t pos="xxx">undervisa</t>
          </tg>
       </mg>
    </e>
@@ -20103,7 +20117,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">förklara,vägleda; lära, undervisa</t>
+            <t pos="xxx">förklara</t>
+            <t pos="xxx">vägleda</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lära</t>
+            <t pos="xxx">undervisa</t>
          </tg>
       </mg>
    </e>
@@ -20313,7 +20334,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">göra sig klar för att flytta; gå stapplande och snubbla ofta</t>
+            <t pos="xxx">göra sig klar för att flytta</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">gå stapplande och snubbla ofta</t>
          </tg>
       </mg>
    </e>
@@ -20413,7 +20439,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">sticka ned (ren); borra hål i; röka, suga på pipa</t>
+            <t pos="xxx">sticka ned (ren)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">borra hål i</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">röka</t>
+            <t pos="xxx">suga på pipa</t>
          </tg>
       </mg>
    </e>
@@ -20533,7 +20570,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">retas, skoja; klappa flickan</t>
+            <t pos="xxx">retas</t>
+            <t pos="xxx">skoja</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">klappa flickan</t>
          </tg>
       </mg>
    </e>
@@ -20633,7 +20676,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">genast äta upp; glömma vad man skulle säga</t>
+            <t pos="xxx">genast äta upp</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">glömma vad man skulle säga</t>
          </tg>
       </mg>
    </e>
@@ -20693,7 +20741,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">träffa (om skott); duga, kunna</t>
+            <t pos="xxx">träffa (om skott)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">duga</t>
+            <t pos="xxx">kunna</t>
          </tg>
       </mg>
    </e>
@@ -20703,7 +20757,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vara eller blir orolig (om människa), kasta sig hit och dit (om ren); stå i; skynda sig</t>
+            <t pos="xxx">vara eller blir orolig (om människa)</t>
+            <t pos="xxx">kasta sig hit och dit (om ren)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">stå i</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skynda sig</t>
          </tg>
       </mg>
    </e>
@@ -20713,7 +20778,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vara eller blir orolig (om människa), kasta sig hit och dit (om ren); stå i; skynda sig</t>
+            <t pos="xxx">vara eller blir orolig (om människa)</t>
+            <t pos="xxx">kasta sig hit och dit (om ren)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">stå i</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skynda sig</t>
          </tg>
       </mg>
    </e>
@@ -20763,7 +20839,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hålla på och riva (enträd); riva/klösa varandra, slåss</t>
+            <t pos="xxx">hålla på och riva (enträd)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">riva/klösa varandra</t>
+            <t pos="xxx">slåss</t>
          </tg>
       </mg>
    </e>
@@ -20813,7 +20895,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">slösa bort; stryka och klappa (hund)</t>
+            <t pos="xxx">slösa bort</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">stryka och klappa (hund)</t>
          </tg>
       </mg>
    </e>
@@ -21428,7 +21515,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">prosedere, tviste, krangle;snakke ivrig sammen</t>
+            <t pos="xxx">prosedere</t>
+            <t pos="xxx">tviste</t>
+            <t pos="xxx">krangle</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">snakke ivrig sammen</t>
          </tg>
       </mg>
    </e>
@@ -21488,7 +21582,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">rensa; rengöra</t>
+            <t pos="xxx">rensa</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">rengöra</t>
          </tg>
       </mg>
    </e>
@@ -21658,7 +21757,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">tjäna, vara tjänare; tjäna pengar</t>
+            <t pos="xxx">tjäna</t>
+            <t pos="xxx">vara tjänare</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">tjäna pengar</t>
          </tg>
       </mg>
    </e>
@@ -21708,7 +21813,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">träffa, hälsa på; (sydl.:)träffas</t>
+            <t pos="xxx">träffa</t>
+            <t pos="xxx">hälsa på</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:)träffas</t>
          </tg>
       </mg>
    </e>
@@ -21748,7 +21859,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">baktala,förtala; svära</t>
+            <t pos="xxx">baktala</t>
+            <t pos="xxx">förtala</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">svära</t>
          </tg>
       </mg>
    </e>
@@ -21758,7 +21875,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">låta koka så det blir mört; låta koka för hårt</t>
+            <t pos="xxx">låta koka så det blir mört</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">låta koka för hårt</t>
          </tg>
       </mg>
    </e>
@@ -21778,7 +21900,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">diskutera; krångla; (sydl.:) gräla, träta</t>
+            <t pos="xxx">diskutera</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">krångla</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) gräla</t>
+            <t pos="xxx">träta</t>
          </tg>
       </mg>
    </e>
@@ -21918,7 +22051,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gripa tag i, ta fatt i; (sydl.:) bita (om fisk)</t>
+            <t pos="xxx">gripa tag i</t>
+            <t pos="xxx">ta fatt i</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) bita (om fisk)</t>
          </tg>
       </mg>
    </e>
@@ -21998,7 +22137,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">stoppa(t.ex. med kork/propp); lägga lock på</t>
+            <t pos="xxx">stoppa(t.ex. med kork/propp)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lägga lock på</t>
          </tg>
       </mg>
    </e>
@@ -22228,7 +22372,17 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">stamma; tala felaktidgt; (sydl.:) säga något opassade</t>
+            <t pos="xxx">stamma</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">tala felaktidgt</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) säga något opassade</t>
          </tg>
       </mg>
    </e>
@@ -22553,7 +22707,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">duga; klara</t>
+            <t pos="xxx">duga</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">klara</t>
          </tg>
       </mg>
    </e>
@@ -22643,7 +22802,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">finna en utväg; hålla på med något</t>
+            <t pos="xxx">finna en utväg</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">hålla på med något</t>
          </tg>
       </mg>
    </e>
@@ -22693,7 +22857,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">använda; bära sig dåligt åt</t>
+            <t pos="xxx">använda</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bära sig dåligt åt</t>
          </tg>
       </mg>
    </e>
@@ -22753,7 +22922,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli förundrad, bli överaskad; se fel</t>
+            <t pos="xxx">bli förundrad</t>
+            <t pos="xxx">bli överaskad</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">se fel</t>
          </tg>
       </mg>
    </e>
@@ -22773,7 +22948,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">skåta; staka</t>
+            <t pos="xxx">skåta</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">staka</t>
          </tg>
       </mg>
    </e>
@@ -22833,7 +23013,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli vrickad; gå ur led</t>
+            <t pos="xxx">bli vrickad</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">gå ur led</t>
          </tg>
       </mg>
    </e>
@@ -22863,7 +23048,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">slå dank, ha semester; (sydl.:) uppehålla</t>
+            <t pos="xxx">slå dank</t>
+            <t pos="xxx">ha semester</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) uppehålla</t>
          </tg>
       </mg>
    </e>
@@ -22898,7 +23089,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">plåga (t.ex.om mygg); störa (äv. om människor)</t>
+            <t pos="xxx">plåga (t.ex.om mygg)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">störa (äv. om människor)</t>
          </tg>
       </mg>
    </e>
@@ -22998,7 +23194,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">föra längre fram, driva fram; komma framför</t>
+            <t pos="xxx">föra längre fram</t>
+            <t pos="xxx">driva fram</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">komma framför</t>
          </tg>
       </mg>
    </e>
@@ -23073,7 +23275,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">motta vänligt, hälsa med glädje; göra sig till</t>
+            <t pos="xxx">motta vänligt</t>
+            <t pos="xxx">hälsa med glädje</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">göra sig till</t>
          </tg>
       </mg>
    </e>
@@ -23323,7 +23531,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">traktera en gäst; vara snabb (med arbete)</t>
+            <t pos="xxx">traktera en gäst</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">vara snabb (med arbete)</t>
          </tg>
       </mg>
    </e>
@@ -23503,7 +23716,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli uppehållern; slösa med tiden</t>
+            <t pos="xxx">bli uppehållern</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">slösa med tiden</t>
          </tg>
       </mg>
    </e>
@@ -23663,7 +23881,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">dofta (av frodig växtlighet); lukta gödsel</t>
+            <t pos="xxx">dofta (av frodig växtlighet)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lukta gödsel</t>
          </tg>
       </mg>
    </e>
@@ -23973,7 +24196,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gapa, skrika; stirra; vara vidöppen (om dörr)</t>
+            <t pos="xxx">gapa</t>
+            <t pos="xxx">skrika</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">stirra</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">vara vidöppen (om dörr)</t>
          </tg>
       </mg>
    </e>
@@ -24058,7 +24292,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">ligga och dra sig; (sydl.:) ligga full</t>
+            <t pos="xxx">ligga och dra sig</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) ligga full</t>
          </tg>
       </mg>
    </e>
@@ -24118,7 +24357,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">omfamna; klättra upp på ryggen (om barn)</t>
+            <t pos="xxx">omfamna</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">klättra upp på ryggen (om barn)</t>
          </tg>
       </mg>
    </e>
@@ -24128,7 +24372,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">omfamna; klättra upp på ryggen (om barn)</t>
+            <t pos="xxx">omfamna</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">klättra upp på ryggen (om barn)</t>
          </tg>
       </mg>
    </e>
@@ -24188,7 +24437,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">klä på (någon); klä på sig</t>
+            <t pos="xxx">klä på (någon)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">klä på sig</t>
          </tg>
       </mg>
    </e>
@@ -24388,7 +24642,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bajsa vintertid, om ren; ha hård avföring, om människor</t>
+            <t pos="xxx">bajsa vintertid</t>
+            <t pos="xxx">om ren</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">ha hård avföring</t>
+            <t pos="xxx">om människor</t>
          </tg>
       </mg>
    </e>
@@ -24438,7 +24699,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">(plötsligt) falla; falla samman</t>
+            <t pos="xxx">(plötsligt) falla</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">falla samman</t>
          </tg>
       </mg>
    </e>
@@ -24558,7 +24824,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">frysa (om djur/människor); förfrysa (t.ex. öra)</t>
+            <t pos="xxx">frysa (om djur/människor)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">förfrysa (t.ex. öra)</t>
          </tg>
       </mg>
    </e>
@@ -24688,7 +24959,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vara brunstig (om djur); göra sig till/fin (om kvinna)</t>
+            <t pos="xxx">vara brunstig (om djur)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">göra sig till/fin (om kvinna)</t>
          </tg>
       </mg>
    </e>
@@ -24773,7 +25049,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hantera; ta reda på</t>
+            <t pos="xxx">hantera</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">ta reda på</t>
          </tg>
       </mg>
    </e>
@@ -25203,7 +25484,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hamna; försvinna</t>
+            <t pos="xxx">hamna</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">försvinna</t>
          </tg>
       </mg>
    </e>
@@ -25373,7 +25659,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">plötsligt hugga/bita till; riva (om varg)</t>
+            <t pos="xxx">plötsligt hugga/bita till</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">riva (om varg)</t>
          </tg>
       </mg>
    </e>
@@ -25463,7 +25754,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vifta, visa tecken (med handen); flaxa (om fågel); fladdra</t>
+            <t pos="xxx">vifta</t>
+            <t pos="xxx">visa tecken (med handen)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">flaxa (om fågel)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">fladdra</t>
          </tg>
       </mg>
    </e>
@@ -25473,7 +25775,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">sväva (om hök); vifta med något för att skrämma</t>
+            <t pos="xxx">sväva (om hök)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">vifta med något för att skrämma</t>
          </tg>
       </mg>
    </e>
@@ -25593,7 +25900,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">locka (på ripungarna, om honripa); hicka (om en som druckit brännvin)</t>
+            <t pos="xxx">locka (på ripungarna</t>
+            <t pos="xxx">om honripa)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">hicka (om en som druckit brännvin)</t>
          </tg>
       </mg>
    </e>
@@ -25673,7 +25986,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">tala, skrika; (sydl.:) ljuda i fjärran</t>
+            <t pos="xxx">tala</t>
+            <t pos="xxx">skrika</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) ljuda i fjärran</t>
          </tg>
       </mg>
    </e>
@@ -25743,7 +26062,19 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli andfådd, tappa andan; tala i munnen på varandra; (sydl.:) gnälla, tjata</t>
+            <t pos="xxx">bli andfådd</t>
+            <t pos="xxx">tappa andan</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">tala i munnen på varandra</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">(sydl.:) gnälla</t>
+            <t pos="xxx">tjata</t>
          </tg>
       </mg>
    </e>
@@ -25803,7 +26134,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli förundrad, bli överraskad; se fel</t>
+            <t pos="xxx">bli förundrad</t>
+            <t pos="xxx">bli överraskad</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">se fel</t>
          </tg>
       </mg>
    </e>
@@ -25973,7 +26310,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">göra snön mjuk (om vinen); ra/virvla över (spår etc:)</t>
+            <t pos="xxx">göra snön mjuk (om vinen)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">ra/virvla över (spår etc:)</t>
          </tg>
       </mg>
    </e>
@@ -26073,7 +26415,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vara klumpig/fumlig/tafatt; vara vårdslös/oförsiktig</t>
+            <t pos="xxx">vara klumpig/fumlig/tafatt</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">vara vårdslös/oförsiktig</t>
          </tg>
       </mg>
    </e>
@@ -26153,7 +26500,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">svänga med hornen (om ren); skaka (någon)</t>
+            <t pos="xxx">svänga med hornen (om ren)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skaka (någon)</t>
          </tg>
       </mg>
    </e>
@@ -26283,7 +26635,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hålla på och leta/söka efter något; sakna</t>
+            <t pos="xxx">hålla på och leta/söka efter något</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">sakna</t>
          </tg>
       </mg>
    </e>
@@ -26433,7 +26790,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hoa (om uggla); låta (om enkelbeckasin)</t>
+            <t pos="xxx">hoa (om uggla)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">låta (om enkelbeckasin)</t>
          </tg>
       </mg>
    </e>
@@ -26843,7 +27205,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">kasta över ända (i brottning); sticka ned (ren)</t>
+            <t pos="xxx">kasta över ända (i brottning)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">sticka ned (ren)</t>
          </tg>
       </mg>
    </e>
@@ -27098,7 +27465,23 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">flytta, bryta upp; dö; böja glida; gå av (om skott)</t>
+            <t pos="xxx">flytta</t>
+            <t pos="xxx">bryta upp</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">dö</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">böja glida</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">gå av (om skott)</t>
          </tg>
       </mg>
    </e>
@@ -27138,7 +27521,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">vända; förändra</t>
+            <t pos="xxx">vända</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">förändra</t>
          </tg>
       </mg>
    </e>
@@ -27188,7 +27576,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">låta leva; föda</t>
+            <t pos="xxx">låta leva</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">föda</t>
          </tg>
       </mg>
    </e>
@@ -27338,7 +27731,17 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">hjälpa med att flytta; få till att glida; få fram</t>
+            <t pos="xxx">hjälpa med att flytta</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">få till att glida</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">få fram</t>
          </tg>
       </mg>
    </e>
@@ -27378,7 +27781,24 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">flytta, bryta upp, resa; dö; börja glida; gå av (om skott)</t>
+            <t pos="xxx">flytta</t>
+            <t pos="xxx">bryta upp</t>
+            <t pos="xxx">resa</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">dö</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">börja glida</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">gå av (om skott)</t>
          </tg>
       </mg>
    </e>
@@ -27488,7 +27908,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">förklara, reda ut (en sak); ge besked om</t>
+            <t pos="xxx">förklara</t>
+            <t pos="xxx">reda ut (en sak)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">ge besked om</t>
          </tg>
       </mg>
    </e>
@@ -27508,7 +27934,17 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">kräva (lån tillbaka); upprepa och upprepa samma sak; tigga</t>
+            <t pos="xxx">kräva (lån tillbaka)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">upprepa och upprepa samma sak</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">tigga</t>
          </tg>
       </mg>
    </e>
@@ -27548,7 +27984,15 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">lysna till, upfatta, bry sig om, ta hänsyn till; göra om (ett renmärke) till märket kruehkie</t>
+            <t pos="xxx">lysna till</t>
+            <t pos="xxx">upfatta</t>
+            <t pos="xxx">bry sig om</t>
+            <t pos="xxx">ta hänsyn till</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">göra om (ett renmärke) till märket kruehkie</t>
          </tg>
       </mg>
    </e>
@@ -27743,7 +28187,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">laga till, göra matsäck; slakta (flera djur)</t>
+            <t pos="xxx">laga till</t>
+            <t pos="xxx">göra matsäck</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">slakta (flera djur)</t>
          </tg>
       </mg>
    </e>
@@ -27873,7 +28323,23 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">lossna, komma sig lös (t.ex. om fisk från kroken); komma sig iäg (till flyttning; bli lös (om mave); skilja sig (om gifta människor) (sydlig bet.)</t>
+            <t pos="xxx">lossna</t>
+            <t pos="xxx">komma sig lös (t.ex. om fisk från kroken)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">komma sig iäg (till flyttning</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bli lös (om mave)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skilja sig (om gifta människor) (sydlig bet.)</t>
          </tg>
       </mg>
    </e>
@@ -27943,7 +28409,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">lova; samtycka</t>
+            <t pos="xxx">lova</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">samtycka</t>
          </tg>
       </mg>
    </e>
@@ -28333,7 +28804,15 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">sudda ut (t.ex. spår, om regn); lätta, jämna ut sig, ge sig (om smärta)</t>
+            <t pos="xxx">sudda ut (t.ex. spår</t>
+            <t pos="xxx">om regn)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">lätta</t>
+            <t pos="xxx">jämna ut sig</t>
+            <t pos="xxx">ge sig (om smärta)</t>
          </tg>
       </mg>
    </e>
@@ -28533,7 +29012,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">lösa upp, klä av som snarast; knya upp som snarast</t>
+            <t pos="xxx">lösa upp</t>
+            <t pos="xxx">klä av som snarast</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">knya upp som snarast</t>
          </tg>
       </mg>
    </e>
@@ -28623,7 +29108,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bekräfta, bevisa; bestyrka, ge sin tilslutning till</t>
+            <t pos="xxx">bekräfta</t>
+            <t pos="xxx">bevisa</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bestyrka</t>
+            <t pos="xxx">ge sin tilslutning till</t>
          </tg>
       </mg>
    </e>
@@ -28883,7 +29375,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">komma undan, fly, rymma; springa iväg (utan lov)</t>
+            <t pos="xxx">komma undan</t>
+            <t pos="xxx">fly</t>
+            <t pos="xxx">rymma</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">springa iväg (utan lov)</t>
          </tg>
       </mg>
    </e>
@@ -28893,7 +29392,17 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">komma undan; dra från plats till plats; hålla sig avsides</t>
+            <t pos="xxx">komma undan</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">dra från plats till plats</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">hålla sig avsides</t>
          </tg>
       </mg>
    </e>
@@ -29033,7 +29542,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">blinka (t.ex. när solen går upp); skymta långt borta</t>
+            <t pos="xxx">blinka (t.ex. när solen går upp)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skymta långt borta</t>
          </tg>
       </mg>
    </e>
@@ -29093,7 +29607,17 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">läspa; använda fula ord; ställa till bråk</t>
+            <t pos="xxx">läspa</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">använda fula ord</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">ställa till bråk</t>
          </tg>
       </mg>
    </e>
@@ -29113,7 +29637,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli blek; bli illamående</t>
+            <t pos="xxx">bli blek</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bli illamående</t>
          </tg>
       </mg>
    </e>
@@ -29433,7 +29962,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gapskratta; skryta</t>
+            <t pos="xxx">gapskratta</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skryta</t>
          </tg>
       </mg>
    </e>
@@ -29473,7 +30007,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gapskratta; skratta/tjattra (om ripa)</t>
+            <t pos="xxx">gapskratta</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">skratta/tjattra (om ripa)</t>
          </tg>
       </mg>
    </e>
@@ -30023,7 +30562,12 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">böja sig på mitten (om skida); bli skev/sned</t>
+            <t pos="xxx">böja sig på mitten (om skida)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bli skev/sned</t>
          </tg>
       </mg>
    </e>
@@ -30883,7 +31427,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gå i stycken; slå sig, gjöra sig illa (liten skada som går över)</t>
+            <t pos="xxx">gå i stycken</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">slå sig</t>
+            <t pos="xxx">gjöra sig illa (liten skada som går över)</t>
          </tg>
       </mg>
    </e>
@@ -36353,7 +36903,14 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">stanna, stoppa upp lite, stann alite; plötsligt stilla sig</t>
+            <t pos="xxx">stanna</t>
+            <t pos="xxx">stoppa upp lite</t>
+            <t pos="xxx">stann alite</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">plötsligt stilla sig</t>
          </tg>
       </mg>
    </e>
@@ -37703,7 +38260,13 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">lägga märke till, observera; sätta märke på</t>
+            <t pos="xxx">lägga märke till</t>
+            <t pos="xxx">observera</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">sätta märke på</t>
          </tg>
       </mg>
    </e>
@@ -37903,7 +38466,18 @@
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">bli nykter; besinna sig (efter ilska); bli var, uppdaga</t>
+            <t pos="xxx">bli nykter</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">besinna sig (efter ilska)</t>
+         </tg>
+      </mg>
+      <mg lang="swe">
+         <tg>
+            <t pos="xxx">bli var</t>
+            <t pos="xxx">uppdaga</t>
          </tg>
       </mg>
    </e>
@@ -39007,46 +39581,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">dåårijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">börja slåss</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">gååtijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">börja beta</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">ïervijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">börja flå</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">joejkijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">börja jojka</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="odd">mïnnijidh</l>
@@ -39057,16 +39591,6 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">obrijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">börja regna</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
    <e>
       <lg>
          <l pos="v" stem="odd">orrijidh</l>
@@ -39117,34 +39641,4 @@
          </tg>
       </mg>
    </e>
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">tjåårijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">brista i gråt</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">tsïhkijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">antändas</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="v" stem="odd">voejijidh</l> -->
-<!--       </lg> -->
-<!--       <mg lang="swe"> -->
-<!--          <tg> -->
-<!--             <t pos="v">simma iväg</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
 </r>
