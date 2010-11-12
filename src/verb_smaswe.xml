@@ -16502,7 +16502,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">skada, lemlästa, slå fördärvad/pina, plåga</t>
+            <t pos="v">skada</t>
+            <t pos="v">lemlästa</t>
+         </tg>
+         <tg>
+            <t pos="v">pina</t>
+            <t pos="v">plåga</t>
          </tg>
       </mg>
    </e>
@@ -16512,7 +16517,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">avråda, hindra</t>
+            <t pos="v">avråda</t>
+            <t pos="v">hindra</t>
          </tg>
       </mg>
    </e>
@@ -16562,7 +16568,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">fisa tyst (sydl.:) falla (om stjärna)</t>
+            <t pos="v">fisa</t>
+         </tg>
+         <tg>
+            <re>om stjärna</re>
+            <t pos="v">falla</t>
          </tg>
       </mg>
    </e>
@@ -16592,7 +16602,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">smycka, pryda</t>
+            <t pos="v">smycka</t>
+            <t pos="v">pryda</t>
          </tg>
       </mg>
    </e>
@@ -16622,7 +16633,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gnida, gnugga, massera</t>
+            <t pos="v">gnida</t>
+            <t pos="v">gnugga</t>
          </tg>
       </mg>
    </e>
@@ -16672,7 +16684,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">sticka ihjäl ett djur</t>
+            <t pos="v">sticka ihjäl</t>
          </tg>
       </mg>
    </e>
@@ -16682,7 +16694,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">koka, laga mat</t>
+            <t pos="v">koka</t>
+            <t pos="v">laga mat</t>
          </tg>
       </mg>
    </e>
@@ -16692,7 +16705,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">värka (tex. fot)</t>
+            <t pos="v">värka</t>
          </tg>
       </mg>
    </e>
@@ -16712,7 +16725,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">lasta, stapla upp/lära ut, undervisa, dressera hund</t>
+            <t pos="v">lasta</t>
+            <t pos="v">stapla upp</t>
+         </tg>
+         <tg>
+            <t pos="v">undervisa</t>
+            <t pos="v">dressera</t>
          </tg>
       </mg>
    </e>
@@ -16782,7 +16800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">värka (tex. fot)</t>
+            <t pos="v">värka</t>
          </tg>
       </mg>
    </e>
@@ -16812,7 +16830,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="swe">
          <tg>
-            <t pos="v">gråta, skrika (om småbarn)/ryta (om björn)</t>
+            <re>om småbarn</re>
+            <t pos="v">gråta</t>
+            <t pos="v">skrika</t>
+         </tg>
+         <tg>
+            <re>om om björn</re>
+            <t pos="v">ryta</t>
          </tg>
       </mg>
    </e>
