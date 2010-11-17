@@ -7353,7 +7353,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">jovkedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">jovkedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -8533,7 +8533,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">bohkedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">bohkedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -9513,7 +9513,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">doksedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">doksedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -10593,7 +10593,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">gohpedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">gohpedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -10603,7 +10603,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">govledh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">govledh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -10993,7 +10993,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">hohtjedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">hohtjedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -11363,7 +11363,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">jovhkedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">jovhkedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -11563,7 +11563,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">lohkedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">lohkedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -11915,7 +11915,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">noffedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">noffedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -12005,7 +12005,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">ohtsedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">ohtsedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -13800,7 +13800,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">skorpedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">skorpedh</l>
       </lg>
       <mg lang="swe">
          <tg>
@@ -13880,7 +13880,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" stem="even" umlaut="D">sovmedh</l>
+         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">sovmedh</l>
       </lg>
       <mg lang="swe">
          <tg>
