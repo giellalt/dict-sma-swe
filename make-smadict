@@ -1,0 +1,79 @@
+
+# Makefile to make smadict.fst
+# the fst just recognises all lemmas in the smaswe dictionary
+# it does __not__ translate them.
+
+# usage.
+# make -f make-smadict
+
+# pseudocode:
+
+# read all lexicon files
+# pick the lemmas
+# save as smalemmalist.txt
+# open xfst
+# run command "read text < smalemmalist.txt"
+# save result as smadict.fst
+# the resulting fst to be used to test dict content
+
+
+XFST = xfst
+
+LEX = src/a_smaswe.xml  \
+	src/adv_smaswe.xml		 \
+	src/cc_smaswe.xml		 \
+	src/cs_smaswe.xml		 \
+	src/i_smaswe.xml		 \
+	src/misc_stat_smaswe.xml	 \
+	src/multiword_smaswe.xml	 \
+	src/propPl_smaswe.xml	 \
+	src/n_smaswe.xml		 \
+	src/num_smaswe.xml		 \
+	src/pcle_smaswe.xml		 \
+	src/pronDem_stat_smaswe.xml	 \
+	src/pronIndef_smaswe.xml \
+	src/pronPers_stat_smaswe.xml	 \
+	src/pronRec_stat_smaswe.xml	 \
+	src/pronRefl_stat_smaswe.xml	 \
+	src/pronRel_stat_smaswe.xml	 \
+	src/prop_smaswe.xml		 \
+	src/pr_smaswe.xml		 \
+	src/po_smaswe.xml		 \
+	src/vCop_stat_smaswe.xml		 \
+	src/vNeg_stat_smaswe.xml		 \
+	src/verb_smaswe.xml		 \
+	src/v_smaswe.xml	
+
+smadict.fst: bin/smadict.fst
+bin/smadict.fst: bin/smadict.save
+	@echo
+	@echo "*** Building  smadict.fst ***"
+	@echo
+	@printf "read regex [ @\"$<\" .o. \
+	[ ï (<-) i , ö (<-) ø , æ (<-) ä , Ï (<-) I , Ö (<-) Ø , Æ (<-) Ä ]] ; \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smadict-fst-script
+	@echo "*** Done script, at least. ***"
+	$(XFST)  < ../tmp/smadict-fst-script
+	@rm -f ../tmp/smadict-fst-script
+
+smadict.save: bin/smadict.save
+bin/smadict.save: bin/smalemmalist.txt
+	@echo
+	@echo "*** Building  smadict.save ***"
+	@echo
+	@printf "read text $< \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smadict-save-script
+	$(XFST)  < ../tmp/smadict-save-script
+	@rm -f ../tmp/smadict-save-script
+
+smalemmalist.txt: bin/smalemmalist.txt
+bin/smalemmalist.txt: $(LEX)
+	@cat $(LEX) | \
+	egrep '<l(sub| )' | \
+	cut -d">" -f2 | \
+	cut -d"<" -f1 > bin/smalemmalist.txt
+
+clean:
+	@rm -f bin/smalemmalist.txt bin/smadict.fst	
