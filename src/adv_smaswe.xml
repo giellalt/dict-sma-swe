@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="adv">aadtjegh</l>
+         <l pos="Adv">aadtjegh</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -42,29 +42,29 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">nettopp</t>
-            <t pos="adv" stat="notpref" tcomm="no">nylig</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nylig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">nyss</t>
-            <t pos="adv" stat="notpref" tcomm="no">nyligen</t>
+            <t pos="Adv" stat="pref" tcomm="no">nyss</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nyligen</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">nettopp_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">nettopp_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vastikään</t>
-            <t pos="adv" stat="notpref" tcomm="no">vasta</t>
-            <t pos="adv" stat="notpref" tcomm="no">juuri</t>
+            <t pos="Adv" stat="pref" tcomm="no">vastikään</t>
+            <t pos="Adv" stat="notpref" tcomm="no">vasta</t>
+            <t pos="Adv" stat="notpref" tcomm="no">juuri</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">aadtjen</l>
+         <l pos="Adv">aadtjen</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -76,27 +76,27 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">nettopp</t>
-            <t pos="adv" stat="notpref" tcomm="no">nylig</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nylig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">nettopp</t>
-            <t pos="adv" stat="notpref" tcomm="no">nylig</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nylig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">nettopp_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">nettopp_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">nettopp_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vastikään</t>
+            <t pos="Adv" stat="pref" tcomm="no">vastikään</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">aelhkie</l>
+         <l pos="Adv">aelhkie</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -106,31 +106,31 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">lett</t>
-            <t pos="adv" stat="notpref" tcomm="no">lettvint</t>
-            <t pos="adv" stat="notpref" tcomm="no">enkel</t>
-            <t pos="adv" stat="notpref" tcomm="no">enkelt</t>
+            <t pos="Adv" stat="pref" tcomm="no">lett</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lettvint</t>
+            <t pos="Adv" stat="notpref" tcomm="no">enkel</t>
+            <t pos="Adv" stat="notpref" tcomm="no">enkelt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="notpref" tcomm="no">lätt</t>
-            <t pos="adv" stat="notpref" tcomm="no">lättvint</t>
-            <t pos="adv" stat="notpref" tcomm="no">enkel</t>
-            <t pos="adv" stat="notpref" tcomm="no">enkelt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lätt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lättvint</t>
+            <t pos="Adv" stat="notpref" tcomm="no">enkel</t>
+            <t pos="Adv" stat="notpref" tcomm="no">enkelt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">lett_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">lett_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">lett_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">lett_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">helppo</t>
+            <t pos="Adv" stat="pref" tcomm="no">helppo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">aelhkieslaakan</l>
+         <l pos="Adv">aelhkieslaakan</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -140,49 +140,49 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">lettvint</t>
-            <tf pos="phrase_adv" tcomm="no">på en lett måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">lett</t>
+            <t pos="Adv" stat="pref" tcomm="no">lettvint</t>
+            <t pos="Adv" tcomm="no">på en lett måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lett</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">lättvint</t>
-            <tf pos="phrase_adv" tcomm="no">på ett enkelt sätt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">lättvint</t>
+            <t pos="Adv" tcomm="no">på ett enkelt sätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">lettvint_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">lettvint_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">lettvint_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">lettvint_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">yksinkertainen</t>
+            <t pos="Adv" stat="pref" tcomm="no">yksinkertainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">aarebi</l>
+         <l pos="Adv">aarebi</l>
       </lg>
       <sources>
          <book name="xxx" />
       </sources>
       <mg>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">før</t>
-            <t pos="adv" stat="notpref" tcomm="no">innen</t>
+            <t pos="Adv" stat="notpref" tcomm="no">før</t>
+            <t pos="Adv" stat="notpref" tcomm="no">innen</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">före</t>
-            <t pos="adv" stat="notpref" tcomm="no">innan</t>
+            <t pos="Adv" stat="pref" tcomm="no">före</t>
+            <t pos="Adv" stat="notpref" tcomm="no">innan</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">før_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">før_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">før_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">før_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ennen</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennen</t>
          </tg>
       </mg>
       <mg>
@@ -190,25 +190,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">tidligere</t>
+            <t pos="Adv" stat="pref" tcomm="no">tidligere</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">tidigare</t>
+            <t pos="Adv" stat="pref" tcomm="no">tidigare</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">tidligere_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">tidligere_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">tidligere_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">tidligere_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">aiemmin</t>
+            <t pos="Adv" stat="pref" tcomm="no">aiemmin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">biejjegi</l>
+         <l pos="Adv">biejjegi</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -218,25 +218,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om dagene</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om dagene</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om dagarna</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om dagarna</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om dagene_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">om dagene_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om dagene_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">om dagene_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">päivisin</t>
+            <t pos="Adv" stat="pref" tcomm="no">päivisin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">bijjelen</l>
+         <l pos="Adv">bijjelen</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -247,27 +247,27 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t pos="adv" stat="pref" tcomm="no">forbi</t>
-            <t pos="adv" stat="notpref" tcomm="no">over</t>
+            <t pos="Adv" stat="pref" tcomm="no">forbi</t>
+            <t pos="Adv" stat="notpref" tcomm="no">over</t>
          </tg>
          <tg xml:lang="swe">
             <re>om tid</re>
-            <t pos="adv" stat="notpref" tcomm="no">över</t>
+            <t pos="Adv" stat="notpref" tcomm="no">över</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">forbi_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">forbi_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">forbi_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">forbi_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">yli</t>
+            <t pos="Adv" stat="pref" tcomm="no">yli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">boelvhjöölki</l>
+         <l pos="Adv">boelvhjöölki</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -277,25 +277,25 @@ For the full license text, see the link above.</lic>
             <sem class="BODY_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på kne</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på kne</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på knä</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på knä</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på kne_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på kne_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på kne_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på kne_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">polvillaan</t>
+            <t pos="Adv" stat="pref" tcomm="no">polvillaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">båadtsode</l>
+         <l pos="Adv">båadtsode</l>
       </lg>
       <sources>
          <book name="s3" />
@@ -305,28 +305,28 @@ For the full license text, see the link above.</lic>
             <sem class="BODY_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">naken</t>
-            <tf pos="phrase_adv" tcomm="no">uten klær</tf>
+            <t pos="Adv" stat="pref" tcomm="no">naken</t>
+            <t pos="Adv" tcomm="no">uten klær</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">naken</t>
-            <tf pos="phrase_adv" tcomm="no">utan kläder</tf>
+            <t pos="Adv" stat="pref" tcomm="no">naken</t>
+            <t pos="Adv" tcomm="no">utan kläder</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">naken_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">naken_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">naken_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">naken_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">alasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">alaston</t>
+            <t pos="Adv" stat="pref" tcomm="no">alasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">alaston</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">daaletje</l>
+         <l pos="Adv">daaletje</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -336,28 +336,28 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" tcomm="no">nå for tiden</tf>
-            <t pos="adv" stat="pref" tcomm="no">nåtidens</t>
-            <t pos="adv" stat="notpref" tcomm="no">moderne</t>
+            <t pos="Adv" tcomm="no">nå for tiden</t>
+            <t pos="Adv" stat="pref" tcomm="no">nåtidens</t>
+            <t pos="Adv" stat="notpref" tcomm="no">moderne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">modern</t>
-            <t pos="adv" stat="pref" tcomm="no">nåtidens</t>
+            <t pos="Adv" stat="pref" tcomm="no">modern</t>
+            <t pos="Adv" stat="pref" tcomm="no">nåtidens</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">nå for tiden_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nå for tiden_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">nå for tiden_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nå for tiden_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">nykyaikaisella tavalla</t>
+            <t pos="Adv" stat="pref" tcomm="no">nykyaikaisella tavalla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">daamtaj</l>
+         <l pos="Adv">daamtaj</l>
       </lg>
       <sources>
          <book name="s3" />
@@ -367,26 +367,26 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">ofte</t>
-            <t pos="adv" stat="notpref" tcomm="no">stadig</t>
+            <t pos="Adv" stat="pref" tcomm="no">ofte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">stadig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ofta</t>
+            <t pos="Adv" stat="pref" tcomm="no">ofta</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">ofte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ofte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">ofte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ofte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">usein</t>
+            <t pos="Adv" stat="pref" tcomm="no">usein</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">daelie</l>
+         <l pos="Adv">daelie</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -404,43 +404,43 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">nå</t>
-            <tf tcomm="no">nå for tiden</tf>
+            <t pos="Adv" stat="pref" tcomm="no">nå</t>
+            <t tcomm="no">nå for tiden</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">nu</t>
+            <t pos="Adv" stat="pref" tcomm="no">nu</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">nå_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">nå_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">nå_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">nå_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">nyt</t>
+            <t pos="Adv" stat="pref" tcomm="no">nyt</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">her</t>
+            <t pos="Adv" stat="notpref" tcomm="no">her</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="notpref" tcomm="no">här</t>
+            <t pos="Adv" stat="notpref" tcomm="no">här</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">her_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">her_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">her_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">her_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">täällä</t>
+            <t pos="Adv" stat="pref" tcomm="no">täällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">daelvege</l>
+         <l pos="Adv">daelvege</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -450,25 +450,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om vinteren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om vinteren</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om vintrarna</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om vintrarna</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om vinteren_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">om vinteren_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om vinteren_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">om vinteren_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">talvella</t>
+            <t pos="Adv" stat="pref" tcomm="no">talvella</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">daenbien</l>
+         <l pos="Adv">daenbien</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -478,25 +478,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i dag</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i dag</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">idag</tf>
+            <t pos="Adv" stat="pref" tcomm="no">idag</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i dag_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i dag_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i dag_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i dag_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">tänään</t>
+            <t pos="Adv" stat="pref" tcomm="no">tänään</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">dallah</l>
+         <l pos="Adv">dallah</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -510,31 +510,31 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">øyeblikkelig</t>
-            <tf tcomm="no">med en gang</tf>
-            <tf pos="phrase_adv" tcomm="no">så snart som</tf>
-            <t pos="adv" stat="notpref" tcomm="no">straks</t>
-            <t pos="adv" stat="notpref" tcomm="no">snart</t>
+            <t pos="Adv" stat="pref" tcomm="no">øyeblikkelig</t>
+            <t tcomm="no">med en gang</t>
+            <t pos="Adv" tcomm="no">så snart som</t>
+            <t pos="Adv" stat="notpref" tcomm="no">straks</t>
+            <t pos="Adv" stat="notpref" tcomm="no">snart</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ögonblickligen</t>
-            <tf tcomm="no">på en gång</tf>
+            <t pos="Adv" stat="pref" tcomm="no">ögonblickligen</t>
+            <t tcomm="no">på en gång</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">øyeblikkelig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">øyeblikkelig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">øyeblikkelig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">øyeblikkelig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">heti</t>
-            <t pos="adv" stat="notpref" tcomm="no">saman tien</t>
+            <t pos="Adv" stat="pref" tcomm="no">heti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">saman tien</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">dallegh</l>
+         <l pos="Adv">dallegh</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -544,32 +544,32 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">straks</t>
-            <tf tcomm="no">med én gang</tf>
-            <tf pos="phrase_adv" tcomm="no">med en gang</tf>
-            <tf tcomm="no">så snart som</tf>
-            <t pos="adv" stat="notpref" tcomm="no">snart</t>
+            <t pos="Adv" stat="pref" tcomm="no">straks</t>
+            <t tcomm="no">med én gang</t>
+            <t pos="Adv" tcomm="no">med en gang</t>
+            <t tcomm="no">så snart som</t>
+            <t pos="Adv" stat="notpref" tcomm="no">snart</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">strax</t>
-            <tf pos="phrase_adv" tcomm="no">med en gång</tf>
-            <tf tcomm="no">så snart som</tf>
+            <t pos="Adv" stat="pref" tcomm="no">strax</t>
+            <t pos="Adv" tcomm="no">med en gång</t>
+            <t tcomm="no">så snart som</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">straks_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">straks_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">straks_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">straks_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">heti</t>
-            <t pos="adv" stat="notpref" tcomm="no">saman tien</t>
+            <t pos="Adv" stat="pref" tcomm="no">heti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">saman tien</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">dejbeeli</l>
+         <l pos="Adv">dejbeeli</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -579,29 +579,29 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf stat="pref" tcomm="no">i gamle dager</tf>
-            <tf tcomm="no">før i tiden</tf>
-            <tf tcomm="no">gamle dager</tf>
+            <t stat="pref" tcomm="no">i gamle dager</t>
+            <t tcomm="no">før i tiden</t>
+            <t tcomm="no">gamle dager</t>
          </tg>
          <tg xml:lang="swe">
-            <tf stat="pref" tcomm="no">i gamla dagar</tf>
-            <tf tcomm="no">förr i tiden</tf>
-            <tf tcomm="no">fordom</tf>
+            <t stat="pref" tcomm="no">i gamla dagar</t>
+            <t tcomm="no">förr i tiden</t>
+            <t tcomm="no">fordom</t>
          </tg>
          <tg xml:lang="eng">
-            <tf stat="pref" tcomm="no">i gamle dager_ENG</tf>
+            <t stat="pref" tcomm="no">i gamle dager_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <tf stat="pref" tcomm="no">i gamle dager_DEU</tf>
+            <t stat="pref" tcomm="no">i gamle dager_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ennen vanhaa</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennen vanhaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">dellie</l>
+         <l pos="Adv">dellie</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -615,44 +615,44 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">da</t>
-            <tf pos="phrase_adv" tcomm="no">den gang</tf>
+            <t pos="Adv" stat="pref" tcomm="no">da</t>
+            <t pos="Adv" tcomm="no">den gang</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">då</t>
+            <t pos="Adv" stat="pref" tcomm="no">då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">da_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">da_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">da_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">da_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">silloin</t>
+            <t pos="Adv" stat="pref" tcomm="no">silloin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">derpå</t>
-            <t pos="adv" stat="notpref" tcomm="no">så</t>
+            <t pos="Adv" stat="notpref" tcomm="no">derpå</t>
+            <t pos="Adv" stat="notpref" tcomm="no">så</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="notpref" tcomm="no">därpå</t>
+            <t pos="Adv" stat="notpref" tcomm="no">därpå</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">derpå_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">derpå_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">derpå_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">derpå_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">sitten</t>
+            <t pos="Adv" stat="pref" tcomm="no">sitten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">duelie</l>
+         <l pos="Adv">duelie</l>
       </lg>
       <sources>
          <book name="s3" />
@@ -666,27 +666,27 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD_OTHER" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" tcomm="no">se der</tf>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">vær så god</tf>
+            <t pos="Adv" tcomm="no">se der</t>
+            <t pos="Adv" stat="pref" tcomm="no">vær så god</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">var så god</tf>
+            <t pos="Adv" stat="pref" tcomm="no">var så god</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">se der_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">se der_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">se der_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">se der_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">ole hyvä</t>
-            <t pos="phrase_adv" stat="notpref" tcomm="no">siinä on</t>
+            <t pos="Adv" stat="pref" tcomm="no">ole hyvä</t>
+            <t pos="Adv" stat="notpref" tcomm="no">siinä on</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">dæjman</l>
+         <l pos="Adv">dæjman</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -698,25 +698,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">i fjor</t>
+            <t pos="Adv" stat="pref" tcomm="no">i fjor</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">i fjol</t>
+            <t pos="Adv" stat="pref" tcomm="no">i fjol</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">i fjor_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i fjor_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">i fjor_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i fjor_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">viime vuonna</t>
+            <t pos="Adv" stat="pref" tcomm="no">viime vuonna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">eadtjohkelaakan</l>
+         <l pos="Adv">eadtjohkelaakan</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -726,30 +726,30 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på en ivrig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en modig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en energisk måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en flittig måte</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på en ivrig måte</t>
+            <t pos="Adv" tcomm="no">på en modig måte</t>
+            <t pos="Adv" tcomm="no">på en energisk måte</t>
+            <t pos="Adv" tcomm="no">på en flittig måte</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på ett ivrigt sätt</tf>
-            <tf pos="phrase_adv" tcomm="no">på ett energiskt sätt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på ett ivrigt sätt</t>
+            <t pos="Adv" tcomm="no">på ett energiskt sätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på en ivrig måte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en ivrig måte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på en ivrig måte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en ivrig måte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">innokkaasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">ahkerasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">innokkaasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ahkerasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">easkah</l>
+         <l pos="Adv">easkah</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -760,30 +760,30 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">først</t>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">først da</tf>
-            <tf pos="phrase_adv" tcomm="no">først nå</tf>
-            <tf pos="phrase_adv" tcomm="no">da først</tf>
-            <tf tcomm="no">nå først</tf>
-            <tf pos="phrase_adv" tcomm="no">nettopp da</tf>
+            <t pos="Adv" stat="notpref" tcomm="no">først</t>
+            <t pos="Adv" stat="pref" tcomm="no">først da</t>
+            <t pos="Adv" tcomm="no">først nå</t>
+            <t pos="Adv" tcomm="no">da først</t>
+            <t tcomm="no">nå først</t>
+            <t pos="Adv" tcomm="no">nettopp da</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">först då</tf>
+            <t pos="Adv" stat="pref" tcomm="no">först då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">først_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">først_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">først_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">først_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vasta</t>
+            <t pos="Adv" stat="pref" tcomm="no">vasta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">eensilaakan</l>
+         <l pos="Adv">eensilaakan</l>
       </lg>
       <sources>
          <book name="åa2" />
@@ -793,34 +793,34 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">ordentlig</t>
-            <t pos="adv" stat="notpref" tcomm="no">grundig</t>
-            <t pos="adv" stat="notpref" tcomm="no">skikkelig</t>
-            <tf pos="phrase_adv" tcomm="no">på en skikkelig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en ordentlig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en grundig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på skikkelig vis</tf>
+            <t pos="Adv" stat="pref" tcomm="no">ordentlig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">grundig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">skikkelig</t>
+            <t pos="Adv" tcomm="no">på en skikkelig måte</t>
+            <t pos="Adv" tcomm="no">på en ordentlig måte</t>
+            <t pos="Adv" tcomm="no">på en grundig måte</t>
+            <t pos="Adv" tcomm="no">på skikkelig vis</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ordentligt</t>
-            <tf pos="phrase_adv" tcomm="no">på ett ordentligt sätt</tf>
-            <tf pos="phrase_adv" tcomm="no">på ett grundigt sätt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">ordentligt</t>
+            <t pos="Adv" tcomm="no">på ett ordentligt sätt</t>
+            <t pos="Adv" tcomm="no">på ett grundigt sätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">ordentlig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ordentlig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">ordentlig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ordentlig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kunnolla</t>
-            <t pos="adv" stat="notpref" tcomm="no">hyvin</t>
+            <t pos="Adv" stat="pref" tcomm="no">kunnolla</t>
+            <t pos="Adv" stat="notpref" tcomm="no">hyvin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ektesne</l>
+         <l pos="Adv">ektesne</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -833,25 +833,25 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">sammen</t>
+            <t pos="Adv" stat="pref" tcomm="no">sammen</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">tillsammans</t>
+            <t pos="Adv" stat="pref" tcomm="no">tillsammans</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">sammen_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">sammen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">sammen_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">sammen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">yhdessä</t>
+            <t pos="Adv" stat="pref" tcomm="no">yhdessä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ennje</l>
+         <l pos="Adv">ennje</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -862,45 +862,45 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">ennå</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennå</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ännu</t>
+            <t pos="Adv" stat="pref" tcomm="no">ännu</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">ennå_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennå_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">ennå_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennå_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vielä</t>
+            <t pos="Adv" stat="pref" tcomm="no">vielä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>ved nektelse</re>
-            <tf pos="phrase_adv" tcomm="no">lenger nå</tf>
-            <tf pos="phrase_adv" tcomm="no">på noen måte</tf>
+            <t pos="Adv" tcomm="no">lenger nå</t>
+            <t pos="Adv" tcomm="no">på noen måte</t>
          </tg>
          <tg xml:lang="swe">
             <re>ved negation</re>
-            <tf pos="phrase_adv" tcomm="no">fortfarande</tf>
+            <t pos="Adv" tcomm="no">fortfarande</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">lenger nå_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lenger nå_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">lenger nå_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lenger nå_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">enää</t>
+            <t pos="Adv" stat="pref" tcomm="no">enää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">geesjelelaakan</l>
+         <l pos="Adv">geesjelelaakan</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -910,29 +910,29 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">ordentlig</t>
-            <t pos="adv" stat="notpref" tcomm="no">skikkelig</t>
-            <tf pos="phrase_adv" tcomm="no">på skikkelig vis</tf>
-            <tf pos="phrase_adv" tcomm="no">på en skikkelig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en ordentlig måte</tf>
+            <t pos="Adv" stat="pref" tcomm="no">ordentlig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">skikkelig</t>
+            <t pos="Adv" tcomm="no">på skikkelig vis</t>
+            <t pos="Adv" tcomm="no">på en skikkelig måte</t>
+            <t pos="Adv" tcomm="no">på en ordentlig måte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ordentligt</t>
+            <t pos="Adv" stat="pref" tcomm="no">ordentligt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">ordentlig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ordentlig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">ordentlig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ordentlig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kunnolla</t>
+            <t pos="Adv" stat="pref" tcomm="no">kunnolla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">giesege</l>
+         <l pos="Adv">giesege</l>
       </lg>
       <sources>
          <book name="åa4" />
@@ -944,25 +944,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om sommeren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om sommeren</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om sommrarna</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om sommrarna</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om sommeren_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">om sommeren_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om sommeren_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">om sommeren_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kesällä</t>
+            <t pos="Adv" stat="pref" tcomm="no">kesällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">gïjrege</l>
+         <l pos="Adv">gïjrege</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -974,25 +974,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om våren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om våren</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om vårarna</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om vårarna</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om våren_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">om våren_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om våren_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">om våren_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">keväällä</t>
+            <t pos="Adv" stat="pref" tcomm="no">keväällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">hijvenlaakan</l>
+         <l pos="Adv">hijvenlaakan</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -1002,27 +1002,27 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på en bra måte</tf>
-            <t pos="adv">godt</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en bra måte</t>
+            <t pos="Adv">godt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">bra</t>
-            <tf pos="phrase_adv" tcomm="no">på ett bra sätt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">bra</t>
+            <t pos="Adv" tcomm="no">på ett bra sätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">godt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">godt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">godt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">godt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">hyvin</t>
+            <t pos="Adv" stat="pref" tcomm="no">hyvin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">iktegisth</l>
+         <l pos="Adv">iktegisth</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -1033,26 +1033,26 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">alltid</t>
-            <t pos="adv" stat="notpref" tcomm="no">bestandig</t>
+            <t pos="Adv" stat="pref" tcomm="no">alltid</t>
+            <t pos="Adv" stat="notpref" tcomm="no">bestandig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">alltid</t>
+            <t pos="Adv" stat="pref" tcomm="no">alltid</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">alltid_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">alltid_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">alltid_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">alltid_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">jatkuvasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">jatkuvasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">iktesth</l>
+         <l pos="Adv">iktesth</l>
       </lg>
       <sources>
          <book name="s4" />
@@ -1062,26 +1062,26 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">bestandig</t>
-            <t pos="adv" stat="notpref" tcomm="no">alltid</t>
+            <t pos="Adv" stat="pref" tcomm="no">bestandig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">alltid</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ständigt</t>
+            <t pos="Adv" stat="pref" tcomm="no">ständigt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">bestandig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">bestandig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">bestandig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">bestandig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">jatkuvasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">jatkuvasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ikth</l>
+         <l pos="Adv">ikth</l>
       </lg>
       <sources>
          <book name="åa2" />
@@ -1092,25 +1092,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">en gang</tf>
+            <t pos="Adv" stat="pref" tcomm="no">en gang</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">en gång</tf>
+            <t pos="Adv" stat="pref" tcomm="no">en gång</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">en gang_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">en gang_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">en gang_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">en gang_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kerran</t>
+            <t pos="Adv" stat="pref" tcomm="no">kerran</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">jillene</l>
+         <l pos="Adv">jillene</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -1120,26 +1120,26 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i vest</tf>
-            <t pos="adv" stat="notpref" tcomm="no">vestpå</t>
+            <t pos="Adv" stat="pref" tcomm="no">i vest</t>
+            <t pos="Adv" stat="notpref" tcomm="no">vestpå</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i väst</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i väst</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i vest_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i vest_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i vest_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i vest_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">lännessä</t>
+            <t pos="Adv" stat="pref" tcomm="no">lännessä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">jirredeaereden</l>
+         <l pos="Adv">jirredeaereden</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -1149,25 +1149,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i morgen tidlig</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i morgen tidlig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">tidigt imorgon</tf>
+            <t pos="Adv" stat="pref" tcomm="no">tidigt imorgon</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i morgen tidlig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i morgen tidlig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i morgen tidlig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i morgen tidlig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">huomenna aamulla</t>
+            <t pos="Adv" stat="pref" tcomm="no">huomenna aamulla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">jirreden</l>
+         <l pos="Adv">jirreden</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -1181,25 +1181,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i morgen</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i morgen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">imorgon</tf>
+            <t pos="Adv" stat="pref" tcomm="no">imorgon</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i morgen_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i morgen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i morgen_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i morgen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">huomenna</t>
+            <t pos="Adv" stat="pref" tcomm="no">huomenna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">jååktan</l>
+         <l pos="Adv">jååktan</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -1210,25 +1210,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i går</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i går</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">igår</tf>
+            <t pos="Adv" stat="pref" tcomm="no">igår</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i går_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i går_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i går_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i går_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">eilen</t>
+            <t pos="Adv" stat="pref" tcomm="no">eilen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">luvlene</l>
+         <l pos="Adv">luvlene</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -1238,27 +1238,27 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <tf tcomm="no">i øst</tf>
-            <t pos="adv" stat="pref" tcomm="no">østpå</t>
+            <t tcomm="no">i øst</t>
+            <t pos="Adv" stat="pref" tcomm="no">østpå</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">östpå</t>
+            <t pos="Adv" stat="pref" tcomm="no">östpå</t>
          </tg>
          <tg xml:lang="eng">
-            <tf tcomm="no">i øst_ENG</tf>
+            <t tcomm="no">i øst_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <tf tcomm="no">i øst_DEU</tf>
+            <t tcomm="no">i øst_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">idässä</t>
-            <t pos="adv" stat="notpref" tcomm="no">itä</t>
+            <t pos="Adv" stat="pref" tcomm="no">idässä</t>
+            <t pos="Adv" stat="notpref" tcomm="no">itä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">minngemes</l>
+         <l pos="Adv">minngemes</l>
       </lg>
       <sources>
          <book name="s3" />
@@ -1271,29 +1271,29 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">til slutt</tf>
-            <tf pos="phrase_adv" tcomm="no">til sist</tf>
-            <tf tcomm="no">på det siste</tf>
-            <t pos="adv" stat="notpref" tcomm="no">sist</t>
+            <t pos="Adv" stat="pref" tcomm="no">til slutt</t>
+            <t pos="Adv" tcomm="no">til sist</t>
+            <t tcomm="no">på det siste</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sist</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">till sist</tf>
-            <tf pos="phrase_adv" tcomm="no">till slut</tf>
+            <t pos="Adv" stat="pref" tcomm="no">till sist</t>
+            <t pos="Adv" tcomm="no">till slut</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">til slutt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">til slutt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">til slutt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">til slutt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">lopuksi</t>
+            <t pos="Adv" stat="pref" tcomm="no">lopuksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">mojhteleslaakan</l>
+         <l pos="Adv">mojhteleslaakan</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -1303,28 +1303,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">med omtanke</tf>
-            <tf tcomm="no">på en forsiktig måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">forsiktig</t>
+            <t pos="Adv" stat="pref" tcomm="no">med omtanke</t>
+            <t tcomm="no">på en forsiktig måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">forsiktig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">med omtanke</tf>
-            <t pos="adv" stat="notpref" tcomm="no">forsiktigt</t>
+            <t pos="Adv" stat="pref" tcomm="no">med omtanke</t>
+            <t pos="Adv" stat="notpref" tcomm="no">forsiktigt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">med omtanke_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">med omtanke_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">med omtanke_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">med omtanke_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">huolellisesti</t>
+            <t pos="Adv" stat="pref" tcomm="no">huolellisesti</t>
          </tg>
       </mg>
    </e>
    <e exclude="nobsma">
       <lg>
-         <l pos="adv">naemhtie</l>
+         <l pos="Adv">naemhtie</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -1336,32 +1336,32 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">slik</t>
-            <t pos="adv" stat="notpref" tcomm="no">sånn</t>
-            <tf pos="phrase_adv" tcomm="no">på denne måten</tf>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på den her måten</tf>
-            <tf pos="phrase_adv">på dette viset</tf>
-            <tf pos="phrase_adv">på det her viset</tf>
+            <t pos="Adv" stat="notpref" tcomm="no">slik</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sånn</t>
+            <t pos="Adv" tcomm="no">på denne måten</t>
+            <t pos="Adv" stat="pref" tcomm="no">på den her måten</t>
+            <t pos="Adv">på dette viset</t>
+            <t pos="Adv">på det her viset</t>
          </tg>
          <tg xml:lang="swe">
-            <tf stat="pref" tcomm="no">så här</tf>
-            <tf stat="pref" tcomm="no">på det här sättet</tf>
-            <tf stat="pref" tcomm="no">på det här viset</tf>
+            <t stat="pref" tcomm="no">så här</t>
+            <t stat="pref" tcomm="no">på det här sättet</t>
+            <t stat="pref" tcomm="no">på det här viset</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="yes">slik_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="yes">slik_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="yes">slik_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="yes">slik_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">näin</t>
+            <t pos="Adv" stat="pref" tcomm="no">näin</t>
          </tg>
       </mg>
    </e>
    <e exclude="nobsma">
       <lg>
-         <l pos="adv">nimhtie</l>
+         <l pos="Adv">nimhtie</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -1375,37 +1375,37 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">slik</t>
-            <t pos="adv" stat="notpref" tcomm="no">sånn</t>
-            <tf pos="phrase_adv" tcomm="no">på den måten</tf>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på den der måten</tf>
-            <tf pos="phrase_adv" tcomm="no">på det viset</tf>
-            <tf pos="phrase_adv">på det der viset</tf>
+            <t pos="Adv" stat="notpref" tcomm="no">slik</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sånn</t>
+            <t pos="Adv" tcomm="no">på den måten</t>
+            <t pos="Adv" stat="pref" tcomm="no">på den der måten</t>
+            <t pos="Adv" tcomm="no">på det viset</t>
+            <t pos="Adv">på det der viset</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">så</t>
-            <tf stat="notpref" tcomm="no">så där</tf>
-            <tf stat="notpref" tcomm="no">på det sättet</tf>
-            <tf stat="notpref" tcomm="no">på det viset</tf>
+            <t pos="Adv" stat="pref" tcomm="no">så</t>
+            <t stat="notpref" tcomm="no">så där</t>
+            <t stat="notpref" tcomm="no">på det sättet</t>
+            <t stat="notpref" tcomm="no">på det viset</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="yes">slik_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="yes">slik_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="yes">slik_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="yes">slik_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">näin</t>
-            <t pos="adv" stat="notpref" tcomm="no">täten</t>
-            <t pos="adv" stat="notpref" tcomm="no">tällä tavoin</t>
-            <t pos="adv" stat="notpref" tcomm="no">siten</t>
-            <t pos="adv" stat="notpref" tcomm="no">sitten</t>
+            <t pos="Adv" stat="pref" tcomm="no">näin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">täten</t>
+            <t pos="Adv" stat="notpref" tcomm="no">tällä tavoin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">siten</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sitten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">njaelkieslaakan</l>
+         <l pos="Adv">njaelkieslaakan</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -1415,28 +1415,28 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD_OTHER" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">godt</t>
-            <tf tcomm="no">på en behagelig måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på en god måte</tf>
+            <t pos="Adv" stat="pref" tcomm="no">godt</t>
+            <t tcomm="no">på en behagelig måte</t>
+            <t pos="Adv" tcomm="no">på en god måte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">gott</t>
+            <t pos="Adv" stat="pref" tcomm="no">gott</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">godt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">godt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">godt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">godt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">hyvin</t>
-            <t pos="adv" stat="notpref" tcomm="no">mukavasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">hyvin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">mukavasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">noerhtene</l>
+         <l pos="Adv">noerhtene</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -1446,26 +1446,26 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <tf tcomm="no">i nord</tf>
-            <t pos="adv" stat="pref" tcomm="no">nordpå</t>
+            <t tcomm="no">i nord</t>
+            <t pos="Adv" stat="pref" tcomm="no">nordpå</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i norr</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i norr</t>
          </tg>
          <tg xml:lang="eng">
-            <tf tcomm="no">i nord_ENG</tf>
+            <t tcomm="no">i nord_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <tf tcomm="no">i nord_DEU</tf>
+            <t tcomm="no">i nord_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">pohjoisessa</t>
+            <t pos="Adv" stat="pref" tcomm="no">pohjoisessa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">nuekies</l>
+         <l pos="Adv">nuekies</l>
       </lg>
       <sources>
          <book name="s3" />
@@ -1475,27 +1475,27 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">nok</t>
-            <t pos="adv" stat="notpref" tcomm="no">tilstrekkelig</t>
+            <t pos="Adv" stat="pref" tcomm="no">nok</t>
+            <t pos="Adv" stat="notpref" tcomm="no">tilstrekkelig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">nog</t>
+            <t pos="Adv" stat="pref" tcomm="no">nog</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">nok_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">nok_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">nok_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">nok_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kyllin</t>
-            <t pos="adv" stat="notpref" tcomm="no">kylliksi</t>
+            <t pos="Adv" stat="pref" tcomm="no">kyllin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">kylliksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">numhtie</l>
+         <l pos="Adv">numhtie</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -1505,28 +1505,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf stat="pref" tcomm="no">på den der måten</tf>
-            <t pos="adv" stat="notpref" tcomm="yes">slik</t>
-            <t pos="adv" stat="notpref" tcomm="yes">så</t>
+            <t stat="pref" tcomm="no">på den der måten</t>
+            <t pos="Adv" stat="notpref" tcomm="yes">slik</t>
+            <t pos="Adv" stat="notpref" tcomm="yes">så</t>
          </tg>
          <tg xml:lang="swe">
-            <tf stat="pref" tcomm="no">på det sättet</tf>
+            <t stat="pref" tcomm="no">på det sättet</t>
          </tg>
          <tg xml:lang="eng">
-            <tf stat="pref" tcomm="no">på den der måten_ENG</tf>
+            <t stat="pref" tcomm="no">på den der måten_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <tf stat="pref" tcomm="no">på den der måten_DEU</tf>
+            <t stat="pref" tcomm="no">på den der måten_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">näin</t>
-            <t pos="adv" stat="notpref" tcomm="no">sillä tavalla</t>
+            <t pos="Adv" stat="pref" tcomm="no">näin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sillä tavalla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">nåakelaakan</l>
+         <l pos="Adv">nåakelaakan</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -1536,27 +1536,27 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf stat="pref" tcomm="no">på dårlig vis</tf>
-            <tf tcomm="no">på en dårlig måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">dårlig</t>
+            <t stat="pref" tcomm="no">på dårlig vis</t>
+            <t tcomm="no">på en dårlig måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">dårlig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf stat="pref" tcomm="no">dåligt</tf>
+            <t stat="pref" tcomm="no">dåligt</t>
          </tg>
          <tg xml:lang="eng">
-            <tf stat="pref" tcomm="no">på dårlig vis_ENG</tf>
+            <t stat="pref" tcomm="no">på dårlig vis_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <tf stat="pref" tcomm="no">på dårlig vis_DEU</tf>
+            <t stat="pref" tcomm="no">på dårlig vis_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">huonosti</t>
+            <t pos="Adv" stat="pref" tcomm="no">huonosti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">oktegh</l>
+         <l pos="Adv">oktegh</l>
       </lg>
       <sources>
          <book name="åa4" />
@@ -1570,27 +1570,27 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">alene</t>
-            <t pos="adv" stat="notpref" tcomm="no">ensomt</t>
-            <t pos="adv" stat="notpref" tcomm="no">ensom</t>
+            <t pos="Adv" stat="pref" tcomm="no">alene</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ensomt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ensom</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ensam</t>
+            <t pos="Adv" stat="pref" tcomm="no">ensam</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">alene_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">alene_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">alene_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">alene_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">yksin</t>
+            <t pos="Adv" stat="pref" tcomm="no">yksin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">seamma</l>
+         <l pos="Adv">seamma</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -1601,29 +1601,29 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">samme</t>
-            <tf pos="phrase_adv" tcomm="no">det kan være det samme</tf>
-            <t pos="adv" stat="notpref" tcomm="no">like</t>
-            <t pos="adv" stat="notpref" tcomm="no">lik</t>
+            <t pos="Adv" stat="pref" tcomm="no">samme</t>
+            <t pos="Adv" tcomm="no">det kan være det samme</t>
+            <t pos="Adv" stat="notpref" tcomm="no">like</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lik</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">samme</t>
-            <t pos="adv" stat="notpref" tcomm="no">lika</t>
+            <t pos="Adv" stat="pref" tcomm="no">samme</t>
+            <t pos="Adv" stat="notpref" tcomm="no">lika</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">samme_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">samme_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">samme_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">samme_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">samanlainen</t>
+            <t pos="Adv" stat="pref" tcomm="no">samanlainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">seammalaakan</l>
+         <l pos="Adv">seammalaakan</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -1633,27 +1633,27 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på samme vis</tf>
-            <t pos="adv" stat="notpref" tcomm="no">likedan</t>
-            <tf pos="phrase_adv" tcomm="no">på samme måte</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på samme vis</t>
+            <t pos="Adv" stat="notpref" tcomm="no">likedan</t>
+            <t pos="Adv" tcomm="no">på samme måte</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på samme vis</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på samme vis</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på samme vis_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på samme vis_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på samme vis_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på samme vis_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">samanlainen</t>
+            <t pos="Adv" stat="pref" tcomm="no">samanlainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">seenhte</l>
+         <l pos="Adv">seenhte</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -1663,25 +1663,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">sent</t>
+            <t pos="Adv" stat="pref" tcomm="no">sent</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">sent</t>
+            <t pos="Adv" stat="pref" tcomm="no">sent</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">sent_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">sent_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">sent_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">sent_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">myöhä</t>
+            <t pos="Adv" stat="pref" tcomm="no">myöhä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">sjeavodslaakan</l>
+         <l pos="Adv">sjeavodslaakan</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -1691,30 +1691,30 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" tcomm="no">på en lydløs måte</tf>
-            <tf tcomm="no">på en stille måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">stille</t>
-            <t pos="adv" stat="pref" tcomm="no">lydløs</t>
+            <t pos="Adv" tcomm="no">på en lydløs måte</t>
+            <t tcomm="no">på en stille måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">stille</t>
+            <t pos="Adv" stat="pref" tcomm="no">lydløs</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">tyst</t>
-            <t pos="adv" stat="notpref" tcomm="no">ljudlös</t>
+            <t pos="Adv" stat="pref" tcomm="no">tyst</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ljudlös</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">på en lydløs måte_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">på en lydløs måte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">på en lydløs måte_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">på en lydløs måte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">hilja</t>
-            <t pos="adv" stat="notpref" tcomm="no">äännettömästi</t>
+            <t pos="Adv" stat="pref" tcomm="no">hilja</t>
+            <t pos="Adv" stat="notpref" tcomm="no">äännettömästi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">sneehpeslaakan</l>
+         <l pos="Adv">sneehpeslaakan</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -1724,29 +1724,29 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">raskt</t>
-            <t pos="adv" stat="notpref" tcomm="no">rask</t>
-            <tf tcomm="no">på en rask måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">snar</t>
-            <tf pos="phrase_adv" tcomm="no">på en snar måte</tf>
+            <t pos="Adv" stat="pref" tcomm="no">raskt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">rask</t>
+            <t tcomm="no">på en rask måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">snar</t>
+            <t pos="Adv" tcomm="no">på en snar måte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">snabbt</t>
+            <t pos="Adv" stat="pref" tcomm="no">snabbt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">raskt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">raskt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">raskt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">raskt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">nopeasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">nopeasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">soejmetje</l>
+         <l pos="Adv">soejmetje</l>
       </lg>
       <sources>
          <book name="åa4" />
@@ -1756,31 +1756,31 @@ For the full license text, see the link above.</lic>
             <sem class="MOVEMENT_A" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref">langsomt</t>
-            <t pos="phrase_adv" stat="notpref" tcomm="no">ganske sakte</t>
-            <t pos="adv" stat="notpref" tcomm="no">forsiktig</t>
-            <t pos="adv" stat="notpref" tcomm="no">sakte</t>
+            <t pos="Adv" stat="pref">langsomt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ganske sakte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">forsiktig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sakte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref">långsamt</t>
-            <tf pos="phrase_adv" stat="notpref" tcomm="no">ganska sakta</tf>
+            <t pos="Adv" stat="pref">långsamt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ganska sakta</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">ganske sakte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ganske sakte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">ganske sakte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ganske sakte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">hissukseen</t>
-            <t pos="adv" stat="notpref" tcomm="no">pikku hiljaa</t>
-            <t pos="adv" stat="notpref" tcomm="no">rauhallisesti</t>
+            <t pos="Adv" stat="pref" tcomm="no">hissukseen</t>
+            <t pos="Adv" stat="notpref" tcomm="no">pikku hiljaa</t>
+            <t pos="Adv" stat="notpref" tcomm="no">rauhallisesti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">soejmi</l>
+         <l pos="Adv">soejmi</l>
       </lg>
       <sources>
          <book name="åa4" />
@@ -1791,46 +1791,46 @@ For the full license text, see the link above.</lic>
             <sem class="MOVEMENT_A" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">sakte</t>
-            <t pos="adv" stat="notpref" tcomm="no">langsomt</t>
+            <t pos="Adv" stat="pref" tcomm="no">sakte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">langsomt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">sakta</t>
+            <t pos="Adv" stat="pref" tcomm="no">sakta</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">sakte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">sakte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">sakte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">sakte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">hitaasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">hissukseen</t>
-            <t pos="adv" stat="notpref" tcomm="no">pikku hiljaa</t>
-            <t pos="adv" stat="notpref" tcomm="no">rauhallisesti</t>
+            <t pos="Adv" stat="pref" tcomm="no">hitaasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">hissukseen</t>
+            <t pos="Adv" stat="notpref" tcomm="no">pikku hiljaa</t>
+            <t pos="Adv" stat="notpref" tcomm="no">rauhallisesti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">forsiktig</t>
+            <t pos="Adv" stat="pref" tcomm="no">forsiktig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">försiktig</t>
+            <t pos="Adv" stat="pref" tcomm="no">försiktig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">forsiktig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">forsiktig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">forsiktig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">forsiktig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">varovasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">varovasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tjaebpieslaakan</l>
+         <l pos="Adv">tjaebpieslaakan</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -1842,28 +1842,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">fint</t>
-            <tf tcomm="no">på en fin måte</tf>
-            <tf pos="phrase_adv" tcomm="no">på et fint vis</tf>
+            <t pos="Adv" stat="pref" tcomm="no">fint</t>
+            <t tcomm="no">på en fin måte</t>
+            <t pos="Adv" tcomm="no">på et fint vis</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">fint</t>
-            <tf pos="phrase_adv" tcomm="no">på ett fint sätt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">fint</t>
+            <t pos="Adv" tcomm="no">på ett fint sätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">fint_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">fint_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">fint_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">fint_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kauniisti</t>
+            <t pos="Adv" stat="pref" tcomm="no">kauniisti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tjiehpieslaakan</l>
+         <l pos="Adv">tjiehpieslaakan</l>
       </lg>
       <sources>
          <book name="åa5" />
@@ -1873,30 +1873,30 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på dyktig måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">ordentlig</t>
-            <t pos="adv" stat="notpref" tcomm="no">omhyggelig</t>
-            <t pos="adv" stat="notpref" tcomm="no">netthendt</t>
+            <t pos="Adv" stat="pref" tcomm="no">på dyktig måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">ordentlig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">omhyggelig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">netthendt</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på ett duktigt sätt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på ett duktigt sätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på dyktig måte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på dyktig måte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på dyktig måte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på dyktig måte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">huolellisesti</t>
-            <t pos="adv" stat="notpref" tcomm="no">varovasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">kunnolla</t>
+            <t pos="Adv" stat="pref" tcomm="no">huolellisesti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">varovasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">kunnolla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tjimkeslaakan</l>
+         <l pos="Adv">tjimkeslaakan</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -1906,28 +1906,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">hardt</t>
-            <tf pos="phrase_adv" tcomm="no">av alle krefter</tf>
-            <t pos="adv" stat="notpref" tcomm="no">energisk</t>
+            <t pos="Adv" stat="pref" tcomm="no">hardt</t>
+            <t pos="Adv" tcomm="no">av alle krefter</t>
+            <t pos="Adv" stat="notpref" tcomm="no">energisk</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">hårt</t>
+            <t pos="Adv" stat="pref" tcomm="no">hårt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">hardt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hardt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">hardt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hardt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kovasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">kaikin voimin</t>
+            <t pos="Adv" stat="pref" tcomm="no">kovasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">kaikin voimin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tjåanghkan</l>
+         <l pos="Adv">tjåanghkan</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -1938,27 +1938,27 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">sammen</t>
-            <t pos="adv" stat="notpref" tcomm="no">samlet</t>
+            <t pos="Adv" stat="pref" tcomm="no">sammen</t>
+            <t pos="Adv" stat="notpref" tcomm="no">samlet</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">samman</t>
+            <t pos="Adv" stat="pref" tcomm="no">samman</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">sammen_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">sammen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">sammen_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">sammen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">yhteen</t>
-            <t pos="adv" stat="notpref" tcomm="no">kokoon</t>
+            <t pos="Adv" stat="pref" tcomm="no">yhteen</t>
+            <t pos="Adv" stat="notpref" tcomm="no">kokoon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">varke</l>
+         <l pos="Adv">varke</l>
       </lg>
       <sources>
          <book name="åa1" />
@@ -1971,31 +1971,31 @@ For the full license text, see the link above.</lic>
             <sem class="BODY_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">fort</t>
-            <t pos="adv" stat="notpref" tcomm="no">snart</t>
-            <t pos="adv" stat="notpref" tcomm="no">rask</t>
-            <t pos="adv" stat="notpref" tcomm="no">raskt</t>
-            <t pos="adv" stat="notpref" tcomm="no">hurtig</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort</t>
+            <t pos="Adv" stat="notpref" tcomm="no">snart</t>
+            <t pos="Adv" stat="notpref" tcomm="no">rask</t>
+            <t pos="Adv" stat="notpref" tcomm="no">raskt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">hurtig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">fort</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">fort_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">fort_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">nopeasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">aikaisin</t>
-            <t pos="adv" stat="notpref" tcomm="no">pian</t>
+            <t pos="Adv" stat="pref" tcomm="no">nopeasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">aikaisin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">pian</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">varki</l>
+         <l pos="Adv">varki</l>
       </lg>
       <sources>
          <book name="s3" />
@@ -2005,28 +2005,28 @@ For the full license text, see the link above.</lic>
             <sem class="BODY_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">fort</t>
-            <t pos="adv" stat="notpref" tcomm="no">snart</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort</t>
+            <t pos="Adv" stat="notpref" tcomm="no">snart</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">fort</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">fort_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">fort_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">fort_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">nopeasti</t>
-            <t pos="adv" stat="notpref" tcomm="no">aikaisin</t>
-            <t pos="adv" stat="notpref" tcomm="no">pian</t>
+            <t pos="Adv" stat="pref" tcomm="no">nopeasti</t>
+            <t pos="Adv" stat="notpref" tcomm="no">aikaisin</t>
+            <t pos="Adv" stat="notpref" tcomm="no">pian</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">væjkeleslaakan</l>
+         <l pos="Adv">væjkeleslaakan</l>
       </lg>
       <sources>
          <book name="åa2" />
@@ -2036,28 +2036,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på en flink måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">flink</t>
-            <tf pos="phrase_adv" tcomm="no">på en dyktig måte</tf>
-            <t pos="adv" stat="notpref" tcomm="no">dyktig</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en flink måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">flink</t>
+            <t pos="Adv" tcomm="no">på en dyktig måte</t>
+            <t pos="Adv" stat="notpref" tcomm="no">dyktig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">duktigt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">duktigt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på en flink måte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en flink måte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på en flink måte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en flink måte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">taitavasti</t>
+            <t pos="Adv" stat="pref" tcomm="no">taitavasti</t>
          </tg>
       </mg>
    </e>
    <e exclude="smanob">
       <lg>
-         <l pos="adv">vïssjeleslaakan</l>
+         <l pos="Adv">vïssjeleslaakan</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -2067,26 +2067,26 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på en tålmodig og utholdende måte</tf>
-            <tf tcomm="no">tålmodig og utholdende</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på en tålmodig og utholdende måte</t>
+            <t tcomm="no">tålmodig og utholdende</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">tålmodigt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">tålmodigt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på en tålmodig og utholdende måte_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en tålmodig og utholdende måte_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på en tålmodig og utholdende måte_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på en tålmodig og utholdende måte_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kärsivällisesti</t>
+            <t pos="Adv" stat="pref" tcomm="no">kärsivällisesti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">åarjene</l>
+         <l pos="Adv">åarjene</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -2096,26 +2096,26 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i sør</tf>
-            <t pos="adv" stat="notpref" tcomm="no">sørpå</t>
+            <t pos="Adv" stat="pref" tcomm="no">i sør</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sørpå</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i syd</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i syd</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i sør_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i sør_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i sør_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i sør_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">etelässä</t>
+            <t pos="Adv" stat="pref" tcomm="no">etelässä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ålkene</l>
+         <l pos="Adv">ålkene</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -2126,25 +2126,25 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">ute</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ute</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">ute_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">ute_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ulkona</t>
+            <t pos="Adv" stat="pref" tcomm="no">ulkona</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ålkoelisnie</l>
+         <l pos="Adv">ålkoelisnie</l>
       </lg>
       <sources>
          <book name="s2" />
@@ -2154,26 +2154,26 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">utenfor</t>
-            <tf pos="phrase_adv" tcomm="no">på utsiden</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utenfor</t>
+            <t pos="Adv" tcomm="no">på utsiden</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">utanför</t>
+            <t pos="Adv" stat="pref" tcomm="no">utanför</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">utenfor_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">utenfor_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">utenfor_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">utenfor_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ulkopuolella</t>
+            <t pos="Adv" stat="pref" tcomm="no">ulkopuolella</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ålkone</l>
+         <l pos="Adv">ålkone</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -2184,25 +2184,25 @@ For the full license text, see the link above.</lic>
             <sem class="PLACE_STAYING" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">ute</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">ute</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">ute_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">ute_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">ute_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ulkona</t>
+            <t pos="Adv" stat="pref" tcomm="no">ulkona</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ånnetji</l>
+         <l pos="Adv">ånnetji</l>
       </lg>
       <sources>
          <book name="dej" />
@@ -2215,28 +2215,28 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">litt</t>
-            <tf pos="phrase_adv" tcomm="no">om en kort stund</tf>
-            <tf pos="phrase_adv" tcomm="no">om litt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">litt</t>
+            <t pos="Adv" tcomm="no">om en kort stund</t>
+            <t pos="Adv" tcomm="no">om litt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">lite</t>
-            <tf pos="phrase_adv" tcomm="no">lite grann</tf>
+            <t pos="Adv" stat="pref" tcomm="no">lite</t>
+            <t pos="Adv" tcomm="no">lite grann</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">litt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">litt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">litt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">litt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vähäsen</t>
+            <t pos="Adv" stat="pref" tcomm="no">vähäsen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">åvtesne</l>
+         <l pos="Adv">åvtesne</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -2248,27 +2248,27 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">før i tiden</tf>
-            <t pos="adv" stat="notpref" tcomm="no">før</t>
-            <t pos="adv" stat="notpref" tcomm="no">tidligere</t>
+            <t pos="Adv" stat="pref" tcomm="no">før i tiden</t>
+            <t pos="Adv" stat="notpref" tcomm="no">før</t>
+            <t pos="Adv" stat="notpref" tcomm="no">tidligere</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">förr i tiden</tf>
+            <t pos="Adv" stat="pref" tcomm="no">förr i tiden</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">før i tiden_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">før i tiden_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">før i tiden_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">før i tiden_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ennen vanhaa</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennen vanhaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">dejpeli</l>
+         <l pos="Adv">dejpeli</l>
       </lg>
       <sources>
          <book name="åa4" />
@@ -2281,27 +2281,27 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">før i tiden</tf>
-            <tf pos="phrase_adv" tcomm="no">i gamle dager</tf>
-            <tf tcomm="no">gamle dager</tf>
+            <t pos="Adv" stat="pref" tcomm="no">før i tiden</t>
+            <t pos="Adv" tcomm="no">i gamle dager</t>
+            <t tcomm="no">gamle dager</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">förr i tiden</tf>
+            <t pos="Adv" stat="pref" tcomm="no">förr i tiden</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">før i tiden_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">før i tiden_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">før i tiden_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">før i tiden_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">entisaikaan</t>
+            <t pos="Adv" stat="pref" tcomm="no">entisaikaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tjaktjege</l>
+         <l pos="Adv">tjaktjege</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -2312,25 +2312,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om høsten</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om høsten</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om höstarna</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om höstarna</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om høsten_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">om høsten_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om høsten_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">om høsten_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">syksyllä</t>
+            <t pos="Adv" stat="pref" tcomm="no">syksyllä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">biejjege</l>
+         <l pos="Adv">biejjege</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <sources>
@@ -2341,25 +2341,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf stat="pref" tcomm="no">om dagen</tf>
+            <t stat="pref" tcomm="no">om dagen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf stat="pref" tcomm="no">om dagarna</tf>
+            <t stat="pref" tcomm="no">om dagarna</t>
          </tg>
          <tg xml:lang="eng">
-            <tf stat="pref" tcomm="no">om dagen_ENG</tf>
+            <t stat="pref" tcomm="no">om dagen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <tf stat="pref" tcomm="no">om dagen_DEU</tf>
+            <t stat="pref" tcomm="no">om dagen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">päivällä</t>
+            <t pos="Adv" stat="pref" tcomm="no">päivällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">nåljode</l>
+         <l pos="Adv">nåljode</l>
       </lg>
       <sources>
          <book name="s4" />
@@ -2369,26 +2369,26 @@ For the full license text, see the link above.</lic>
             <sem class="REINDEER" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">hornløs</t>
+            <t pos="Adv" stat="pref" tcomm="no">hornløs</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">hornlös</t>
+            <t pos="Adv" stat="pref" tcomm="no">hornlös</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">hornløs_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hornløs_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">hornløs_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hornløs_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">sarveton</t>
-            <t pos="adv" stat="notpref" tcomm="no">nupo</t>
+            <t pos="Adv" stat="pref" tcomm="no">sarveton</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nupo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">reaktoe</l>
+         <l pos="Adv">reaktoe</l>
       </lg>
       <sources>
          <book name="s1" />
@@ -2401,28 +2401,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">sant</t>
-            <t pos="adv" stat="pref" tcomm="no">riktig</t>
-            <t pos="adv" stat="notpref" tcomm="no">rett</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sant</t>
+            <t pos="Adv" stat="pref" tcomm="no">riktig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">rett</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">rätt</t>
+            <t pos="Adv" stat="pref" tcomm="no">rätt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">sant_ENG</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sant_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">sant_DEU</t>
+            <t pos="Adv" stat="notpref" tcomm="no">sant_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">totta</t>
-            <t pos="adv" stat="notpref" tcomm="no">oikein</t>
+            <t pos="Adv" stat="pref" tcomm="no">totta</t>
+            <t pos="Adv" stat="notpref" tcomm="no">oikein</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tjööjjeste</l>
+         <l pos="Adv">tjööjjeste</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <sources>
@@ -2433,25 +2433,25 @@ For the full license text, see the link above.</lic>
             <sem class="ILLNESS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">kvalm</t>
+            <t pos="Adv" stat="pref" tcomm="no">kvalm</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">illamående</t>
+            <t pos="Adv" stat="pref" tcomm="no">illamående</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">kvalm_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">kvalm_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">kvalm_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">kvalm_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">pahoinvointinen</t>
+            <t pos="Adv" stat="pref" tcomm="no">pahoinvointinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">kråavvoehrudtjen</l>
+         <l pos="Adv">kråavvoehrudtjen</l>
       </lg>
       <sources>
          <book name="åa6" />
@@ -2461,25 +2461,25 @@ For the full license text, see the link above.</lic>
             <sem class="BODY_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">krumrygget</t>
+            <t pos="Adv" stat="pref" tcomm="no">krumrygget</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">puckelryggad</t>
+            <t pos="Adv" stat="pref" tcomm="no">puckelryggad</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">krumrygget_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">krumrygget_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">krumrygget_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">krumrygget_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">kyyryselkäinen</t>
+            <t pos="Adv" stat="pref" tcomm="no">kyyryselkäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">iehkeden</l>
+         <l pos="Adv">iehkeden</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -2489,25 +2489,25 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">om kvelden</tf>
+            <t pos="Adv" stat="pref" tcomm="no">om kvelden</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på kvällen</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på kvällen</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om kvelden_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">om kvelden_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">om kvelden_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">om kvelden_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">ilta</t>
+            <t pos="Adv" stat="pref" tcomm="no">ilta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">veele</l>
+         <l pos="Adv">veele</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -2517,28 +2517,28 @@ For the full license text, see the link above.</lic>
             <sem class="SCHOOL_ADV" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">nøyaktig</t>
-            <t pos="adv" stat="notpref" tcomm="no">godt</t>
-            <t pos="adv" stat="notpref" tcomm="no">nøye</t>
-            <t pos="adv" stat="notpref" tcomm="no">vel</t>
+            <t pos="Adv" stat="pref" tcomm="no">nøyaktig</t>
+            <t pos="Adv" stat="notpref" tcomm="no">godt</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nøye</t>
+            <t pos="Adv" stat="notpref" tcomm="no">vel</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">väl</t>
+            <t pos="Adv" stat="pref" tcomm="no">väl</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">nøyaktig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">nøyaktig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">nøyaktig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">nøyaktig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vara</t>
+            <t pos="Adv" stat="pref" tcomm="no">vara</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">easkan</l>
+         <l pos="Adv">easkan</l>
       </lg>
       <sources>
          <book name="xxx" />
@@ -2548,22 +2548,22 @@ For the full license text, see the link above.</lic>
             <sem class="TIME" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i sted</tf>
-            <t pos="adv" stat="notpref" tcomm="no">nyss</t>
-            <t pos="adv" stat="notpref" tcomm="no">nettopp</t>
-            <t pos="adv" stat="notpref" tcomm="no">nylig</t>
+            <t pos="Adv" stat="pref" tcomm="no">i sted</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nyss</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nettopp</t>
+            <t pos="Adv" stat="notpref" tcomm="no">nylig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">nyss</tf>
+            <t pos="Adv" stat="pref" tcomm="no">nyss</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i sted_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i sted_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i sted_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i sted_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">äsken</t>
+            <t pos="Adv" stat="pref" tcomm="no">äsken</t>
          </tg>
       </mg>
    </e>
