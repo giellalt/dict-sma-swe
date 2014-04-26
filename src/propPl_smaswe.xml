@@ -29,298 +29,298 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="dict" src="sk">
       <lg>
-         <l pos="propPl">Njuanajaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Njuanajaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Rindal</re>
-            <t pos="prop" stat="notpref" tcomm="no">Tangvatna</t>
+            <t pos="N" type="Prop" tcomm="no">Tangvatna</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Tjohkeleh</l>
+         <l pos="N" type="Prop" nr="Pl">Tjohkeleh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Selbu</re>
-            <t pos="prop" stat="notpref" tcomm="no">Skarvan</t>
+            <t pos="N" type="Prop" tcomm="no">Skarvan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Faatnajabpejaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Faatnajabpejaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Tydal</re>
-            <t pos="prop" stat="notpref" tcomm="no">Skreddarsjøane</t>
+            <t pos="N" type="Prop" tcomm="no">Skreddarsjøane</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Bealjehkh</l>
+         <l pos="N" type="Prop" nr="Pl">Bealjehkh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Tydal</re>
-            <t pos="prop" stat="notpref" tcomm="no">Sylan</t>
+            <t pos="N" type="Prop" tcomm="no">Sylan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Pliehkiejaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Pliehkiejaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Meråker</re>
-            <t pos="prop" stat="notpref" tcomm="no">Lødøljsjøan</t>
+            <t pos="N" type="Prop" tcomm="no">Lødøljsjøan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Saedtietjaerhvieh</l>
+         <l pos="N" type="Prop" nr="Pl">Saedtietjaerhvieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordli</re>
-            <t pos="prop" stat="notpref" tcomm="no">Grønflatknulen</t>
+            <t pos="N" type="Prop" tcomm="no">Grønflatknulen</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Aahkabieljieh</l>
+         <l pos="N" type="Prop" nr="Pl">Aahkabieljieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordli</re>
-            <t pos="prop" stat="notpref" tcomm="no">Akkavassøran</t>
+            <t pos="N" type="Prop" tcomm="no">Akkavassøran</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Guelehtsjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Guelehtsjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordli</re>
-            <t pos="prop" stat="notpref" tcomm="no">Fiskløysvatna</t>
+            <t pos="N" type="Prop" tcomm="no">Fiskløysvatna</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Golmesjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Golmesjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Røyrvik</re>
-            <t pos="prop" stat="notpref" tcomm="no">Storgollomsvatnet</t>
+            <t pos="N" type="Prop" tcomm="no">Storgollomsvatnet</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Gåetbielesdurrienjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Gåetbielesdurrienjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Røyrvik</re>
-            <t pos="prop" stat="notpref" tcomm="no">Husviktjønnin</t>
+            <t pos="N" type="Prop" tcomm="no">Husviktjønnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Tjaeksienjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Tjaeksienjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Røyrvik</re>
-            <t pos="prop" stat="notpref" tcomm="no">Renselskardtjønnin</t>
+            <t pos="N" type="Prop" tcomm="no">Renselskardtjønnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Måarenjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Måarenjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Røyrvik</re>
-            <t pos="prop" stat="notpref" tcomm="no">Beinvatna</t>
+            <t pos="N" type="Prop" tcomm="no">Beinvatna</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Tjiermejaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Tjiermejaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Røyrvik</re>
-            <t pos="prop" stat="notpref" tcomm="no">Tjermavatna</t>
+            <t pos="N" type="Prop" tcomm="no">Tjermavatna</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Jassehkentjonneh</l>
+         <l pos="N" type="Prop" nr="Pl">Jassehkentjonneh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Røyrvik</re>
-            <t pos="prop" stat="notpref" tcomm="no">Jassånilstjønnin</t>
+            <t pos="N" type="Prop" tcomm="no">Jassånilstjønnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Sieteretjonneh</l>
+         <l pos="N" type="Prop" nr="Pl">Sieteretjonneh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Namsskogan</re>
-            <t pos="prop" stat="notpref" tcomm="no">Sætertjørnin</t>
+            <t pos="N" type="Prop" tcomm="no">Sætertjørnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Guhkiestjonneh</l>
+         <l pos="N" type="Prop" nr="Pl">Guhkiestjonneh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Namsskogan</re>
-            <t pos="prop" stat="notpref" tcomm="no">Langtjønna</t>
+            <t pos="N" type="Prop" tcomm="no">Langtjønna</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Jahtedh</l>
+         <l pos="N" type="Prop" nr="Pl">Jahtedh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Høylandet</re>
-            <t pos="prop" stat="notpref" tcomm="no">Finntroppin</t>
+            <t pos="N" type="Prop" tcomm="no">Finntroppin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Snuvrejaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Snuvrejaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Høylandet</re>
-            <t pos="prop" stat="notpref" tcomm="no">Årkverntjørnin</t>
+            <t pos="N" type="Prop" tcomm="no">Årkverntjørnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Gaelpientjonneh</l>
+         <l pos="N" type="Prop" nr="Pl">Gaelpientjonneh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordbindalen</re>
-            <t pos="prop" stat="notpref" tcomm="no">Nilsinetjørnin</t>
+            <t pos="N" type="Prop" tcomm="no">Nilsinetjørnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Gaelpienjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Gaelpienjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordbindalen</re>
-            <t pos="prop" stat="notpref" tcomm="no">Nilsinetjørnin</t>
+            <t pos="N" type="Prop" tcomm="no">Nilsinetjørnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Grovhtemehkienjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Grovhtemehkienjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordbindalen</re>
-            <t pos="prop" stat="notpref" tcomm="no">Grytendalsvatnan</t>
+            <t pos="N" type="Prop" tcomm="no">Grytendalsvatnan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Bueleksjællanjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Bueleksjællanjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Nordbindalen</re>
-            <t pos="prop" stat="notpref" tcomm="no">Nilsfinntjønnin</t>
+            <t pos="N" type="Prop" tcomm="no">Nilsfinntjønnin</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Giedtiejaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Giedtiejaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Hattfjelldal</re>
-            <t pos="prop" stat="notpref" tcomm="no">Sætertjønnan</t>
+            <t pos="N" type="Prop" tcomm="no">Sætertjønnan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Pingkelejaavretjh</l>
+         <l pos="N" type="Prop" nr="Pl">Pingkelejaavretjh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Hattfjelldal</re>
-            <t pos="prop" stat="notpref" tcomm="no">Pinkelvatnan</t>
+            <t pos="N" type="Prop" tcomm="no">Pinkelvatnan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Gaajsetjenjaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Gaajsetjenjaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Mo</re>
-            <t pos="prop" stat="notpref" tcomm="no">Jordbekkvatnan</t>
+            <t pos="N" type="Prop" tcomm="no">Jordbekkvatnan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Plierehkejaevrieh</l>
+         <l pos="N" type="Prop" nr="Pl">Plierehkejaevrieh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Mo</re>
-            <t pos="prop" stat="notpref" tcomm="no">Blerekvatnan</t>
+            <t pos="N" type="Prop" tcomm="no">Blerekvatnan</t>
          </tg>
       </mg>
    </e>
    <e src="sk">
       <lg>
-         <l pos="propPl">Gaajsetjh</l>
+         <l pos="N" type="Prop" nr="Pl">Gaajsetjh</l>
       </lg>
       <mg>
-         <tg xml:lang="">
+         <tg xml:lang="swe">
             <re>Mo</re>
-            <t pos="prop" stat="notpref" tcomm="no">Småtindan</t>
+            <t pos="N" type="Prop" tcomm="no">Småtindan</t>
          </tg>
       </mg>
    </e>
