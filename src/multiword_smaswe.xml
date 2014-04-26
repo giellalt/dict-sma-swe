@@ -29,37 +29,37 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="phrase_n">aajne kaarre</l>
+         <l pos="N">aajne kaarre</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="n" stat="pref" tcomm="no">ungkar</t>
-            <tf pos="phrase_n" tcomm="no">alene kar</tf>
-            <tf pos="phrase_n" tcomm="no">enslig kar</tf>
-            <tf pos="phrase_n" tcomm="no">mann som ikke er gift</tf>
-            <tf pos="phrase_n" tcomm="no">mann som ikke har kjæreste</tf>
+            <t pos="N" stat="pref" tcomm="no">ungkar</t>
+            <t pos="N" tcomm="no">alene kar</t>
+            <t pos="N" tcomm="no">enslig kar</t>
+            <t pos="N" tcomm="no">mann som ikke er gift</t>
+            <t pos="N" tcomm="no">mann som ikke har kjæreste</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="n" stat="pref" tcomm="no">ungkarl</t>
+            <t pos="N" stat="pref" tcomm="no">ungkarl</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="n" stat="pref" tcomm="no">ungkar_ENG</t>
+            <t pos="N" stat="pref" tcomm="no">ungkar_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="n" stat="pref" tcomm="no">ungkar_DEU</t>
+            <t pos="N" stat="pref" tcomm="no">ungkar_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_n" stat="pref" tcomm="no">poikamies</t>
-            <t pos="phrase_n" stat="notpref" tcomm="no">vanhapoika</t>
+            <t pos="N" stat="pref" tcomm="no">poikamies</t>
+            <t pos="N" tcomm="no">vanhapoika</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">assh dohkoe</l>
+         <l pos="Adv">assh dohkoe</l>
       </lg>
       <mg>
          <semantics>
@@ -67,21 +67,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <re>om hund</re>
-            <tf pos="phrase_adv" tcomm="no">gå vekk</tf>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">ha deg vekk</tf>
-            <tf pos="phrase_adv" tcomm="no">ha deg vekk herifra</tf>
-            <tf pos="phrase_adv" tcomm="no">ha deg bort</tf>
-            <tf pos="phrase_adv" tcomm="no">ha deg bort herifra</tf>
+            <t pos="Adv" tcomm="no">gå vekk</t>
+            <t pos="Adv" stat="pref" tcomm="no">ha deg vekk</t>
+            <t pos="Adv" tcomm="no">ha deg vekk herifra</t>
+            <t pos="Adv" tcomm="no">ha deg bort</t>
+            <t pos="Adv" tcomm="no">ha deg bort herifra</t>
          </tg>
          <tg xml:lang="swe">
             <re>om hund</re>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">gå iväg</tf>
+            <t pos="Adv" stat="pref" tcomm="no">gå iväg</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">gå vekk_ENG</t>
+            <t pos="Adv" tcomm="no">gå vekk_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">gå vekk_DEU</t>
+            <t pos="Adv" tcomm="no">gå vekk_DEU</t>
          </tg>
          <tg xml:lang="fin">
 <re>koiralle</re>
@@ -91,38 +91,38 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">biejjeste måbpan</l>
+         <l pos="Adv">biejjeste måbpan</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">fra dag til dag</tf>
-            <tf pos="phrase_adv" tcomm="no">fra den ene dagen til den andre</tf>
-            <tf pos="phrase_adv" tcomm="no">fra en dag til en annen dag</tf>
-            <tf pos="phrase_adv" tcomm="no">fra en dag til en annen</tf>
-            <tf pos="phrase_adv" tcomm="no">fra den ene dagen til den andre dagen</tf>
-            <tf pos="phrase_adv" tcomm="no">fra den ene dagen til den neste</tf>
-            <tf pos="phrase_adv" tcomm="no">fra en dag til neste</tf>
+            <t pos="Adv" stat="pref" tcomm="no">fra dag til dag</t>
+            <t pos="Adv" tcomm="no">fra den ene dagen til den andre</t>
+            <t pos="Adv" tcomm="no">fra en dag til en annen dag</t>
+            <t pos="Adv" tcomm="no">fra en dag til en annen</t>
+            <t pos="Adv" tcomm="no">fra den ene dagen til den andre dagen</t>
+            <t pos="Adv" tcomm="no">fra den ene dagen til den neste</t>
+            <t pos="Adv" tcomm="no">fra en dag til neste</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">från dag till dag</tf>
+            <t pos="Adv" stat="pref" tcomm="no">från dag till dag</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">fra dag til dag_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">fra dag til dag_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">fra dag til dag_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">fra dag til dag_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">päivästä päivään</t>
+            <t pos="Adv" stat="pref" tcomm="no">päivästä päivään</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">buerie aerede</l>
+         <l pos="Interj">buerie aerede</l>
       </lg>
       <mg>
          <semantics>
@@ -130,25 +130,25 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god morgen</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god morgen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god morgon</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god morgon</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">god morgen_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">god morgen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">god morgen_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">god morgen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">hyvää aamua</t>
+            <t pos="Interj" stat="pref" tcomm="no">hyvää aamua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">buerie biejjie</l>
+         <l pos="Interj">buerie biejjie</l>
       </lg>
       <mg>
          <semantics>
@@ -156,25 +156,25 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god dag</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god dag</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god dag</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god dag</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">god dag_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">god dag_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">god dag_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">god dag_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">hyvää päivää</t>
+            <t pos="Interj" stat="pref" tcomm="no">hyvää päivää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">buerie iehkede</l>
+         <l pos="Interj">buerie iehkede</l>
       </lg>
       <mg>
          <semantics>
@@ -182,25 +182,25 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god kveld</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god kveld</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god kväll</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god kväll</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">god kveld_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">god kveld_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">god kveld_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">god kveld_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">hyvää iltaa</t>
+            <t pos="Interj" stat="pref" tcomm="no">hyvää iltaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">buerie jïjje</l>
+         <l pos="Interj">buerie jïjje</l>
       </lg>
       <mg>
          <semantics>
@@ -208,25 +208,25 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god natt</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god natt</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">god natt</tf>
+            <t pos="Interj" stat="pref" tcomm="no">god natt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">god natt_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">god natt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">god natt_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">god natt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">hyvää yötä</t>
+            <t pos="Interj" stat="pref" tcomm="no">hyvää yötä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">daan aereden</l>
+         <l pos="Adv">daan aereden</l>
       </lg>
       <mg>
          <semantics>
@@ -234,18 +234,18 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" tcomm="no">i dag tidlig</tf>
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i morges</tf>
-            <tf pos="phrase_adv" tcomm="no">denne morgenen</tf>
+            <t pos="Adv" tcomm="no">i dag tidlig</t>
+            <t pos="Adv" stat="pref" tcomm="no">i morges</t>
+            <t pos="Adv" tcomm="no">denne morgenen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i morse</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i morse</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">i dag tidlig_ENG</t>
+            <t pos="Adv" tcomm="no">i dag tidlig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="notpref" tcomm="no">i dag tidlig_DEU</t>
+            <t pos="Adv" tcomm="no">i dag tidlig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">tänä aamuna</t>
@@ -254,7 +254,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">daan biejjien</l>
+         <l pos="Adv">daan biejjien</l>
       </lg>
       <mg>
          <semantics>
@@ -262,19 +262,19 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i dag</tf>
-            <tf pos="phrase_adv" tcomm="no">denne dagen</tf>
-            <tf pos="adv" tcomm="no">idag</tf>
-            <tf pos="phrase_adv" tcomm="no">den her dagen</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i dag</t>
+            <t pos="Adv" tcomm="no">denne dagen</t>
+            <t pos="Adv" tcomm="no">idag</t>
+            <t pos="Adv" tcomm="no">den her dagen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">idag</tf>
+            <t pos="Adv" stat="pref" tcomm="no">idag</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i dag_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i dag_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i dag_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i dag_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">tänään</t>
@@ -283,62 +283,62 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">daan jaepien</l>
+         <l pos="Adv">daan jaepien</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i år</tf>
-            <tf pos="adv" tcomm="no">iår</tf>
-            <tf pos="phrase_adv" tcomm="no">dette året</tf>
-            <tf pos="phrase_adv" tcomm="no">det her året</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i år</t>
+            <t pos="Adv" tcomm="no">iår</t>
+            <t pos="Adv" tcomm="no">dette året</t>
+            <t pos="Adv" tcomm="no">det her året</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i år</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i år</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i år_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i år_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i år_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i år_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">tänä vuonna</t>
+            <t pos="Adv" stat="pref" tcomm="no">tänä vuonna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">daelvie doekoe</l>
+         <l pos="Adv">daelvie doekoe</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover vinteren</t>
-            <tf pos="phrase_adv" tcomm="no">utpå vinteren</tf>
-            <tf pos="phrase_adv" tcomm="no">ut på vinteren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utover vinteren</t>
+            <t pos="Adv" tcomm="no">utpå vinteren</t>
+            <t pos="Adv" tcomm="no">ut på vinteren</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utöver vintern</t>
+            <t pos="Adv" stat="pref" tcomm="no">utöver vintern</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover vinteren_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover vinteren_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover vinteren_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover vinteren_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">talvemmalle</t>
+            <t pos="Adv" stat="pref" tcomm="no">talvemmalle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">daan jïjjen</l>
+         <l pos="Adv">daan jïjjen</l>
       </lg>
       <mg>
          <semantics>
@@ -346,142 +346,142 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i natt</tf>
-            <tf pos="phrase_adv" tcomm="no">den her natten</tf>
-            <tf pos="phrase_adv" tcomm="no">denne natten</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i natt</t>
+            <t pos="Adv" tcomm="no">den her natten</t>
+            <t pos="Adv" tcomm="no">denne natten</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">inatt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">inatt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i natt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i natt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i natt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i natt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">tänä yönä</t>
+            <t pos="Adv" stat="pref" tcomm="no">tänä yönä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">dan man jïjnjem</l>
+         <l pos="Adv">dan man jïjnjem</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">så mye som helst</tf>
-            <tf pos="phrase_adv" tcomm="no">så mye</tf>
+            <t pos="Adv" stat="pref" tcomm="no">så mye som helst</t>
+            <t pos="Adv" tcomm="no">så mye</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hur mycket som helst</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hur mycket som helst</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">så mye som helst_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">så mye som helst_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">så mye som helst_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">så mye som helst_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">sen jälkeen</t>
+            <t pos="Adv" stat="pref" tcomm="no">sen jälkeen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">dan mietie</l>
+         <l pos="Adv">dan mietie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">etter det</tf>
-            <tf pos="phrase_adv" tcomm="no">etter den</tf>
-            <tf pos="phrase_adv" tcomm="no">etter han</tf>
-            <tf pos="phrase_adv" tcomm="no">etter henne</tf>
+            <t pos="Adv" stat="pref" tcomm="no">etter det</t>
+            <t pos="Adv" tcomm="no">etter den</t>
+            <t pos="Adv" tcomm="no">etter han</t>
+            <t pos="Adv" tcomm="no">etter henne</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">efter det</tf>
+            <t pos="Adv" stat="pref" tcomm="no">efter det</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">etter det_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">etter det_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">etter det_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">etter det_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">sen jälkeen</t>
+            <t pos="Adv" stat="pref" tcomm="no">sen jälkeen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">dellie maajetjh</l>
+         <l pos="Adv">dellie maajetjh</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">heldigvis</t>
+            <t pos="Adv" stat="pref" tcomm="no">heldigvis</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">lyckligtvis</t>
+            <t pos="Adv" stat="pref" tcomm="no">lyckligtvis</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">heldigvis_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">heldigvis_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">heldigvis_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">heldigvis_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">onneksi</t>
+            <t pos="Adv" stat="pref" tcomm="no">onneksi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">endelig</t>
-            <tf pos="phrase_adv" tcomm="no">nå endelig</tf>
+            <t pos="Adv" tcomm="no">endelig</t>
+            <t pos="Adv" tcomm="no">nå endelig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="notpref" tcomm="no">äntligen</t>
+            <t pos="Adv" tcomm="no">äntligen</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">endelig_ENG</t>
+            <t pos="Adv" tcomm="no">endelig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">endelig_DEU</t>
+            <t pos="Adv" tcomm="no">endelig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv" stat="pref" tcomm="no">vihdoin</t>
-            <t pos="adv" stat="notpref" tcomm="no">vihdoin viimein</t>
+            <t pos="Adv" stat="pref" tcomm="no">vihdoin</t>
+            <t pos="Adv" tcomm="no">vihdoin viimein</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">dohkh diekie</l>
+         <l pos="Adv">dohkh diekie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hit og dit</tf>
-            <tf pos="phrase_adv" tcomm="no">dit og hit</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hit og dit</t>
+            <t pos="Adv" tcomm="no">dit og hit</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hit och dit</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hit och dit</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hit og dit_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hit og dit_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hit og dit_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hit og dit_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">sinne tänne</t>
@@ -490,33 +490,33 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">dom daam</l>
+         <l pos="Pron">dom daam</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">ditt og datt</tf>
-            <t pos="pron" stat="notpref" tcomm="no">forskjellig</t>
+            <t pos="Pron" stat="pref" tcomm="no">ditt og datt</t>
+            <t pos="Pron" tcomm="no">forskjellig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">ditt och datt</tf>
+            <t pos="Pron" stat="pref" tcomm="no">ditt och datt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">ditt og datt_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">ditt og datt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">ditt og datt_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">ditt og datt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_pron" stat="pref" tcomm="no">sitä ja tätä</t>
+            <t pos="Pron" stat="pref" tcomm="no">sitä ja tätä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">don biejjien</l>
+         <l pos="Adv">don biejjien</l>
       </lg>
       <mg>
          <semantics>
@@ -524,19 +524,19 @@ For the full license text, see the link above.</lic>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">forrige dag</tf>
-            <tf pos="phrase_adv" tcomm="no">forrige dagen</tf>
-            <tf pos="phrase_adv" tcomm="no">i går</tf>
-            <tf pos="adv" tcomm="no">igår</tf>
+            <t pos="Adv" stat="pref" tcomm="no">forrige dag</t>
+            <t pos="Adv" tcomm="no">forrige dagen</t>
+            <t pos="Adv" tcomm="no">i går</t>
+            <t pos="Adv" tcomm="no">igår</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i förrgår</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i förrgår</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">förra dagen</t>
+            <t pos="Adv" stat="pref" tcomm="no">förra dagen</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">forrige dag_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">forrige dag_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">toissapäivänä</t>
@@ -545,166 +545,166 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">duelie vuajnah</l>
+         <l pos="Interj">duelie vuajnah</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" tcomm="no">se der</tf>
-            <tf pos="phrase_i" stat="pref" tcomm="no">vær så god</tf>
+            <t pos="Interj" tcomm="no">se der</t>
+            <t pos="Interj" stat="pref" tcomm="no">vær så god</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">var så god</tf>
+            <t pos="Interj" stat="pref" tcomm="no">var så god</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="notpref" tcomm="no">se der_ENG</t>
+            <t pos="Interj" tcomm="no">se der_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="notpref" tcomm="no">se der_DEU</t>
+            <t pos="Interj" tcomm="no">se der_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">ole hyvä</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">olkaa hyvät</t>
+            <t pos="Interj" stat="pref" tcomm="no">ole hyvä</t>
+            <t pos="Interj" tcomm="no">olkaa hyvät</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">dusnie daesnie</l>
+         <l pos="Adv">dusnie daesnie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">her og der</tf>
-            <tf pos="phrase_adv" tcomm="no">der og her</tf>
+            <t pos="Adv" stat="pref" tcomm="no">her og der</t>
+            <t pos="Adv" tcomm="no">der og her</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">här och där</tf>
+            <t pos="Adv" stat="pref" tcomm="no">här och där</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">her og der_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">her og der_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">her og der_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">her og der_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">siellä ja täällä</t>
+            <t pos="Adv" stat="pref" tcomm="no">siellä ja täällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">dæjmetje giesien</l>
+         <l pos="Adv">dæjmetje giesien</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i fjor sommer</tf>
-            <tf pos="phrase_adv" tcomm="no">i fjorsommer</tf>
-            <tf pos="phrase_adv" tcomm="no">fjorårets sommer</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i fjor sommer</t>
+            <t pos="Adv" tcomm="no">i fjorsommer</t>
+            <t pos="Adv" tcomm="no">fjorårets sommer</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i fjol sommar</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i fjol sommar</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i fjor sommer_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i fjor sommer_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i fjor sommer_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i fjor sommer_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">viime kesänä</t>
+            <t pos="Adv" stat="pref" tcomm="no">viime kesänä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">fïerhten biejjien</l>
+         <l pos="Adv">fïerhten biejjien</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hver dag</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hver dag</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">varje dag</tf>
+            <t pos="Adv" stat="pref" tcomm="no">varje dag</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hver dag_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hver dag_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hver dag_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hver dag_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">joka päivä</t>
+            <t pos="Adv" stat="pref" tcomm="no">joka päivä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">fïerhten iehkeden</l>
+         <l pos="Adv">fïerhten iehkeden</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hver kveld</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hver kveld</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">varje kväll</tf>
+            <t pos="Adv" stat="pref" tcomm="no">varje kväll</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hver kveld_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hver kveld_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hver kveld_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hver kveld_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">joka ilta</t>
+            <t pos="Adv" stat="pref" tcomm="no">joka ilta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">gaajhkene lehkesne</l>
+         <l pos="Adv">gaajhkene lehkesne</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på alle steder</tf>
-            <tf pos="phrase_adv">på alle kanter</tf>
-            <t pos="adv" stat="notpref" tcomm="no">overalt</t>
-            <tf pos="phrase_adv" tcomm="no">alle steder</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på alle steder</t>
+            <t pos="Adv">på alle kanter</t>
+            <t pos="Adv" tcomm="no">overalt</t>
+            <t pos="Adv" tcomm="no">alle steder</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">överallt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">överallt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">alle steder_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">alle steder_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">alle steder_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">alle steder_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">kaikkialla</t>
-            <t pos="xxx" stat="notpref" tcomm="no">joka puolella</t>
+            <t pos="xxx" tcomm="no">joka puolella</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">gaajhkesh dovnesh</l>
+         <l pos="Pron">gaajhkesh dovnesh</l>
       </lg>
       <mg>
          <semantics>
@@ -712,19 +712,19 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <re>om mennesker</re>
-            <tf pos="phrase_pron" stat="pref" tcomm="no">alle sammen</tf>
-            <tf pos="phrase_pron" tcomm="no">alle i hop</tf>
-            <t pos="pron" stat="notpref" tcomm="yes">alle</t>
+            <t pos="Pron" stat="pref" tcomm="no">alle sammen</t>
+            <t pos="Pron" tcomm="no">alle i hop</t>
+            <t pos="Pron" tcomm="yes">alle</t>
          </tg>
          <tg xml:lang="swe">
             <re>om människor</re>
-            <tf pos="phrase_pron" stat="pref" tcomm="no">allihopa</tf>
+            <t pos="Pron" stat="pref" tcomm="no">allihopa</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">alle sammen_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">alle sammen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">alle sammen_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">alle sammen_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">kaikki</t>
@@ -733,79 +733,79 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">gellene lehkesne</l>
+         <l pos="Adv">gellene lehkesne</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på mange plasser</tf>
-            <tf pos="phrase_adv" tcomm="no">på mange steder</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på mange plasser</t>
+            <t pos="Adv" tcomm="no">på mange steder</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">på många ställen</tf>
+            <t pos="Adv" stat="pref" tcomm="no">på många ställen</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på mange plasser_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">på mange plasser_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">på mange plasser_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">på mange plasser_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">monella paikalla</t>
+            <t pos="Adv" stat="pref" tcomm="no">monella paikalla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">gie dellie datne</l>
+         <l pos="Pron">gie dellie datne</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hvem er så du</tf>
-            <tf pos="phrase_pron" tcomm="no">hvem er nå du</tf>
-            <tf pos="phrase_pron" tcomm="no">og hvem er så du</tf>
-            <tf pos="phrase_pron" tcomm="no">hvem er så du?</tf>
-            <tf pos="phrase_pron" tcomm="no">hvem er nå du?</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hvem er så du</t>
+            <t pos="Pron" tcomm="no">hvem er nå du</t>
+            <t pos="Pron" tcomm="no">og hvem er så du</t>
+            <t pos="Pron" tcomm="no">hvem er så du?</t>
+            <t pos="Pron" tcomm="no">hvem er nå du?</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">vem är du då</tf>
+            <t pos="Pron" stat="pref" tcomm="no">vem är du då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hvem er så du_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvem er så du_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hvem er så du_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvem er så du_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_pron" stat="pref" tcomm="no">kuka sinä olet</t>
+            <t pos="Pron" stat="pref" tcomm="no">kuka sinä olet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">gie joem</l>
+         <l pos="Pron">gie joem</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">en eller annen</tf>
-            <t pos="pron" stat="notpref" tcomm="no">noen</t>
+            <t pos="Pron" stat="pref" tcomm="no">en eller annen</t>
+            <t pos="Pron" tcomm="no">noen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">en eller annan</tf>
+            <t pos="Pron" stat="pref" tcomm="no">en eller annan</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">en eller annen_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">en eller annen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">en eller annen_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">en eller annen_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">joku</t>
@@ -814,361 +814,361 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">giesie doekoe</l>
+         <l pos="Adv">giesie doekoe</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">utover sommeren</tf>
-            <tf pos="phrase_adv" tcomm="no">utpå sommeren</tf>
-            <tf pos="phrase_adv" tcomm="no">ut på sommeren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utover sommeren</t>
+            <t pos="Adv" tcomm="no">utpå sommeren</t>
+            <t pos="Adv" tcomm="no">ut på sommeren</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">utöver sommaren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utöver sommaren</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover sommeren_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover sommeren_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover sommeren_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover sommeren_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">kesämmälle</t>
+            <t pos="Adv" stat="pref" tcomm="no">kesämmälle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">gudtsien prïhtjegen åvteste</l>
+         <l pos="Interj">gudtsien prïhtjegen åvteste</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">takk for kaffen</tf>
-            <tf pos="phrase_i" tcomm="no">tusen takk for kaffen</tf>
+            <t pos="Interj" stat="pref" tcomm="no">takk for kaffen</t>
+            <t pos="Interj" tcomm="no">tusen takk for kaffen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">tack för kaffet</tf>
+            <t pos="Interj" stat="pref" tcomm="no">tack för kaffet</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">takk for kaffen_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">takk for kaffen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">takk for kaffen_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">takk for kaffen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">kiitos kahvista</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">kiitos kahvin edestä</t>
+            <t pos="Interj" stat="pref" tcomm="no">kiitos kahvista</t>
+            <t pos="Interj" tcomm="no">kiitos kahvin edestä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">guktie gåarede</l>
+         <l pos="Adv">guktie gåarede</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hvordan går det</tf>
-            <tf pos="phrase_adv" tcomm="no">hvordan er det</tf>
-            <tf pos="phrase_adv" tcomm="no">hvordan står det til</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hvordan går det</t>
+            <t pos="Adv" tcomm="no">hvordan er det</t>
+            <t pos="Adv" tcomm="no">hvordan står det til</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hur går det</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hur går det</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hvordan går det_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hvordan går det_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hvordan går det_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hvordan går det_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">miten menee</t>
+            <t pos="Adv" stat="pref" tcomm="no">miten menee</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">gïjre doekoe</l>
+         <l pos="Adv">gïjre doekoe</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">utover våren</tf>
-            <tf pos="phrase_adv" tcomm="no">ut på våren</tf>
-            <tf pos="phrase_adv" tcomm="no">utpå våren</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utover våren</t>
+            <t pos="Adv" tcomm="no">ut på våren</t>
+            <t pos="Adv" tcomm="no">utpå våren</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">utöver vården</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utöver vården</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover våren_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover våren_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover våren_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover våren_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">kevämmälle</t>
+            <t pos="Adv" stat="pref" tcomm="no">kevämmälle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_a">hijven hov</l>
+         <l pos="A">hijven hov</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_a" stat="pref" tcomm="no">det er bra</tf>
-            <tf pos="phrase_a" tcomm="no">bra er det</tf>
-            <tf pos="phrase_a" tcomm="no">det er flott</tf>
-            <t pos="a" stat="notpref" tcomm="no">flott</t>
-            <t pos="a" stat="notpref" tcomm="no">bra</t>
-            <t pos="a" stat="notpref" tcomm="no">supert</t>
-            <tf pos="phrase_a" tcomm="no">det er sannelig bra</tf>
-            <tf pos="phrase_a" tcomm="no">det er virkelig bra</tf>
-            <tf pos="phrase_a" tcomm="no">det er sannelig flott</tf>
+            <t pos="A" stat="pref" tcomm="no">det er bra</t>
+            <t pos="A" tcomm="no">bra er det</t>
+            <t pos="A" tcomm="no">det er flott</t>
+            <t pos="A" tcomm="no">flott</t>
+            <t pos="A" tcomm="no">bra</t>
+            <t pos="A" tcomm="no">supert</t>
+            <t pos="A" tcomm="no">det er sannelig bra</t>
+            <t pos="A" tcomm="no">det er virkelig bra</t>
+            <t pos="A" tcomm="no">det er sannelig flott</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_a" stat="pref" tcomm="no">vad bra</tf>
+            <t pos="A" stat="pref" tcomm="no">vad bra</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_a" stat="pref" tcomm="no">det er bra_ENG</t>
+            <t pos="A" stat="pref" tcomm="no">det er bra_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_a" stat="pref" tcomm="no">det er bra_DEU</t>
+            <t pos="A" stat="pref" tcomm="no">det er bra_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_a" stat="pref" tcomm="no">se on hyvä</t>
-            <t pos="phrase_a" stat="notpref" tcomm="no">hyvä on</t>
+            <t pos="A" stat="pref" tcomm="no">se on hyvä</t>
+            <t pos="A" tcomm="no">hyvä on</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">jaa hævvi</l>
+         <l pos="Interj">jaa hævvi</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">ja selvfølgelig</tf>
-            <t pos="adv" stat="notpref" tcomm="no">selvfølgelig</t>
-            <tf pos="phrase_i" tcomm="no">ja, selvfølgelig</tf>
-            <t pos="phrase_i" stat="notpref" tcomm="no">ja såklart</t>
-            <tf pos="phrase_i" tcomm="no">ja, såklart</tf>
-            <t pos="adv" stat="notpref" tcomm="no">såklart</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja selvfølgelig</t>
+            <t pos="Adv" tcomm="no">selvfølgelig</t>
+            <t pos="Interj" tcomm="no">ja, selvfølgelig</t>
+            <t pos="Interj" tcomm="no">ja såklart</t>
+            <t pos="Interj" tcomm="no">ja, såklart</t>
+            <t pos="Adv" tcomm="no">såklart</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">ja självklart</tf>
+            <t pos="Interj" stat="pref" tcomm="no">ja självklart</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">ja selvfølgelig_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja selvfølgelig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">ja selvfølgelig_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja selvfølgelig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">tietysti</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">niin tietysti</t>
+            <t pos="Interj" stat="pref" tcomm="no">tietysti</t>
+            <t pos="Interj" tcomm="no">niin tietysti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">jaa nov maa</l>
+         <l pos="Interj">jaa nov maa</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">ja selvfølgelig</tf>
-            <tf pos="phrase_i" tcomm="no">ja såklart</tf>
+            <t pos="Interj" stat="pref" tcomm="no">ja selvfølgelig</t>
+            <t pos="Interj" tcomm="no">ja såklart</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">ja självklart</tf>
+            <t pos="Interj" stat="pref" tcomm="no">ja självklart</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">ja selvfølgelig_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja selvfølgelig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">ja selvfølgelig_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja selvfølgelig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">jo toki</t>
-            <t pos="xxx" stat="notpref" tcomm="no">kyllä vain</t>
+            <t pos="xxx" tcomm="no">kyllä vain</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">jakseme mieresne</l>
+         <l pos="Adv">jakseme mieresne</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">innen rekkevidde</tf>
-            <tf pos="phrase_adv" tcomm="no">er innen rekkevidde</tf>
+            <t pos="Adv" stat="pref" tcomm="no">innen rekkevidde</t>
+            <t pos="Adv" tcomm="no">er innen rekkevidde</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">inom räckvidd</tf>
+            <t pos="Adv" stat="pref" tcomm="no">inom räckvidd</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">innen rekkevidde_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">innen rekkevidde_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">innen rekkevidde_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">innen rekkevidde_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">käsillä</t>
-            <t pos="xxx" stat="notpref" tcomm="no">lähellä</t>
+            <t pos="xxx" tcomm="no">lähellä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_n">jurjiehtamme beapmoeh</l>
+         <l pos="N">jurjiehtamme beapmoeh</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_n" stat="pref" tcomm="no">tillaget mat</tf>
-            <tf pos="phrase_n" tcomm="no">ferdiglaget mat</tf>
-            <tf pos="phrase_n" tcomm="no">laget mat</tf>
-            <tf pos="phrase_n" tcomm="no">mat som er laget</tf>
-            <tf pos="phrase_n" tcomm="no">tilberedt mat</tf>
-            <tf pos="phrase_n" tcomm="no">mat som er tilberedt</tf>
+            <t pos="N" stat="pref" tcomm="no">tillaget mat</t>
+            <t pos="N" tcomm="no">ferdiglaget mat</t>
+            <t pos="N" tcomm="no">laget mat</t>
+            <t pos="N" tcomm="no">mat som er laget</t>
+            <t pos="N" tcomm="no">tilberedt mat</t>
+            <t pos="N" tcomm="no">mat som er tilberedt</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n" stat="pref" tcomm="no">lagad mat</tf>
+            <t pos="N" stat="pref" tcomm="no">lagad mat</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_n" stat="pref" tcomm="no">tillaget mat_ENG</t>
+            <t pos="N" stat="pref" tcomm="no">tillaget mat_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_n" stat="pref" tcomm="no">tillaget mat_DEU</t>
+            <t pos="N" stat="pref" tcomm="no">tillaget mat_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_n" stat="pref" tcomm="no">valmiiksi tehty ruoka</t>
+            <t pos="N" stat="pref" tcomm="no">valmiiksi tehty ruoka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">jåvli mænngan</l>
+         <l pos="Adv">jåvli mænngan</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">etter jul</tf>
+            <t pos="Adv" stat="pref" tcomm="no">etter jul</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">efter jul</tf>
+            <t pos="Adv" stat="pref" tcomm="no">efter jul</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">etter jul_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">etter jul_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">etter jul_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">etter jul_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">joulun jälkeen</t>
+            <t pos="Adv" stat="pref" tcomm="no">joulun jälkeen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">jåvli åvtelen</l>
+         <l pos="Adv">jåvli åvtelen</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">før jul</tf>
-            <tf pos="phrase_adv" tcomm="no">innen jul</tf>
+            <t pos="Adv" stat="pref" tcomm="no">før jul</t>
+            <t pos="Adv" tcomm="no">innen jul</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">före jul</tf>
+            <t pos="Adv" stat="pref" tcomm="no">före jul</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">før jul_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">før jul_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">før jul_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">før jul_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">ennen joulua</t>
+            <t pos="Adv" stat="pref" tcomm="no">ennen joulua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">jååktetje jïjjen</l>
+         <l pos="Adv">jååktetje jïjjen</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i går natt</tf>
-            <tf pos="phrase_adv" tcomm="no">i gårnatt</tf>
-            <tf pos="phrase_adv" tcomm="no">natten i går</tf>
-            <tf pos="phrase_adv" tcomm="no">gårdagens natt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i går natt</t>
+            <t pos="Adv" tcomm="no">i gårnatt</t>
+            <t pos="Adv" tcomm="no">natten i går</t>
+            <t pos="Adv" tcomm="no">gårdagens natt</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">igår natt</tf>
+            <t pos="Adv" stat="pref" tcomm="no">igår natt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i går natt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i går natt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i går natt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i går natt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">eilisestä yöstä</t>
+            <t pos="Adv" stat="pref" tcomm="no">eilisestä yöstä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">lusten gaavhtan</l>
+         <l pos="Adv">lusten gaavhtan</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">for moro skyld</tf>
-            <tf pos="phrase_adv" tcomm="no">for moros skyld</tf>
-            <tf pos="phrase_adv" tcomm="no">på grunn av moro</tf>
+            <t pos="Adv" stat="pref" tcomm="no">for moro skyld</t>
+            <t pos="Adv" tcomm="no">for moros skyld</t>
+            <t pos="Adv" tcomm="no">på grunn av moro</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">för skojs skull</tf>
+            <t pos="Adv" stat="pref" tcomm="no">för skojs skull</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">for moro skyld_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">for moro skyld_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">for moro skyld_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">for moro skyld_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">huvin vuoksi</t>
@@ -1177,232 +1177,232 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">mij joem</l>
+         <l pos="Pron">mij joem</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">ett eller annet</tf>
-            <t pos="pron" stat="notpref" tcomm="no">noe</t>
+            <t pos="Pron" stat="pref" tcomm="no">ett eller annet</t>
+            <t pos="Pron" tcomm="no">noe</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">en eller annan</tf>
+            <t pos="Pron" stat="pref" tcomm="no">en eller annan</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">ett eller annet_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">ett eller annet_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">ett eller annet_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">ett eller annet_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_pron" stat="pref" tcomm="no">jokin</t>
+            <t pos="Pron" stat="pref" tcomm="no">jokin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_a">man båeries</l>
+         <l pos="A">man båeries</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_a" stat="pref" tcomm="no">hvor gammel</tf>
+            <t pos="A" stat="pref" tcomm="no">hvor gammel</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_a" stat="pref" tcomm="no">hur gammal</tf>
+            <t pos="A" stat="pref" tcomm="no">hur gammal</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_a" stat="pref" tcomm="no">hvor gammel_ENG</t>
+            <t pos="A" stat="pref" tcomm="no">hvor gammel_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_a" stat="pref" tcomm="no">hvor gammel_DEU</t>
+            <t pos="A" stat="pref" tcomm="no">hvor gammel_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_a" stat="pref" tcomm="no">kuinka vanha</t>
+            <t pos="A" stat="pref" tcomm="no">kuinka vanha</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">man gaavhtan</l>
+         <l pos="Adv">man gaavhtan</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i hvilken hensikt</tf>
-            <tf pos="phrase_adv" tcomm="no">hvorfor det</tf>
-            <tf pos="phrase_adv" tcomm="no">av hvilken grunn</tf>
-            <t pos="adv" stat="notpref" tcomm="no">hvorfor</t>
-            <tf pos="phrase_adv" tcomm="no">på grunn av hva</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i hvilken hensikt</t>
+            <t pos="Adv" tcomm="no">hvorfor det</t>
+            <t pos="Adv" tcomm="no">av hvilken grunn</t>
+            <t pos="Adv" tcomm="no">hvorfor</t>
+            <t pos="Adv" tcomm="no">på grunn av hva</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">av vilken anledning</tf>
+            <t pos="Adv" stat="pref" tcomm="no">av vilken anledning</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i hvilken hensikt_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i hvilken hensikt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i hvilken hensikt_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i hvilken hensikt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">minkä takia</t>
+            <t pos="Adv" stat="pref" tcomm="no">minkä takia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">man gellie</l>
+         <l pos="Pron">man gellie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hvor mange</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mange</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hur många</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hur många</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hvor mange_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mange_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hvor mange_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mange_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_pron" stat="pref" tcomm="no">kuinka paljon</t>
+            <t pos="Pron" stat="pref" tcomm="no">kuinka paljon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">man guhkiem</l>
+         <l pos="Adv">man guhkiem</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hvor lenge</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hvor lenge</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hvor länge</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hvor länge</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hvor lenge_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hvor lenge_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hvor lenge_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hvor lenge_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">kuinka pitkä</t>
+            <t pos="Adv" stat="pref" tcomm="no">kuinka pitkä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">man jïjnje</l>
+         <l pos="Pron">man jïjnje</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hvor mye</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mye</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hur mycket</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hur mycket</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hvor mye_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mye_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hvor mye_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mye_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_pron" stat="pref" tcomm="no">kuinka paljon</t>
+            <t pos="Pron" stat="pref" tcomm="no">kuinka paljon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">man jïjnjh</l>
+         <l pos="Pron">man jïjnjh</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" tcomm="no">hvor mange</tf>
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hvor mye</tf>
+            <t pos="Pron" tcomm="no">hvor mange</t>
+            <t pos="Pron" stat="pref" tcomm="no">hvor mye</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hur många</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hur många</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="notpref" tcomm="no">hvor mange_ENG</t>
+            <t pos="Pron" tcomm="no">hvor mange_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="notpref" tcomm="no">hvor mange_DEU</t>
+            <t pos="Pron" tcomm="no">hvor mange_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">kuinka monta</t>
-            <t pos="xxx" stat="notpref" tcomm="no">kuinka paljon</t>
+            <t pos="xxx" tcomm="no">kuinka paljon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_a">man stoerre</l>
+         <l pos="A">man stoerre</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_a" stat="pref" tcomm="no">hvor stor</tf>
+            <t pos="A" stat="pref" tcomm="no">hvor stor</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_a" stat="pref" tcomm="no">hur stor</tf>
+            <t pos="A" stat="pref" tcomm="no">hur stor</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_a" stat="pref" tcomm="no">hvor stor_ENG</t>
+            <t pos="A" stat="pref" tcomm="no">hvor stor_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_a" stat="pref" tcomm="no">hvor stor_DEU</t>
+            <t pos="A" stat="pref" tcomm="no">hvor stor_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_a" stat="pref" tcomm="no">kuinka iso</t>
+            <t pos="A" stat="pref" tcomm="no">kuinka iso</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">man åvteste</l>
+         <l pos="Adv">man åvteste</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">hvorfor</t>
-            <tf pos="phrase_adv" tcomm="no">av hvilken grunn</tf>
-            <tf pos="phrase_adv" tcomm="no">av hvilken årsak</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hvorfor</t>
+            <t pos="Adv" tcomm="no">av hvilken grunn</t>
+            <t pos="Adv" tcomm="no">av hvilken årsak</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">varför</t>
+            <t pos="Adv" stat="pref" tcomm="no">varför</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">hvorfor_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hvorfor_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">hvorfor_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hvorfor_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">minkä tähden</t>
@@ -1411,192 +1411,192 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">mij dellie</l>
+         <l pos="Adv">mij dellie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hva da</tf>
-            <tf pos="phrase_adv" tcomm="no">hva så</tf>
-            <tf pos="phrase_adv" tcomm="no">hva nå</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hva da</t>
+            <t pos="Adv" tcomm="no">hva så</t>
+            <t pos="Adv" tcomm="no">hva nå</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">vad då</tf>
+            <t pos="Adv" stat="pref" tcomm="no">vad då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hva da_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hva da_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hva da_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hva da_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">entäs sitten</t>
+            <t pos="Adv" stat="pref" tcomm="no">entäs sitten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_a">mij faatoes</l>
+         <l pos="A">mij faatoes</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">hva er i veien</tf>
-            <tf pos="phrase_v" tcomm="no">hva feiler</tf>
-            <tf pos="phrase_v" tcomm="no">hva feiler det</tf>
-            <tf pos="phrase_adv" tcomm="no">hva er galt</tf>
-            <tf pos="phrase_adv" tcomm="no">hva mangles</tf>
+            <t pos="Adv" stat="pref" tcomm="no">hva er i veien</t>
+            <t pos="V" tcomm="no">hva feiler</t>
+            <t pos="V" tcomm="no">hva feiler det</t>
+            <t pos="Adv" tcomm="no">hva er galt</t>
+            <t pos="Adv" tcomm="no">hva mangles</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">vad är fel</tf>
+            <t pos="Adv" stat="pref" tcomm="no">vad är fel</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hva er i veien_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">hva er i veien_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">hva er i veien_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">hva er i veien_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_a" stat="pref" tcomm="no">mikä on hätänä</t>
+            <t pos="A" stat="pref" tcomm="no">mikä on hätänä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_pron">mij vielie</l>
+         <l pos="Pron">mij vielie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">hva mere</tf>
-            <tf pos="phrase_pron" tcomm="no">hva mer</tf>
+            <t pos="Pron" stat="pref" tcomm="no">hva mere</t>
+            <t pos="Pron" tcomm="no">hva mer</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_pron" stat="pref" tcomm="no">vad mer</tf>
+            <t pos="Pron" stat="pref" tcomm="no">vad mer</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hva mere_ENG</t>
+            <t pos="Pron" stat="pref" tcomm="no">hva mere_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_pron" stat="pref" tcomm="no">hva mere_DEU</t>
+            <t pos="Pron" stat="pref" tcomm="no">hva mere_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_pron" stat="pref" tcomm="no">mitä vielä</t>
+            <t pos="Pron" stat="pref" tcomm="no">mitä vielä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_n">måedtieh såarhth</l>
+         <l pos="N">måedtieh såarhth</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_a" stat="pref" tcomm="no">mange slags</tf>
-            <tf pos="phrase_n" tcomm="no">mange sorter</tf>
+            <t pos="A" stat="pref" tcomm="no">mange slags</t>
+            <t pos="N" tcomm="no">mange sorter</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_a" stat="pref" tcomm="no">många slags</tf>
+            <t pos="A" stat="pref" tcomm="no">många slags</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_a" stat="pref" tcomm="no">mange slags_ENG</t>
+            <t pos="A" stat="pref" tcomm="no">mange slags_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_a" stat="pref" tcomm="no">mange slags_DEU</t>
+            <t pos="A" stat="pref" tcomm="no">mange slags_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_n" stat="pref" tcomm="no">monenlaisia</t>
-            <t pos="phrase_n" stat="notpref" tcomm="no">monta lajia</t>
+            <t pos="N" stat="pref" tcomm="no">monenlaisia</t>
+            <t pos="N" tcomm="no">monta lajia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">naa guhkiem</l>
+         <l pos="Adv">naa guhkiem</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">nokså lenge</tf>
-            <tf pos="phrase_adv" tcomm="no">ganske lenge</tf>
-            <tf pos="phrase_adv" tcomm="no">veldig lenge</tf>
-            <tf pos="phrase_adv" tcomm="no">temmelig lenge</tf>
+            <t pos="Adv" stat="pref" tcomm="no">nokså lenge</t>
+            <t pos="Adv" tcomm="no">ganske lenge</t>
+            <t pos="Adv" tcomm="no">veldig lenge</t>
+            <t pos="Adv" tcomm="no">temmelig lenge</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">ganska länge</tf>
+            <t pos="Adv" stat="pref" tcomm="no">ganska länge</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">nokså lenge_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">nokså lenge_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">nokså lenge_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">nokså lenge_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">aika kauan</t>
+            <t pos="Adv" stat="pref" tcomm="no">aika kauan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">naan aejkien</l>
+         <l pos="Adv">naan aejkien</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">noen ganger</tf>
-            <tf pos="phrase_adv" tcomm="no">enkelte ganger</tf>
-            <tf pos="phrase_adv" tcomm="no">noen gang</tf>
+            <t pos="Adv" stat="pref" tcomm="no">noen ganger</t>
+            <t pos="Adv" tcomm="no">enkelte ganger</t>
+            <t pos="Adv" tcomm="no">noen gang</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">någon gång</tf>
+            <t pos="Adv" stat="pref" tcomm="no">någon gång</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">noen ganger_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">noen ganger_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">noen ganger_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">noen ganger_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">pari kertaa</t>
+            <t pos="Adv" stat="pref" tcomm="no">pari kertaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">novh amma</l>
+         <l pos="Interj">novh amma</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="notpref" tcomm="no">jo</t>
-            <tf pos="phrase_i" stat="pref" tcomm="no">jo visst</tf>
-            <t pos="adv" stat="notpref" tcomm="no">altså</t>
-            <t pos="adv" stat="notpref" tcomm="no">virkelig</t>
-            <t pos="adv" stat="notpref" tcomm="no">sikkert</t>
-            <t pos="adv" stat="notpref" tcomm="no">sannelig</t>
+            <t pos="Adv" tcomm="no">jo</t>
+            <t pos="Interj" stat="pref" tcomm="no">jo visst</t>
+            <t pos="Adv" tcomm="no">altså</t>
+            <t pos="Adv" tcomm="no">virkelig</t>
+            <t pos="Adv" tcomm="no">sikkert</t>
+            <t pos="Adv" tcomm="no">sannelig</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">javisst</tf>
+            <t pos="Interj" stat="pref" tcomm="no">javisst</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="notpref" tcomm="no">jo_ENG</t>
+            <t pos="Adv" tcomm="no">jo_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="notpref" tcomm="no">jo_DEU</t>
+            <t pos="Adv" tcomm="no">jo_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">toki</t>
@@ -1605,199 +1605,199 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">novh gujht</l>
+         <l pos="Interj">novh gujht</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">jo visst</tf>
+            <t pos="Interj" stat="pref" tcomm="no">jo visst</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">javisst</tf>
+            <t pos="Interj" stat="pref" tcomm="no">javisst</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">jo visst_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">jo visst_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">jo visst_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">jo visst_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">aivan</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">kyllä</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">joo</t>
+            <t pos="Interj" stat="pref" tcomm="no">aivan</t>
+            <t pos="Interj" tcomm="no">kyllä</t>
+            <t pos="Interj" tcomm="no">joo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">novh hævvi</l>
+         <l pos="Interj">novh hævvi</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="adv" stat="pref" tcomm="no">selvfølgelig</t>
-            <t pos="adv" stat="notpref" tcomm="no">såklart</t>
-            <tf pos="phrase_i" tcomm="no">så klart</tf>
+            <t pos="Adv" stat="pref" tcomm="no">selvfølgelig</t>
+            <t pos="Adv" tcomm="no">såklart</t>
+            <t pos="Interj" tcomm="no">så klart</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="adv" stat="pref" tcomm="no">självklart</t>
+            <t pos="Adv" stat="pref" tcomm="no">självklart</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" stat="pref" tcomm="no">selvfølgelig_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">selvfølgelig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" stat="pref" tcomm="no">selvfølgelig_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">selvfølgelig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">tietenkin</t>
-            <t pos="xxx" stat="notpref" tcomm="no">luonnollisesti</t>
+            <t pos="xxx" tcomm="no">luonnollisesti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">novh lea</l>
+         <l pos="Interj">novh lea</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">ja slik er det</tf>
-            <tf pos="phrase_i" tcomm="no">ja sånn er det</tf>
-            <tf pos="phrase_i" tcomm="no">slik er det</tf>
-            <tf pos="phrase_i" tcomm="no">sånn er det</tf>
+            <t pos="Interj" stat="pref" tcomm="no">ja slik er det</t>
+            <t pos="Interj" tcomm="no">ja sånn er det</t>
+            <t pos="Interj" tcomm="no">slik er det</t>
+            <t pos="Interj" tcomm="no">sånn er det</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">ja så är det</tf>
+            <t pos="Interj" stat="pref" tcomm="no">ja så är det</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">ja slik er det_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja slik er det_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">ja slik er det_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">ja slik er det_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">näin on</t>
+            <t pos="Interj" stat="pref" tcomm="no">näin on</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">novh maa</l>
+         <l pos="Interj">novh maa</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">jo da</tf>
-            <tf pos="phrase_i" tcomm="no">ja riktignok</tf>
+            <t pos="Interj" stat="pref" tcomm="no">jo da</t>
+            <t pos="Interj" tcomm="no">ja riktignok</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">jo då</tf>
+            <t pos="Interj" stat="pref" tcomm="no">jo då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">jo da_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">jo da_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">jo da_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">jo da_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">jo toki</t>
-            <t pos="xxx" stat="notpref" tcomm="no">niin kyllä</t>
+            <t pos="xxx" tcomm="no">niin kyllä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">nåå nåå</l>
+         <l pos="Interj">nåå nåå</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="i" stat="pref" tcomm="no">adjø</t>
-            <tf pos="phrase_i" tcomm="no">ha det bra</tf>
-            <tf pos="phrase_i" tcomm="no">ha det</tf>
-            <t pos="n" stat="notpref" tcomm="no">farvel</t>
+            <t pos="Interj" stat="pref" tcomm="no">adjø</t>
+            <t pos="Interj" tcomm="no">ha det bra</t>
+            <t pos="Interj" tcomm="no">ha det</t>
+            <t pos="N" tcomm="no">farvel</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="i" stat="pref" tcomm="no">hej då</t>
+            <t pos="Interj" stat="pref" tcomm="no">hej då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="i" stat="pref" tcomm="no">adjø_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">adjø_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="i" stat="pref" tcomm="no">adjø_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">adjø_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">näkemiin</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">hyvästi</t>
+            <t pos="Interj" stat="pref" tcomm="no">näkemiin</t>
+            <t pos="Interj" tcomm="no">hyvästi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">nåå nåå dellie</l>
+         <l pos="Interj">nåå nåå dellie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">adjø så lenge</tf>
-            <tf pos="phrase_i" tcomm="no">adjø og på gjensyn</tf>
-            <tf pos="phrase_i" tcomm="no">ha det bra så lenge</tf>
-            <tf pos="phrase_i" tcomm="no">ha det bra og på gjensyn</tf>
-            <tf pos="phrase_i" tcomm="no">på gjensyn</tf>
-            <tf pos="phrase_i" tcomm="no">ha det bra</tf>
-            <tf pos="phrase_i" tcomm="no">ha det</tf>
-            <t pos="n" stat="notpref" tcomm="no">adjø</t>
-            <t pos="n" stat="notpref" tcomm="no">farvel</t>
-            <tf pos="phrase_i" tcomm="no">ha det bra nå</tf>
-            <tf pos="phrase_i" tcomm="no">ha det bra da</tf>
+            <t pos="Interj" stat="pref" tcomm="no">adjø så lenge</t>
+            <t pos="Interj" tcomm="no">adjø og på gjensyn</t>
+            <t pos="Interj" tcomm="no">ha det bra så lenge</t>
+            <t pos="Interj" tcomm="no">ha det bra og på gjensyn</t>
+            <t pos="Interj" tcomm="no">på gjensyn</t>
+            <t pos="Interj" tcomm="no">ha det bra</t>
+            <t pos="Interj" tcomm="no">ha det</t>
+            <t pos="N" tcomm="no">adjø</t>
+            <t pos="N" tcomm="no">farvel</t>
+            <t pos="Interj" tcomm="no">ha det bra nå</t>
+            <t pos="Interj" tcomm="no">ha det bra da</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">adjö så länge</tf>
+            <t pos="Interj" stat="pref" tcomm="no">adjö så länge</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">adjø så lenge_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">adjø så lenge_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">adjø så lenge_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">adjø så lenge_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">näkemiin</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">hyvästi</t>
+            <t pos="Interj" stat="pref" tcomm="no">näkemiin</t>
+            <t pos="Interj" tcomm="no">hyvästi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">saarnoeh jeahtah</l>
+         <l pos="Interj">saarnoeh jeahtah</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">i alle dager</tf>
-            <tf pos="phrase_i" tcomm="no">hva i all verden sier du</tf>
+            <t pos="Interj" stat="pref" tcomm="no">i alle dager</t>
+            <t pos="Interj" tcomm="no">hva i all verden sier du</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">vad i all världen</tf>
+            <t pos="Interj" stat="pref" tcomm="no">vad i all världen</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">i alle dager_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">i alle dager_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">i alle dager_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">i alle dager_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">sanopa se</t>
@@ -1806,130 +1806,130 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_v">saemesth amma</l>
+         <l pos="V">saemesth amma</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_v" stat="pref" tcomm="no">snakk samisk da</tf>
-            <tf pos="phrase_v" tcomm="no">snakk samisk</tf>
+            <t pos="V" stat="pref" tcomm="no">snakk samisk da</t>
+            <t pos="V" tcomm="no">snakk samisk</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_v" stat="pref" tcomm="no">prata samiska då</tf>
+            <t pos="V" stat="pref" tcomm="no">prata samiska då</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_v" stat="pref" tcomm="no">snakk samisk_ENG</t>
+            <t pos="V" stat="pref" tcomm="no">snakk samisk_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_v" stat="pref" tcomm="no">snakk samisk_DEU</t>
+            <t pos="V" stat="pref" tcomm="no">snakk samisk_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_v" stat="pref" tcomm="no">puhua saamea</t>
+            <t pos="V" stat="pref" tcomm="no">puhua saamea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_v">skodth varki</l>
+         <l pos="V">skodth varki</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_v" stat="pref" tcomm="no">skynd deg</tf>
-            <tf pos="phrase_v" tcomm="no">fort deg</tf>
+            <t pos="V" stat="pref" tcomm="no">skynd deg</t>
+            <t pos="V" tcomm="no">fort deg</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_v" stat="pref" tcomm="no">skynda dig</tf>
+            <t pos="V" stat="pref" tcomm="no">skynda dig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_v" stat="pref" tcomm="no">skynd deg_ENG</t>
+            <t pos="V" stat="pref" tcomm="no">skynd deg_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_v" stat="pref" tcomm="no">skynd deg_DEU</t>
+            <t pos="V" stat="pref" tcomm="no">skynd deg_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_v" stat="pref" tcomm="no">kiirehdi</t>
+            <t pos="V" stat="pref" tcomm="no">kiirehdi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">tjaktje doekoe</l>
+         <l pos="Adv">tjaktje doekoe</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">utover høsten</tf>
-            <tf pos="phrase_adv" tcomm="no">utpå høsten</tf>
-            <tf pos="phrase_adv" tcomm="no">ut på høsten</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utover høsten</t>
+            <t pos="Adv" tcomm="no">utpå høsten</t>
+            <t pos="Adv" tcomm="no">ut på høsten</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">utöver hösten</tf>
+            <t pos="Adv" stat="pref" tcomm="no">utöver hösten</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover høsten_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover høsten_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">utover høsten_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">utover høsten_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">syksymmälle</t>
+            <t pos="Adv" stat="pref" tcomm="no">syksymmälle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_v">tæjmosne båatam</l>
+         <l pos="V">tæjmosne båatam</l>
       </lg>
       <mg>
          <semantics>
             <sem class="TIME_U" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_v" stat="pref" tcomm="no">jeg kommer om en time</tf>
-            <tf pos="phrase_v" tcomm="no">jeg kommer på en time</tf>
-            <tf pos="phrase_v" tcomm="no">jeg kommer i løpet av en time</tf>
-            <tf pos="phrase_v" tcomm="no">jeg kommer innen en time</tf>
+            <t pos="V" stat="pref" tcomm="no">jeg kommer om en time</t>
+            <t pos="V" tcomm="no">jeg kommer på en time</t>
+            <t pos="V" tcomm="no">jeg kommer i løpet av en time</t>
+            <t pos="V" tcomm="no">jeg kommer innen en time</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_v" stat="pref" tcomm="no">jag kommer om en timme</tf>
+            <t pos="V" stat="pref" tcomm="no">jag kommer om en timme</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_v" stat="pref" tcomm="no">jeg kommer om en time_ENG</t>
+            <t pos="V" stat="pref" tcomm="no">jeg kommer om en time_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_v" stat="pref" tcomm="no">jeg kommer om en time_DEU</t>
+            <t pos="V" stat="pref" tcomm="no">jeg kommer om en time_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_v" stat="pref" tcomm="no">tulen tunnin kuluttua</t>
+            <t pos="V" stat="pref" tcomm="no">tulen tunnin kuluttua</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">vihth masten</l>
+         <l pos="Adv">vihth masten</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">til forveksling</tf>
+            <t pos="Adv" stat="pref" tcomm="no">til forveksling</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">till förväxling</tf>
+            <t pos="Adv" stat="pref" tcomm="no">till förväxling</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">til forveksling_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">til forveksling_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">til forveksling_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">til forveksling_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">vaihteen vuoksi</t>
@@ -1938,120 +1938,120 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_adv">voestes gietjeste</l>
+         <l pos="Adv">voestes gietjeste</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">i førstningen</tf>
-            <tf pos="phrase_adv" tcomm="no">fra begynnelsen</tf>
-            <tf pos="phrase_adv" tcomm="no">i begynnelsen</tf>
-            <tf pos="phrase_adv" tcomm="no">i starten</tf>
-            <tf pos="phrase_adv" tcomm="no">fra første ende</tf>
-            <tf pos="phrase_adv" tcomm="no">fra begynnelsen av</tf>
-            <tf pos="phrase_adv" tcomm="no">fra starten av</tf>
+            <t pos="Adv" stat="pref" tcomm="no">i førstningen</t>
+            <t pos="Adv" tcomm="no">fra begynnelsen</t>
+            <t pos="Adv" tcomm="no">i begynnelsen</t>
+            <t pos="Adv" tcomm="no">i starten</t>
+            <t pos="Adv" tcomm="no">fra første ende</t>
+            <t pos="Adv" tcomm="no">fra begynnelsen av</t>
+            <t pos="Adv" tcomm="no">fra starten av</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_adv" stat="pref" tcomm="no">från början</tf>
+            <t pos="Adv" stat="pref" tcomm="no">från början</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i førstningen_ENG</t>
+            <t pos="Adv" stat="pref" tcomm="no">i førstningen_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_adv" stat="pref" tcomm="no">i førstningen_DEU</t>
+            <t pos="Adv" stat="pref" tcomm="no">i førstningen_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_adv" stat="pref" tcomm="no">alussa</t>
+            <t pos="Adv" stat="pref" tcomm="no">alussa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">vuajnah tjaangh</l>
+         <l pos="Interj">vuajnah tjaangh</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">vær så god og gå inn</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god gå inn</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god og kom inn</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god kom inn</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god og stig på</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god stig på</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god og stig inn</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god stig inn</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god å stige på</tf>
-            <tf pos="phrase_i" tcomm="no">vær så god å stige inn</tf>
-            <tf pos="phrase_i" tcomm="no">se til å gå inn</tf>
+            <t pos="Interj" stat="pref" tcomm="no">vær så god og gå inn</t>
+            <t pos="Interj" tcomm="no">vær så god gå inn</t>
+            <t pos="Interj" tcomm="no">vær så god og kom inn</t>
+            <t pos="Interj" tcomm="no">vær så god kom inn</t>
+            <t pos="Interj" tcomm="no">vær så god og stig på</t>
+            <t pos="Interj" tcomm="no">vær så god stig på</t>
+            <t pos="Interj" tcomm="no">vær så god og stig inn</t>
+            <t pos="Interj" tcomm="no">vær så god stig inn</t>
+            <t pos="Interj" tcomm="no">vær så god å stige på</t>
+            <t pos="Interj" tcomm="no">vær så god å stige inn</t>
+            <t pos="Interj" tcomm="no">se til å gå inn</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">stig in</tf>
+            <t pos="Interj" stat="pref" tcomm="no">stig in</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">vær så god og gå inn_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">vær så god og gå inn_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">vær så god og gå inn_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">vær så god og gå inn_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">tule sisään</t>
-            <t pos="phrase_i" stat="notpref" tcomm="no">tulkaa sisään</t>
+            <t pos="Interj" stat="pref" tcomm="no">tule sisään</t>
+            <t pos="Interj" tcomm="no">tulkaa sisään</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_i">vuertieh ånnetji</l>
+         <l pos="Interj">vuertieh ånnetji</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_i" stat="pref" tcomm="no">vent litt</tf>
-            <tf pos="phrase_i" tcomm="no">vent en stund</tf>
-            <t pos="v" stat="notpref" tcomm="yes">vent</t>
+            <t pos="Interj" stat="pref" tcomm="no">vent litt</t>
+            <t pos="Interj" tcomm="no">vent en stund</t>
+            <t pos="V" tcomm="yes">vent</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_i" stat="pref" tcomm="no">vänta lite</tf>
+            <t pos="Interj" stat="pref" tcomm="no">vänta lite</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_i" stat="pref" tcomm="no">vent litt_ENG</t>
+            <t pos="Interj" stat="pref" tcomm="no">vent litt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_i" stat="pref" tcomm="no">vent litt_DEU</t>
+            <t pos="Interj" stat="pref" tcomm="no">vent litt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_i" stat="pref" tcomm="no">odota vähän</t>
+            <t pos="Interj" stat="pref" tcomm="no">odota vähän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_v">åejjieh saejriedieh</l>
+         <l pos="V">åejjieh saejriedieh</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_v" stat="pref" tcomm="no">hodet verker</tf>
-            <tf pos="phrase_v" tcomm="no">hodene verker</tf>
-            <tf pos="phrase_v" tcomm="no">vondt i hodet</tf>
-            <tf pos="phrase_v" tcomm="no">hodet er vondt</tf>
+            <t pos="V" stat="pref" tcomm="no">hodet verker</t>
+            <t pos="V" tcomm="no">hodene verker</t>
+            <t pos="V" tcomm="no">vondt i hodet</t>
+            <t pos="V" tcomm="no">hodet er vondt</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_v" stat="pref" tcomm="no">det gör ont i huvudet</tf>
+            <t pos="V" stat="pref" tcomm="no">det gör ont i huvudet</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_v" stat="pref" tcomm="no">hodet verker_ENG</t>
+            <t pos="V" stat="pref" tcomm="no">hodet verker_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_v" stat="pref" tcomm="no">hodet verker_DEU</t>
+            <t pos="V" stat="pref" tcomm="no">hodet verker_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx" stat="pref" tcomm="no">päätä särkee</t>
@@ -2060,52 +2060,52 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase_n">gårroeh bielie</l>
+         <l pos="N">gårroeh bielie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_n" stat="pref" tcomm="no">venstre side</tf>
+            <t pos="N" stat="pref" tcomm="no">venstre side</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n" stat="pref" tcomm="no">vänster sida</tf>
+            <t pos="N" stat="pref" tcomm="no">vänster sida</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_n" stat="pref" tcomm="no">venstre side_ENG</t>
+            <t pos="N" stat="pref" tcomm="no">venstre side_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_n" stat="pref" tcomm="no">venstre side_DEU</t>
+            <t pos="N" stat="pref" tcomm="no">venstre side_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_n" stat="pref" tcomm="no">vasen puoli</t>
+            <t pos="N" stat="pref" tcomm="no">vasen puoli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase_n">åelkies bielie</l>
+         <l pos="N">åelkies bielie</l>
       </lg>
       <mg>
          <semantics>
             <sem class="EXPRESSIONS" />
          </semantics>
          <tg xml:lang="nob">
-            <tf pos="phrase_n" stat="pref" tcomm="no">høyre side</tf>
-            <tf pos="phrase_n" tcomm="no">høgre side</tf>
+            <t pos="N" stat="pref" tcomm="no">høyre side</t>
+            <t pos="N" tcomm="no">høgre side</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n" stat="pref" tcomm="no">höger sida</tf>
+            <t pos="N" stat="pref" tcomm="no">höger sida</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="phrase_n" stat="pref" tcomm="no">høyre side_ENG</t>
+            <t pos="N" stat="pref" tcomm="no">høyre side_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="phrase_n" stat="pref" tcomm="no">høyre side_DEU</t>
+            <t pos="N" stat="pref" tcomm="no">høyre side_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="phrase_n" stat="pref" tcomm="no">oikea puoli</t>
+            <t pos="N" stat="pref" tcomm="no">oikea puoli</t>
          </tg>
       </mg>
    </e>
