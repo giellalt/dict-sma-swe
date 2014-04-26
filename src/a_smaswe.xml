@@ -83,7 +83,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">rauhallinen</t>
-            <t pos="A" stat="notpref" tcomm="no">pedoton</t>
+            <t pos="A" tcomm="no">pedoton</t>
          </tg>
       </mg>
    </e>
@@ -171,10 +171,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">enkel</t>
-            <t pos="A" stat="notpref" tcomm="no">lett</t>
-            <t pos="A" stat="notpref" tcomm="no">enkelt</t>
-            <t pos="A" stat="notpref" tcomm="no">lettvint</t>
-            <t pos="A" stat="notpref" tcomm="no">elementært</t>
+            <t pos="A" tcomm="no">lett</t>
+            <t pos="A" tcomm="no">enkelt</t>
+            <t pos="A" tcomm="no">lettvint</t>
+            <t pos="A" tcomm="no">elementært</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">lätt</t>
@@ -276,7 +276,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">arka</t>
-            <t pos="A" stat="notpref" tcomm="no">hermostunut</t>
+            <t pos="A" tcomm="no">hermostunut</t>
          </tg>
       </mg>
       <mg>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">redd</t>
-            <t pos="A" stat="notpref" tcomm="no">fryktsom</t>
+            <t pos="A" tcomm="no">fryktsom</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">rãdd</t>
@@ -316,7 +316,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">fremmed</t>
-            <t pos="A" stat="notpref" tcomm="no">ukjent</t>
+            <t pos="A" tcomm="no">ukjent</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">främmande</t>
@@ -330,7 +330,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">vieras</t>
-            <t pos="A" stat="notpref" tcomm="no">outo</t>
+            <t pos="A" tcomm="no">outo</t>
          </tg>
       </mg>
    </e>
@@ -348,10 +348,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">varm</t>
-            <t pos="A" stat="notpref" tcomm="no">varmt</t>
-            <t pos="A" stat="notpref" tcomm="no">het</t>
-            <t pos="A" stat="notpref" tcomm="no">heit</t>
-            <t pos="A" stat="notpref" tcomm="no">hett</t>
+            <t pos="A" tcomm="no">varmt</t>
+            <t pos="A" tcomm="no">het</t>
+            <t pos="A" tcomm="no">heit</t>
+            <t pos="A" tcomm="no">hett</t>
             <t pos="A" tcomm="no">som har det med å være varm</t>
          </tg>
          <tg xml:lang="swe">
@@ -362,7 +362,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="deu">
             <t pos="A" stat="pref" tcomm="no">warm</t>
-            <t pos="A" stat="notpref" tcomm="no">heiss</t>
+            <t pos="A" tcomm="no">heiss</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">lämmin</t>
@@ -401,11 +401,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bitter</t>
-            <t pos="A" stat="notpref" tcomm="no">bittert</t>
-            <t pos="A" stat="notpref" tcomm="no">besk</t>
-            <t pos="A" stat="notpref" tcomm="no">beskt</t>
-            <t pos="A" stat="notpref" tcomm="no">sur</t>
-            <t pos="A" stat="notpref" tcomm="no">surt</t>
+            <t pos="A" tcomm="no">bittert</t>
+            <t pos="A" tcomm="no">besk</t>
+            <t pos="A" tcomm="no">beskt</t>
+            <t pos="A" tcomm="no">sur</t>
+            <t pos="A" tcomm="no">surt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">bitter</t>
@@ -434,7 +434,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">vindfull</t>
-            <t pos="A" stat="notpref" tcomm="no">vindfullt</t>
+            <t pos="A" tcomm="no">vindfullt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">vindig</t>
@@ -483,7 +483,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bar</t>
-            <t pos="A" stat="notpref" tcomm="no">bart</t>
+            <t pos="A" tcomm="no">bart</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">bar</t>
@@ -543,7 +543,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">døv</t>
-            <t pos="A" stat="notpref" tcomm="no">tunghørt</t>
+            <t pos="A" tcomm="no">tunghørt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">döv</t>
@@ -572,7 +572,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bitter</t>
-            <t pos="A" stat="notpref" tcomm="no">bittert</t>
+            <t pos="A" tcomm="no">bittert</t>
             <t pos="A" tcomm="no">stram i smaken</t>
          </tg>
          <tg xml:lang="swe">
@@ -602,9 +602,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">gavmild</t>
-            <t pos="A" stat="notpref" tcomm="no">vennlig</t>
-            <t pos="A" stat="notpref" tcomm="no">godhjertet</t>
-            <t pos="A" stat="notpref" tcomm="no">snill</t>
+            <t pos="A" tcomm="no">vennlig</t>
+            <t pos="A" tcomm="no">godhjertet</t>
+            <t pos="A" tcomm="no">snill</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">givmild</t>
@@ -633,7 +633,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">feit</t>
-            <t pos="A" stat="notpref" tcomm="no">fet</t>
+            <t pos="A" tcomm="no">fet</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">fet</t>
@@ -668,13 +668,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bra</t>
-            <t pos="A" stat="notpref" tcomm="no">god</t>
-            <t pos="A" stat="notpref" tcomm="no">godt</t>
+            <t pos="A" tcomm="no">god</t>
+            <t pos="A" tcomm="no">godt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">bra</t>
-            <t pos="A" stat="notpref" tcomm="no">god</t>
-            <t pos="A" stat="notpref" tcomm="no">gott</t>
+            <t pos="A" tcomm="no">god</t>
+            <t pos="A" tcomm="no">gott</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">good</t>
@@ -700,8 +700,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">naken</t>
-            <t pos="A" stat="notpref" tcomm="no">bar</t>
-            <t pos="A" stat="notpref" tcomm="no">uten klær</t>
+            <t pos="A" tcomm="no">bar</t>
+            <t pos="A" tcomm="no">uten klær</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">naken</t>
@@ -730,10 +730,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">gal</t>
-            <t pos="A" stat="notpref" tcomm="no">galt</t>
+            <t pos="A" tcomm="no">galt</t>
             <t pos="A" tcomm="no">ikke riktig</t>
             <t pos="A" tcomm="no">ikke rett</t>
-            <t pos="A" stat="notpref" tcomm="no">feil</t>
+            <t pos="A" tcomm="no">feil</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">gal</t>
@@ -799,7 +799,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om rein og folk</re>
             <t pos="A" stat="pref" tcomm="no">spredt</t>
-            <t pos="A" stat="notpref" tcomm="no">utspredt</t>
+            <t pos="A" tcomm="no">utspredt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om ren och folk</re>
@@ -830,9 +830,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">vondt</t>
-            <t pos="A" stat="notpref" tcomm="no">vond</t>
-            <t pos="A" stat="notpref" tcomm="no">verkende</t>
-            <t pos="A" stat="notpref" tcomm="no">smertende</t>
+            <t pos="A" tcomm="no">vond</t>
+            <t pos="A" tcomm="no">verkende</t>
+            <t pos="A" tcomm="no">smertende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ont</t>
@@ -861,8 +861,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tykkhåret</t>
-            <t pos="A" stat="notpref" tcomm="no">lodden</t>
-            <t pos="A" stat="notpref" tcomm="no">loddent</t>
+            <t pos="A" tcomm="no">lodden</t>
+            <t pos="A" tcomm="no">loddent</t>
             <t pos="A" tcomm="no">tykk i pelsen</t>
          </tg>
          <tg xml:lang="swe">
@@ -902,10 +902,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om klær og vær</re>
             <t pos="A" stat="pref" tcomm="no">varm</t>
-            <t pos="A" stat="notpref" tcomm="no">mild</t>
-            <t pos="A" stat="notpref" tcomm="no">varmt</t>
-            <t pos="A" stat="notpref" tcomm="no">het</t>
-            <t pos="A" stat="notpref" tcomm="no">hett</t>
+            <t pos="A" tcomm="no">mild</t>
+            <t pos="A" tcomm="no">varmt</t>
+            <t pos="A" tcomm="no">het</t>
+            <t pos="A" tcomm="no">hett</t>
          </tg>
          <tg xml:lang="swe">
             <re>om kläder och väder</re>
@@ -913,7 +913,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">warm</t>
-            <t pos="A" stat="notpref" tcomm="no">hot</t>
+            <t pos="A" tcomm="no">hot</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="A" stat="pref" tcomm="no">warm</t>
@@ -937,10 +937,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">som kjent</t>
-            <t pos="A" stat="notpref" tcomm="no">som man vet</t>
+            <t pos="A" tcomm="no">som man vet</t>
             <t tcomm="no">som er kjent</t>
-            <t pos="A" stat="notpref" tcomm="no">kjent</t>
-            <t pos="A" stat="notpref" tcomm="no">vitende</t>
+            <t pos="A" tcomm="no">kjent</t>
+            <t pos="A" tcomm="no">vitende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">som känd</t>
@@ -953,7 +953,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tiettävästi</t>
-            <t pos="A" stat="notpref" tcomm="no">tietysti</t>
+            <t pos="A" tcomm="no">tietysti</t>
          </tg>
       </mg>
    </e>
@@ -970,7 +970,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">nåtidens</t>
-            <t pos="A" stat="notpref" tcomm="no">nåværende</t>
+            <t pos="A" tcomm="no">nåværende</t>
             <t pos="A" stat="pref" tcomm="no">moderne</t>
          </tg>
          <tg xml:lang="swe">
@@ -1004,7 +1004,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">nykyaikainen</t>
-            <t pos="A" stat="notpref" tcomm="no">moderni</t>
+            <t pos="A" tcomm="no">moderni</t>
          </tg>
       </mg>
    </e>
@@ -1023,7 +1023,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tam</t>
-            <t pos="A" stat="notpref" tcomm="no">temt</t>
+            <t pos="A" tcomm="no">temt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tam</t>
@@ -1069,7 +1069,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tarpeellinen</t>
-            <t pos="A" stat="notpref" tcomm="no">tarpeen</t>
+            <t pos="A" tcomm="no">tarpeen</t>
          </tg>
       </mg>
    </e>
@@ -1080,7 +1080,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">nervøs</t>
-            <t pos="A" stat="notpref" tcomm="no">skvetten</t>
+            <t pos="A" tcomm="no">skvetten</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">nervös</t>
@@ -1149,9 +1149,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">dyr</t>
-            <t pos="A" stat="notpref" tcomm="no">dyrt</t>
-            <t pos="A" stat="notpref" tcomm="no">kostbar</t>
-            <t pos="A" stat="notpref" tcomm="no">kostbart</t>
+            <t pos="A" tcomm="no">dyrt</t>
+            <t pos="A" tcomm="no">kostbar</t>
+            <t pos="A" tcomm="no">kostbart</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">djur</t>
@@ -1181,9 +1181,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t stat="pref" tcomm="no">som er i flom</t>
-            <t pos="A" stat="notpref" tcomm="no">flommende</t>
+            <t pos="A" tcomm="no">flommende</t>
             <t tcomm="no">i flom</t>
-            <t pos="A" stat="notpref" tcomm="no">flom</t>
+            <t pos="A" tcomm="no">flom</t>
          </tg>
          <tg xml:lang="swe">
             <t stat="pref" tcomm="no">som är i flod</t>
@@ -1220,7 +1220,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tiivis</t>
-            <t pos="A" stat="notpref" tcomm="no">tiheä</t>
+            <t pos="A" tcomm="no">tiheä</t>
          </tg>
       </mg>
    </e>
@@ -1237,8 +1237,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">høflig</t>
-            <t pos="A" stat="notpref" tcomm="no">høvisk</t>
-            <t pos="A" stat="notpref" tcomm="no">forekommende</t>
+            <t pos="A" tcomm="no">høvisk</t>
+            <t pos="A" tcomm="no">forekommende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">artig</t>
@@ -1252,7 +1252,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kohtelias</t>
-            <t pos="A" stat="notpref" tcomm="no">kunnolla käyttäytyvä</t>
+            <t pos="A" tcomm="no">kunnolla käyttäytyvä</t>
          </tg>
       </mg>
    </e>
@@ -1271,7 +1271,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">full</t>
-            <t pos="A" stat="notpref" tcomm="no">fullt</t>
+            <t pos="A" tcomm="no">fullt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">full</t>
@@ -1319,16 +1319,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">energisk</t>
+            <t pos="A" tcomm="no">energisk</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">energisk</t>
+            <t pos="A" tcomm="no">energisk</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">energetic</t>
+            <t pos="A" tcomm="no">energetic</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">energisch</t>
+            <t pos="A" tcomm="no">energisch</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tarmokas</t>
@@ -1336,16 +1336,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">modig</t>
+            <t pos="A" tcomm="no">modig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">modig</t>
+            <t pos="A" tcomm="no">modig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">brave</t>
+            <t pos="A" tcomm="no">brave</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">mutig</t>
+            <t pos="A" tcomm="no">mutig</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">urhea</t>
@@ -1365,8 +1365,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">giddesløs</t>
-            <t pos="A" stat="notpref" tcomm="no">likegyldig</t>
-            <t pos="A" stat="notpref" tcomm="no">sløv</t>
+            <t pos="A" tcomm="no">likegyldig</t>
+            <t pos="A" tcomm="no">sløv</t>
             <t pos="A" tcomm="no">uten arbeidslyst</t>
          </tg>
          <tg xml:lang="swe">
@@ -1399,22 +1399,22 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">skikkelig</t>
-            <t pos="A" stat="notpref" tcomm="no">ordentlig</t>
+            <t pos="A" tcomm="no">ordentlig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ordentlig</t>
-            <t pos="A" stat="notpref" tcomm="no">skötsam</t>
+            <t pos="A" tcomm="no">skötsam</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">proper</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="A" stat="pref" tcomm="no">ziemlich</t>
-            <t pos="A" stat="notpref" tcomm="no">ordentlich</t>
+            <t pos="A" tcomm="no">ordentlich</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">taitava</t>
-            <t pos="A" stat="notpref" tcomm="no">kunnollinen</t>
+            <t pos="A" tcomm="no">kunnollinen</t>
          </tg>
       </mg>
    </e>
@@ -1464,8 +1464,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om kvinner</re>
             <t pos="A" stat="pref" tcomm="no">vakker</t>
-            <t pos="A" stat="notpref" tcomm="no">pen</t>
-            <t pos="A" stat="notpref" tcomm="no">skjønn</t>
+            <t pos="A" tcomm="no">pen</t>
+            <t pos="A" tcomm="no">skjønn</t>
          </tg>
          <tg xml:lang="swe">
             <re>om kvinnor</re>
@@ -1525,9 +1525,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">munter</t>
-            <t pos="A" stat="notpref" tcomm="no">glad</t>
+            <t pos="A" tcomm="no">glad</t>
             <t tcomm="no">på godt humør</t>
-            <t pos="A" stat="notpref" tcomm="no">fornøyd</t>
+            <t pos="A" tcomm="no">fornøyd</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">munter</t>
@@ -1580,7 +1580,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">slimbelagt</t>
-            <t pos="A" stat="notpref" tcomm="no">slimete</t>
+            <t pos="A" tcomm="no">slimete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">slelbelagt</t>
@@ -1610,8 +1610,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">klossete</t>
-            <t pos="A" stat="notpref" tcomm="no">klønete</t>
-            <t pos="A" stat="notpref" tcomm="no">klebbete</t>
+            <t pos="A" tcomm="no">klønete</t>
+            <t pos="A" tcomm="no">klebbete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tafatt</t>
@@ -1641,7 +1641,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">oval</t>
-            <t pos="A" stat="notpref" tcomm="no">ovalt</t>
+            <t pos="A" tcomm="no">ovalt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">oval</t>
@@ -1654,7 +1654,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">soikea</t>
-            <t pos="A" stat="notpref" tcomm="no">pitkulainen</t>
+            <t pos="A" tcomm="no">pitkulainen</t>
          </tg>
       </mg>
    </e>
@@ -1700,9 +1700,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">trang</t>
-            <t pos="A" stat="notpref" tcomm="no">trangt</t>
-            <t pos="A" stat="notpref" tcomm="no">smal</t>
-            <t pos="A" stat="notpref" tcomm="no">smalt</t>
+            <t pos="A" tcomm="no">trangt</t>
+            <t pos="A" tcomm="no">smal</t>
+            <t pos="A" tcomm="no">smalt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">trång</t>
@@ -1737,7 +1737,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">färdig</t>
-            <t pos="A" stat="notpref" tcomm="no">klar</t>
+            <t pos="A" tcomm="no">klar</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">ready</t>
@@ -1776,7 +1776,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">täynnä</t>
-            <t pos="A" stat="notpref" tcomm="no">kylläinen</t>
+            <t pos="A" tcomm="no">kylläinen</t>
          </tg>
       </mg>
    </e>
@@ -1793,8 +1793,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kald</t>
-            <t pos="A" stat="notpref" tcomm="no">kaldt</t>
-            <t pos="A" stat="notpref" tcomm="no">kjølig</t>
+            <t pos="A" tcomm="no">kaldt</t>
+            <t pos="A" tcomm="no">kjølig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kall</t>
@@ -1825,8 +1825,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bred</t>
-            <t pos="A" stat="notpref" tcomm="no">bredt</t>
-            <t pos="A" stat="notpref" tcomm="no">brei</t>
+            <t pos="A" tcomm="no">bredt</t>
+            <t pos="A" tcomm="no">brei</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">bred</t>
@@ -1855,8 +1855,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tildekket</t>
-            <t pos="A" stat="notpref" tcomm="no">lukket</t>
-            <t pos="A" stat="notpref" tcomm="no">stengt</t>
+            <t pos="A" tcomm="no">lukket</t>
+            <t pos="A" tcomm="no">stengt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tilltäppt</t>
@@ -1886,8 +1886,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">stolt</t>
-            <t pos="A" stat="notpref" tcomm="no">kry</t>
-            <t pos="A" stat="notpref" tcomm="no">selvsikker</t>
+            <t pos="A" tcomm="no">kry</t>
+            <t pos="A" tcomm="no">selvsikker</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">stolt</t>
@@ -1917,7 +1917,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hard</t>
-            <t pos="A" stat="notpref" tcomm="no">hardt</t>
+            <t pos="A" tcomm="no">hardt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hård</t>
@@ -1988,7 +1988,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kevyt</t>
-            <t pos="A" stat="notpref" tcomm="no">helppo</t>
+            <t pos="A" tcomm="no">helppo</t>
          </tg>
       </mg>
    </e>
@@ -2005,22 +2005,22 @@ For the full license text, see the link above.</lic>
             <sem class="REINDEER" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">leietam</t>
-            <t pos="A" stat="notpref" tcomm="no">leitam</t>
+            <t pos="A" tcomm="no">leietam</t>
+            <t pos="A" tcomm="no">leitam</t>
             <t pos="A" tcomm="no">en som kommer etter</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ledtam</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">leietam_ENG</t>
+            <t pos="A" tcomm="no">leietam_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">leietam_DEU</t>
+            <t pos="A" tcomm="no">leietam_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kesy</t>
-            <t pos="A" stat="notpref" tcomm="no">taluisa</t>
+            <t pos="A" tcomm="no">taluisa</t>
          </tg>
       </mg>
    </e>
@@ -2042,7 +2042,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">glad</t>
-            <t pos="A" stat="notpref" tcomm="no">lykkelig</t>
+            <t pos="A" tcomm="no">lykkelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">glad</t>
@@ -2144,7 +2144,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">ordentlig</t>
-            <t pos="A" stat="notpref" tcomm="no">skikkelig</t>
+            <t pos="A" tcomm="no">skikkelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ordentlig</t>
@@ -2157,7 +2157,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kunnollinen</t>
-            <t pos="A" stat="notpref" tcomm="no">kelpo</t>
+            <t pos="A" tcomm="no">kelpo</t>
          </tg>
       </mg>
    </e>
@@ -2178,7 +2178,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tørr</t>
-            <t pos="A" stat="notpref" tcomm="no">tørt</t>
+            <t pos="A" tcomm="no">tørt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">torr</t>
@@ -2208,7 +2208,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om klær</re>
             <t pos="A" stat="pref" tcomm="no">vid</t>
-            <t pos="A" stat="notpref" tcomm="no">vidt</t>
+            <t pos="A" tcomm="no">vidt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om kl</re>
@@ -2222,7 +2222,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">väljä</t>
-            <t pos="A" stat="notpref" tcomm="no">leveä</t>
+            <t pos="A" tcomm="no">leveä</t>
          </tg>
       </mg>
    </e>
@@ -2236,7 +2236,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">smal</t>
-            <t pos="A" stat="notpref" tcomm="no">smalt</t>
+            <t pos="A" tcomm="no">smalt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">smal</t>
@@ -2323,9 +2323,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kjær</t>
-            <t pos="A" stat="notpref" tcomm="no">elsket</t>
-            <t pos="A" stat="notpref" tcomm="no">elskede</t>
-            <t pos="A" stat="notpref" tcomm="no">kjære</t>
+            <t pos="A" tcomm="no">elsket</t>
+            <t pos="A" tcomm="no">elskede</t>
+            <t pos="A" tcomm="no">kjære</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kär</t>
@@ -2379,8 +2379,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">snar</t>
-            <t pos="A" stat="notpref" tcomm="no">rask</t>
-            <t pos="A" stat="notpref" tcomm="no">hurtig</t>
+            <t pos="A" tcomm="no">rask</t>
+            <t pos="A" tcomm="no">hurtig</t>
             <t tcomm="no">som løper fort</t>
          </tg>
          <tg xml:lang="swe">
@@ -2477,8 +2477,8 @@ For the full license text, see the link above.</lic>
             <t pos="A" tcomm="no">svært kaldt</t>
             <t pos="A" tcomm="no">veldig kald</t>
             <t pos="A" tcomm="no">veldig kaldt</t>
-            <t pos="A" stat="notpref" tcomm="no">kald</t>
-            <t pos="A" stat="notpref" tcomm="no">kaldt</t>
+            <t pos="A" tcomm="no">kald</t>
+            <t pos="A" tcomm="no">kaldt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om fjäll eller vind eller år</re>
@@ -2514,7 +2514,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">lang</t>
-            <t pos="A" stat="notpref" tcomm="no">langt</t>
+            <t pos="A" tcomm="no">langt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">lång</t>
@@ -2545,8 +2545,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">snar</t>
-            <t pos="A" stat="notpref" tcomm="no">rask</t>
-            <t pos="A" stat="notpref" tcomm="no">hurtig</t>
+            <t pos="A" tcomm="no">rask</t>
+            <t pos="A" tcomm="no">hurtig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">snabb</t>
@@ -2595,10 +2595,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">dugelig</t>
-            <t pos="A" stat="notpref" tcomm="no">brukbar</t>
-            <t pos="A" stat="notpref" tcomm="no">gagnelig</t>
-            <t pos="A" stat="notpref" tcomm="no">passende</t>
-            <t pos="A" stat="notpref" tcomm="no">brukelig</t>
+            <t pos="A" tcomm="no">brukbar</t>
+            <t pos="A" tcomm="no">gagnelig</t>
+            <t pos="A" tcomm="no">passende</t>
+            <t pos="A" tcomm="no">brukelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">duglig</t>
@@ -2611,7 +2611,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kelvollinen</t>
-            <t pos="A" stat="notpref" tcomm="no">sopiva</t>
+            <t pos="A" tcomm="no">sopiva</t>
          </tg>
       </mg>
    </e>
@@ -2628,10 +2628,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kroket</t>
-            <t pos="A" stat="notpref" tcomm="no">krokete</t>
-            <t pos="A" stat="notpref" tcomm="no">bøyd</t>
-            <t pos="A" stat="notpref" tcomm="no">skjev</t>
-            <t pos="A" stat="notpref" tcomm="no">skeiv</t>
+            <t pos="A" tcomm="no">krokete</t>
+            <t pos="A" tcomm="no">bøyd</t>
+            <t pos="A" tcomm="no">skjev</t>
+            <t pos="A" tcomm="no">skeiv</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">krokig</t>
@@ -2661,7 +2661,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tom</t>
-            <t pos="A" stat="notpref" tcomm="no">tomt</t>
+            <t pos="A" tcomm="no">tomt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tom</t>
@@ -2690,9 +2690,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">dum</t>
-            <t pos="A" stat="notpref" tcomm="no">dumt</t>
-            <t pos="A" stat="notpref" tcomm="no">teit</t>
-            <t pos="A" stat="notpref" tcomm="no">toskete</t>
+            <t pos="A" tcomm="no">dumt</t>
+            <t pos="A" tcomm="no">teit</t>
+            <t pos="A" tcomm="no">toskete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">dum</t>
@@ -2743,9 +2743,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">enkelt</t>
-            <t pos="A" stat="notpref" tcomm="no">lett</t>
-            <t pos="A" stat="notpref" tcomm="no">bra</t>
-            <t pos="A" stat="notpref" tcomm="no">greit</t>
+            <t pos="A" tcomm="no">lett</t>
+            <t pos="A" tcomm="no">bra</t>
+            <t pos="A" tcomm="no">greit</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">lätt</t>
@@ -2758,7 +2758,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hyvä</t>
-            <t pos="A" stat="notpref" tcomm="no">helppo</t>
+            <t pos="A" tcomm="no">helppo</t>
          </tg>
       </mg>
    </e>
@@ -2804,7 +2804,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">syk</t>
-            <t pos="A" stat="notpref" tcomm="no">sykelig</t>
+            <t pos="A" tcomm="no">sykelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sjuk</t>
@@ -2861,9 +2861,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">målløs</t>
-            <t pos="A" stat="notpref" tcomm="no">stum</t>
+            <t pos="A" tcomm="no">stum</t>
             <t tcomm="no">uten stemme</t>
-            <t pos="A" stat="notpref" tcomm="yes">språkløs</t>
+            <t pos="A" tcomm="yes">språkløs</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mållös</t>
@@ -2895,8 +2895,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">snill</t>
-            <t pos="A" stat="notpref" tcomm="no">tjenestevilling</t>
-            <t pos="A" stat="notpref" tcomm="no">flink</t>
+            <t pos="A" tcomm="no">tjenestevilling</t>
+            <t pos="A" tcomm="no">flink</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">snäll</t>
@@ -2926,7 +2926,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">dyp</t>
-            <t pos="A" stat="notpref" tcomm="no">dypt</t>
+            <t pos="A" tcomm="no">dypt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">djup</t>
@@ -2956,9 +2956,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om mennesker og runde ting</re>
             <t pos="A" stat="pref" tcomm="no">tykk</t>
-            <t pos="A" stat="notpref" tcomm="no">tjukk</t>
-            <t pos="A" stat="notpref" tcomm="no">tykt</t>
-            <t pos="A" stat="notpref" tcomm="no">tjukt</t>
+            <t pos="A" tcomm="no">tjukk</t>
+            <t pos="A" tcomm="no">tykt</t>
+            <t pos="A" tcomm="no">tjukt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om män och runde ting</re>
@@ -2988,7 +2988,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">prektig</t>
-            <t pos="A" stat="notpref" tcomm="no">staselig</t>
+            <t pos="A" tcomm="no">staselig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">präktig</t>
@@ -3001,7 +3001,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">upea</t>
-            <t pos="A" stat="notpref" tcomm="no">mainio</t>
+            <t pos="A" tcomm="no">mainio</t>
          </tg>
       </mg>
    </e>
@@ -3019,9 +3019,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">fiskerik</t>
-            <t pos="A" stat="notpref" tcomm="no">fiskrik</t>
+            <t pos="A" tcomm="no">fiskrik</t>
             <t pos="A" tcomm="no">gunstig for fiske</t>
-            <t pos="A" stat="notpref" tcomm="no">fiskelig</t>
+            <t pos="A" tcomm="no">fiskelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">fiskrik</t>
@@ -3050,8 +3050,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hardhendt</t>
-            <t pos="A" stat="notpref" tcomm="no">uvøren</t>
-            <t pos="A" stat="notpref" tcomm="no">slurvete</t>
+            <t pos="A" tcomm="no">uvøren</t>
+            <t pos="A" tcomm="no">slurvete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hårdhänt</t>
@@ -3064,7 +3064,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kovakourainen</t>
-            <t pos="A" stat="notpref" tcomm="no">huolimaton</t>
+            <t pos="A" tcomm="no">huolimaton</t>
          </tg>
       </mg>
    </e>
@@ -3081,9 +3081,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">velsmakende</t>
-            <t pos="A" stat="notpref" tcomm="no">lekker</t>
-            <t pos="A" stat="notpref" tcomm="no">godt</t>
-            <t pos="A" stat="notpref" tcomm="no">god</t>
+            <t pos="A" tcomm="no">lekker</t>
+            <t pos="A" tcomm="no">godt</t>
+            <t pos="A" tcomm="no">god</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">smaklig</t>
@@ -3112,7 +3112,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hel</t>
-            <t pos="A" stat="notpref" tcomm="no">helt</t>
+            <t pos="A" tcomm="no">helt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hel</t>
@@ -3148,13 +3148,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bra</t>
-            <t pos="A" stat="notpref" tcomm="no">godt</t>
-            <t pos="A" stat="notpref" tcomm="no">flott</t>
+            <t pos="A" tcomm="no">godt</t>
+            <t pos="A" tcomm="no">flott</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">bra</t>
-            <t pos="A" stat="notpref" tcomm="no">god</t>
-            <t pos="A" stat="notpref" tcomm="no">gott</t>
+            <t pos="A" tcomm="no">god</t>
+            <t pos="A" tcomm="no">gott</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">good</t>
@@ -3164,7 +3164,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hyvä</t>
-            <t pos="A" stat="notpref" tcomm="no">hyvin</t>
+            <t pos="A" tcomm="no">hyvin</t>
          </tg>
       </mg>
    </e>
@@ -3182,9 +3182,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">bedrøvet</t>
-            <t pos="A" stat="notpref" tcomm="no">mismodig</t>
+            <t pos="A" tcomm="no">mismodig</t>
             <t tcomm="no">lei seg</t>
-            <t pos="A" stat="notpref" tcomm="no">trist</t>
+            <t pos="A" tcomm="no">trist</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">bedrövad</t>
@@ -3212,25 +3212,25 @@ For the full license text, see the link above.</lic>
             <sem class="EXPERIENCE_A" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">forferdelig</t>
-            <t pos="A" stat="notpref" tcomm="no">gyselig</t>
+            <t pos="A" tcomm="no">forferdelig</t>
+            <t pos="A" tcomm="no">gyselig</t>
             <t pos="A" stat="pref" tcomm="no">nifs</t>
-            <t pos="A" stat="notpref" tcomm="no">skummel</t>
-            <t pos="A" stat="notpref" tcomm="no">skummelt</t>
+            <t pos="A" tcomm="no">skummel</t>
+            <t pos="A" tcomm="no">skummelt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hemsk</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">gruesome</t>
+            <t pos="A" tcomm="no">gruesome</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">forferdelig_DEU</t>
+            <t pos="A" tcomm="no">forferdelig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hirveä</t>
-            <t pos="A" stat="notpref" tcomm="no">kauhea</t>
-            <t pos="A" stat="notpref" tcomm="no">kamala</t>
+            <t pos="A" tcomm="no">kauhea</t>
+            <t pos="A" tcomm="no">kamala</t>
          </tg>
       </mg>
    </e>
@@ -3247,7 +3247,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">død</t>
-            <t pos="A" stat="notpref" tcomm="no">dødt</t>
+            <t pos="A" tcomm="no">dødt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">död</t>
@@ -3277,11 +3277,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">jevn</t>
-            <t pos="A" stat="notpref" tcomm="no">jevnt</t>
-            <t pos="A" stat="notpref" tcomm="no">slett</t>
+            <t pos="A" tcomm="no">jevnt</t>
+            <t pos="A" tcomm="no">slett</t>
             <t pos="A" tcomm="no">flatet ut</t>
-            <t pos="A" stat="notpref" tcomm="no">flat</t>
-            <t pos="A" stat="notpref" tcomm="no">flatt</t>
+            <t pos="A" tcomm="no">flat</t>
+            <t pos="A" tcomm="no">flatt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">jämn</t>
@@ -3310,9 +3310,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">vilter</t>
-            <t pos="A" stat="notpref" tcomm="no">skøyeraktig</t>
+            <t pos="A" tcomm="no">skøyeraktig</t>
             <t tcomm="no">kvikk og munter</t>
-            <t pos="A" stat="notpref" tcomm="no">munter</t>
+            <t pos="A" tcomm="no">munter</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ostyrig</t>
@@ -3325,7 +3325,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">vallaton</t>
-            <t pos="A" stat="notpref" tcomm="no">rasavilli</t>
+            <t pos="A" tcomm="no">rasavilli</t>
          </tg>
       </mg>
    </e>
@@ -3343,9 +3343,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om flate ting</re>
             <t pos="A" stat="pref" tcomm="no">tykk</t>
-            <t pos="A" stat="notpref" tcomm="no">tjukk</t>
-            <t pos="A" stat="notpref" tcomm="no">tykt</t>
-            <t pos="A" stat="notpref" tcomm="no">tjukt</t>
+            <t pos="A" tcomm="no">tjukk</t>
+            <t pos="A" tcomm="no">tykt</t>
+            <t pos="A" tcomm="no">tjukt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flate ting</re>
@@ -3375,9 +3375,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">klok</t>
-            <t pos="A" stat="notpref" tcomm="no">forstandig</t>
-            <t pos="A" stat="notpref" tcomm="no">smart</t>
-            <t pos="A" stat="notpref" tcomm="no">lur</t>
+            <t pos="A" tcomm="no">forstandig</t>
+            <t pos="A" tcomm="no">smart</t>
+            <t pos="A" tcomm="no">lur</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">klok</t>
@@ -3406,8 +3406,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">trygg</t>
-            <t pos="A" stat="notpref" tcomm="no">trygt</t>
-            <t pos="A" stat="notpref" tcomm="no">tillitsfull</t>
+            <t pos="A" tcomm="no">trygt</t>
+            <t pos="A" tcomm="no">tillitsfull</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">trygg</t>
@@ -3436,7 +3436,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">intens</t>
-            <t pos="A" stat="notpref" tcomm="no">intenst</t>
+            <t pos="A" tcomm="no">intenst</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">intens</t>
@@ -3466,8 +3466,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om flate ting</re>
             <t pos="A" stat="pref" tcomm="no">tynn</t>
-            <t pos="A" stat="notpref" tcomm="no">tynt</t>
-            <t pos="A" stat="notpref" tcomm="no">flat</t>
+            <t pos="A" tcomm="no">tynt</t>
+            <t pos="A" tcomm="no">flat</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flata ting</re>
@@ -3499,7 +3499,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">rund</t>
-            <t pos="A" stat="notpref" tcomm="no">rundt</t>
+            <t pos="A" tcomm="no">rundt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">rund</t>
@@ -3529,8 +3529,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">lysegrå</t>
-            <t pos="A" stat="notpref" tcomm="yes">lys</t>
-            <t pos="A" stat="notpref" tcomm="yes">grå</t>
+            <t pos="A" tcomm="yes">lys</t>
+            <t pos="A" tcomm="yes">grå</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ljusgrå</t>
@@ -3543,7 +3543,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">vaaleanharmaa</t>
-            <t pos="A" stat="notpref" tcomm="no">vaalean harmaa</t>
+            <t pos="A" tcomm="no">vaalean harmaa</t>
          </tg>
       </mg>
    </e>
@@ -3561,9 +3561,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om vær og vind</re>
             <t pos="A" stat="pref" tcomm="no">kjølig</t>
-            <t pos="A" stat="notpref" tcomm="no">kaldt</t>
-            <t pos="A" stat="notpref" tcomm="no">kald</t>
-            <t pos="A" stat="notpref" tcomm="no">hustrig</t>
+            <t pos="A" tcomm="no">kaldt</t>
+            <t pos="A" tcomm="no">kald</t>
+            <t pos="A" tcomm="no">hustrig</t>
          </tg>
          <tg xml:lang="swe">
             <re>om väder och vind</re>
@@ -3577,7 +3577,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">viileä</t>
-            <t pos="A" stat="notpref" tcomm="no">kylmä</t>
+            <t pos="A" tcomm="no">kylmä</t>
          </tg>
       </mg>
    </e>
@@ -3598,7 +3598,7 @@ For the full license text, see the link above.</lic>
             <re>om pulk og ski</re>
             <t pos="A" stat="pref" tcomm="no">glatt</t>
             <t pos="A" tcomm="no">som glir godt</t>
-            <t pos="A" stat="notpref" tcomm="no">gliende</t>
+            <t pos="A" tcomm="no">gliende</t>
          </tg>
          <tg xml:lang="swe">
             <re>om pulka och skidor</re>
@@ -3612,7 +3612,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">liukas</t>
-            <t pos="A" stat="notpref" tcomm="no">luistava</t>
+            <t pos="A" tcomm="no">luistava</t>
          </tg>
       </mg>
       <mg>
@@ -3651,9 +3651,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">dum</t>
-            <t pos="A" stat="notpref" tcomm="no">teit</t>
-            <t pos="A" stat="notpref" tcomm="no">tøysete</t>
-            <t pos="A" stat="notpref" tcomm="no">tullete</t>
+            <t pos="A" tcomm="no">teit</t>
+            <t pos="A" tcomm="no">tøysete</t>
+            <t pos="A" tcomm="no">tullete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">dum</t>
@@ -3682,10 +3682,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">klok</t>
-            <t pos="A" stat="notpref" tcomm="no">fornuftig</t>
-            <t pos="A" stat="notpref" tcomm="no">forstandig</t>
-            <t pos="A" stat="notpref" tcomm="no">smart</t>
-            <t pos="A" stat="notpref" tcomm="no">lur</t>
+            <t pos="A" tcomm="no">fornuftig</t>
+            <t pos="A" tcomm="no">forstandig</t>
+            <t pos="A" tcomm="no">smart</t>
+            <t pos="A" tcomm="no">lur</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">klok</t>
@@ -3714,7 +3714,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">mye</t>
-            <t pos="A" stat="notpref" tcomm="no">mange</t>
+            <t pos="A" tcomm="no">mange</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mycket</t>
@@ -3745,16 +3745,16 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">høy</t>
-            <t pos="A" stat="notpref" tcomm="no">høg</t>
-            <t pos="A" stat="notpref" tcomm="no">høyt</t>
-            <t pos="A" stat="notpref" tcomm="no">høgt</t>
+            <t pos="A" tcomm="no">høg</t>
+            <t pos="A" tcomm="no">høyt</t>
+            <t pos="A" tcomm="no">høgt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hög</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">high</t>
-            <t pos="A" stat="notpref" tcomm="no">tall</t>
+            <t pos="A" tcomm="no">tall</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="A" stat="pref" tcomm="no">hoch</t>
@@ -3779,9 +3779,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om vær</re>
             <t pos="A" stat="pref" tcomm="no">klar</t>
-            <t pos="A" stat="notpref" tcomm="no">klart</t>
-            <t pos="A" stat="notpref" tcomm="no">klår</t>
-            <t pos="A" stat="notpref" tcomm="no">klårt</t>
+            <t pos="A" tcomm="no">klart</t>
+            <t pos="A" tcomm="no">klår</t>
+            <t pos="A" tcomm="no">klårt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om väder</re>
@@ -3812,8 +3812,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om land og fjell</re>
             <t pos="A" stat="pref" tcomm="no">kupert</t>
-            <t pos="A" stat="notpref" tcomm="no">utilgjengelig</t>
-            <t pos="A" stat="notpref" tcomm="no">humpete</t>
+            <t pos="A" tcomm="no">utilgjengelig</t>
+            <t pos="A" tcomm="no">humpete</t>
          </tg>
          <tg xml:lang="swe">
             <re>om land och fjäll</re>
@@ -3845,7 +3845,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">grå</t>
-            <t pos="A" stat="notpref" tcomm="no">grått</t>
+            <t pos="A" tcomm="no">grått</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">grå</t>
@@ -3875,7 +3875,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om vekster</re>
             <t pos="A" stat="pref" tcomm="no">grønn</t>
-            <t pos="A" stat="notpref" tcomm="no">grønt</t>
+            <t pos="A" tcomm="no">grønt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om växter</re>
@@ -3907,7 +3907,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">grønn</t>
-            <t pos="A" stat="notpref" tcomm="no">grønt</t>
+            <t pos="A" tcomm="no">grønt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">grön</t>
@@ -3964,7 +3964,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">søvnig</t>
-            <t pos="A" stat="notpref" tcomm="no">trøtt</t>
+            <t pos="A" tcomm="no">trøtt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sömnig</t>
@@ -3995,7 +3995,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">billig</t>
-            <t pos="A" stat="notpref" tcomm="no">rimelig</t>
+            <t pos="A" tcomm="no">rimelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">billig</t>
@@ -4025,7 +4025,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">løs</t>
-            <t pos="A" stat="notpref" tcomm="no">løst</t>
+            <t pos="A" tcomm="no">løst</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">lös</t>
@@ -4057,9 +4057,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">våt</t>
-            <t pos="A" stat="notpref" tcomm="no">vått</t>
-            <t pos="A" stat="notpref" tcomm="no">bløt</t>
-            <t pos="A" stat="notpref" tcomm="no">bløtt</t>
+            <t pos="A" tcomm="no">vått</t>
+            <t pos="A" tcomm="no">bløt</t>
+            <t pos="A" tcomm="no">bløtt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">våt</t>
@@ -4093,12 +4093,12 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">morsom</t>
-            <t pos="A" stat="notpref" tcomm="no">morsomt</t>
-            <t pos="A" stat="notpref" tcomm="no">moro</t>
-            <t pos="A" stat="notpref" tcomm="no">hyggelig</t>
-            <t pos="A" stat="notpref" tcomm="no">arti</t>
-            <t pos="A" stat="notpref" tcomm="no">interessant</t>
-            <t pos="A" stat="notpref" tcomm="no">spennende</t>
+            <t pos="A" tcomm="no">morsomt</t>
+            <t pos="A" tcomm="no">moro</t>
+            <t pos="A" tcomm="no">hyggelig</t>
+            <t pos="A" tcomm="no">arti</t>
+            <t pos="A" tcomm="no">interessant</t>
+            <t pos="A" tcomm="no">spennende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kul</t>
@@ -4139,7 +4139,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tottelevainen</t>
-            <t pos="A" stat="notpref" tcomm="no">kuuliainen</t>
+            <t pos="A" tcomm="no">kuuliainen</t>
          </tg>
       </mg>
    </e>
@@ -4156,7 +4156,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">spredt</t>
-            <t pos="A" stat="notpref" tcomm="no">utspredt</t>
+            <t pos="A" tcomm="no">utspredt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">spridd</t>
@@ -4185,7 +4185,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">vindstille</t>
-            <t pos="A" stat="notpref" tcomm="no">stille</t>
+            <t pos="A" tcomm="no">stille</t>
             <t tcomm="no">ingen vind</t>
             <t tcomm="no">ikke noe vind</t>
          </tg>
@@ -4217,7 +4217,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tam</t>
-            <t pos="A" stat="notpref" tcomm="no">spak</t>
+            <t pos="A" tcomm="no">spak</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tam</t>
@@ -4247,9 +4247,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om vær</re>
             <t pos="A" stat="pref" tcomm="no">mild</t>
-            <t pos="A" stat="notpref" tcomm="no">mildt</t>
-            <t pos="A" stat="notpref" tcomm="no">varmt</t>
-            <t pos="A" stat="notpref" tcomm="no">varm</t>
+            <t pos="A" tcomm="no">mildt</t>
+            <t pos="A" tcomm="no">varmt</t>
+            <t pos="A" tcomm="no">varm</t>
          </tg>
          <tg xml:lang="swe">
             <re>om väder</re>
@@ -4280,7 +4280,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">lunken</t>
-            <t pos="A" stat="notpref" tcomm="no">temperert</t>
+            <t pos="A" tcomm="no">temperert</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ljum</t>
@@ -4313,7 +4313,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tung</t>
-            <t pos="A" stat="notpref" tcomm="no">tungt</t>
+            <t pos="A" tcomm="no">tungt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tung</t>
@@ -4326,7 +4326,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">raskas</t>
-            <t pos="A" stat="notpref" tcomm="no">painava</t>
+            <t pos="A" tcomm="no">painava</t>
          </tg>
       </mg>
    </e>
@@ -4355,7 +4355,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">huonosti</t>
-            <t pos="A" stat="notpref" tcomm="no">niukasti</t>
+            <t pos="A" tcomm="no">niukasti</t>
          </tg>
       </mg>
    </e>
@@ -4388,19 +4388,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">opplagt</t>
+            <t pos="A" tcomm="no">opplagt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">upplagd</t>
+            <t pos="A" tcomm="no">upplagd</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">opplagt_ENG</t>
+            <t pos="A" tcomm="no">opplagt_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">opplagt_DEU</t>
+            <t pos="A" tcomm="no">opplagt_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="A" stat="notpref" tcomm="no">virossa oleva</t>
+            <t pos="A" tcomm="no">virossa oleva</t>
          </tg>
       </mg>
    </e>
@@ -4423,7 +4423,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">taitava</t>
-            <t pos="A" stat="notpref" tcomm="no">onnekas</t>
+            <t pos="A" tcomm="no">onnekas</t>
          </tg>
       </mg>
    </e>
@@ -4440,8 +4440,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">flink</t>
-            <t pos="A" stat="notpref" tcomm="no">dyktig</t>
-            <t pos="A" stat="notpref" tcomm="no">kyndig</t>
+            <t pos="A" tcomm="no">dyktig</t>
+            <t pos="A" tcomm="no">kyndig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">duktig</t>
@@ -4471,8 +4471,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">trivelig</t>
-            <t pos="A" stat="notpref" tcomm="no">koselig</t>
-            <t pos="A" stat="notpref" tcomm="no">hyggelig</t>
+            <t pos="A" tcomm="no">koselig</t>
+            <t pos="A" tcomm="no">hyggelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">trevlig</t>
@@ -4485,7 +4485,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">viihtyisä</t>
-            <t pos="A" stat="notpref" tcomm="no">mukava</t>
+            <t pos="A" tcomm="no">mukava</t>
          </tg>
       </mg>
       <mg>
@@ -4521,11 +4521,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">mjuk</t>
-            <t pos="A" stat="notpref" tcomm="no">myk</t>
-            <t pos="A" stat="notpref" tcomm="no">mjukt</t>
-            <t pos="A" stat="notpref" tcomm="no">mykt</t>
-            <t pos="A" stat="notpref" tcomm="no">mjuke</t>
-            <t pos="A" stat="notpref" tcomm="no">myke</t>
+            <t pos="A" tcomm="no">myk</t>
+            <t pos="A" tcomm="no">mjukt</t>
+            <t pos="A" tcomm="no">mykt</t>
+            <t pos="A" tcomm="no">mjuke</t>
+            <t pos="A" tcomm="no">myke</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mjuk</t>
@@ -4555,7 +4555,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">sint</t>
-            <t pos="A" stat="notpref" tcomm="no">arg</t>
+            <t pos="A" tcomm="no">arg</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">arg</t>
@@ -4587,7 +4587,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">syk</t>
-            <t pos="A" stat="notpref" tcomm="no">dårlig</t>
+            <t pos="A" tcomm="no">dårlig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sjuk</t>
@@ -4617,7 +4617,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">mørkegrønn</t>
-            <t pos="A" stat="notpref" tcomm="no">mørkegrønt</t>
+            <t pos="A" tcomm="no">mørkegrønt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mørkgrön</t>
@@ -4647,11 +4647,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">mjuk</t>
-            <t pos="A" stat="notpref" tcomm="no">mjuke</t>
-            <t pos="A" stat="notpref" tcomm="no">mjukt</t>
-            <t pos="A" stat="notpref" tcomm="no">myk</t>
-            <t pos="A" stat="notpref" tcomm="no">myke</t>
-            <t pos="A" stat="notpref" tcomm="no">mykt</t>
+            <t pos="A" tcomm="no">mjuke</t>
+            <t pos="A" tcomm="no">mjukt</t>
+            <t pos="A" tcomm="no">myk</t>
+            <t pos="A" tcomm="no">myke</t>
+            <t pos="A" tcomm="no">mykt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mjuk</t>
@@ -4682,8 +4682,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">pågående</t>
-            <t pos="A" stat="notpref" tcomm="no">nærgående</t>
-            <t pos="A" stat="notpref" tcomm="no">innpåsliten</t>
+            <t pos="A" tcomm="no">nærgående</t>
+            <t pos="A" tcomm="no">innpåsliten</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">pågåande</t>
@@ -4696,8 +4696,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">ahne</t>
-            <t pos="A" stat="notpref" tcomm="no">perso</t>
-            <t pos="A" stat="notpref" tcomm="no">himokas</t>
+            <t pos="A" tcomm="no">perso</t>
+            <t pos="A" tcomm="no">himokas</t>
          </tg>
       </mg>
    </e>
@@ -4717,9 +4717,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">trøtt</t>
-            <t pos="A" stat="notpref" tcomm="no">trett</t>
-            <t pos="A" stat="notpref" tcomm="no">søvnig</t>
-            <t pos="A" stat="notpref" tcomm="no">døsig</t>
+            <t pos="A" tcomm="no">trett</t>
+            <t pos="A" tcomm="no">søvnig</t>
+            <t pos="A" tcomm="no">døsig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">trött</t>
@@ -4732,7 +4732,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">väsynyt</t>
-            <t pos="A" stat="notpref" tcomm="no">uninen</t>
+            <t pos="A" tcomm="no">uninen</t>
          </tg>
       </mg>
    </e>
@@ -4785,8 +4785,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">god</t>
-            <t pos="A" stat="notpref" tcomm="no">godt</t>
-            <t pos="A" stat="notpref" tcomm="no">velsmakende</t>
+            <t pos="A" tcomm="no">godt</t>
+            <t pos="A" tcomm="no">velsmakende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">god</t>
@@ -4799,7 +4799,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">maukas</t>
-            <t pos="A" stat="notpref" tcomm="no">hyvänmakuinen</t>
+            <t pos="A" tcomm="no">hyvänmakuinen</t>
          </tg>
       </mg>
    </e>
@@ -4816,7 +4816,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">glatt</t>
-            <t pos="A" stat="notpref" tcomm="no">sleip</t>
+            <t pos="A" tcomm="no">sleip</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">glatt</t>
@@ -4846,8 +4846,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om bjørkekvister</re>
             <t pos="A" stat="pref" tcomm="no">myk</t>
-            <t pos="A" stat="notpref" tcomm="no">glatt</t>
-            <t pos="A" stat="notpref" tcomm="no">tynn</t>
+            <t pos="A" tcomm="no">glatt</t>
+            <t pos="A" tcomm="no">tynn</t>
          </tg>
          <tg xml:lang="swe">
             <re>om björkkvister</re>
@@ -4861,7 +4861,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">taipuisa</t>
-            <t pos="A" stat="notpref" tcomm="no">pehmeä</t>
+            <t pos="A" tcomm="no">pehmeä</t>
          </tg>
       </mg>
    </e>
@@ -4879,8 +4879,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om bær</re>
             <t pos="A" stat="pref" tcomm="no">moden</t>
-            <t pos="A" stat="notpref" tcomm="no">modent</t>
-            <t pos="A" stat="notpref" tcomm="no">modnet</t>
+            <t pos="A" tcomm="no">modent</t>
+            <t pos="A" tcomm="no">modnet</t>
          </tg>
          <tg xml:lang="swe">
             <re>om bär</re>
@@ -4894,7 +4894,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kypsynyt</t>
-            <t pos="A" stat="notpref" tcomm="no">kypsä</t>
+            <t pos="A" tcomm="no">kypsä</t>
          </tg>
       </mg>
    </e>
@@ -4943,7 +4943,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">støvet</t>
-            <t pos="A" stat="notpref" tcomm="no">støvete</t>
+            <t pos="A" tcomm="no">støvete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">dammig</t>
@@ -4956,7 +4956,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">likainen</t>
-            <t pos="A" stat="notpref" tcomm="no">roskainen</t>
+            <t pos="A" tcomm="no">roskainen</t>
          </tg>
       </mg>
    </e>
@@ -5036,9 +5036,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">solid</t>
-            <t pos="A" stat="notpref" tcomm="no">holdbar</t>
-            <t pos="A" stat="notpref" tcomm="no">sterk</t>
-            <t pos="A" stat="notpref" tcomm="no">kraftig</t>
+            <t pos="A" tcomm="no">holdbar</t>
+            <t pos="A" tcomm="no">sterk</t>
+            <t pos="A" tcomm="no">kraftig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">solid</t>
@@ -5051,7 +5051,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">luja</t>
-            <t pos="A" stat="notpref" tcomm="no">vahva</t>
+            <t pos="A" tcomm="no">vahva</t>
          </tg>
       </mg>
    </e>
@@ -5068,9 +5068,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">lite</t>
-            <t pos="A" stat="notpref" tcomm="no">litt</t>
-            <t pos="A" stat="notpref" tcomm="no">liten</t>
-            <t pos="A" stat="notpref" tcomm="no">lita</t>
+            <t pos="A" tcomm="no">litt</t>
+            <t pos="A" tcomm="no">liten</t>
+            <t pos="A" tcomm="no">lita</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">litet</t>
@@ -5107,9 +5107,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">liten</t>
-            <t pos="A" stat="notpref" tcomm="no">lita</t>
-            <t pos="A" stat="notpref" tcomm="no">lite</t>
-            <t pos="A" stat="notpref" tcomm="no">litt</t>
+            <t pos="A" tcomm="no">lita</t>
+            <t pos="A" tcomm="no">lite</t>
+            <t pos="A" tcomm="no">litt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">liten</t>
@@ -5145,7 +5145,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">ny</t>
-            <t pos="A" stat="notpref" tcomm="no">nytt</t>
+            <t pos="A" tcomm="no">nytt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ny</t>
@@ -5178,10 +5178,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">forskjellig</t>
-            <t pos="A" stat="notpref" tcomm="no">forskjellige</t>
-            <t pos="A" stat="notpref" tcomm="no">ulik</t>
-            <t pos="A" stat="notpref" tcomm="no">ulikt</t>
-            <t pos="A" stat="notpref" tcomm="no">ulike</t>
+            <t pos="A" tcomm="no">forskjellige</t>
+            <t pos="A" tcomm="no">ulik</t>
+            <t pos="A" tcomm="no">ulikt</t>
+            <t pos="A" tcomm="no">ulike</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">olik</t>
@@ -5211,12 +5211,12 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">forskjellig</t>
-            <t pos="A" stat="notpref" tcomm="no">forskjellige</t>
-            <t pos="A" stat="notpref" tcomm="no">ulik</t>
-            <t pos="A" stat="notpref" tcomm="no">ulikt</t>
-            <t pos="A" stat="notpref" tcomm="no">ulike</t>
-            <t pos="A" stat="notpref" tcomm="no">atskillig</t>
-            <t pos="A" stat="notpref" tcomm="no">ymse</t>
+            <t pos="A" tcomm="no">forskjellige</t>
+            <t pos="A" tcomm="no">ulik</t>
+            <t pos="A" tcomm="no">ulikt</t>
+            <t pos="A" tcomm="no">ulike</t>
+            <t pos="A" tcomm="no">atskillig</t>
+            <t pos="A" tcomm="no">ymse</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">olik</t>
@@ -5250,7 +5250,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">blå</t>
-            <t pos="A" stat="notpref" tcomm="no">blått</t>
+            <t pos="A" tcomm="no">blått</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">blå</t>
@@ -5302,10 +5302,10 @@ For the full license text, see the link above.</lic>
             <t pos="A" tcomm="no">sen att uppdaga</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">sein til å oppdage_ENG</t>
+            <t pos="A" tcomm="no">sein til å oppdage_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">sein til å oppdage_DEU</t>
+            <t pos="A" tcomm="no">sein til å oppdage_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hidas huomaamaan</t>
@@ -5325,9 +5325,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">blek</t>
-            <t pos="A" stat="notpref" tcomm="no">blekt</t>
-            <t pos="A" stat="notpref" tcomm="no">blass</t>
-            <t pos="A" stat="notpref" tcomm="no">falmet</t>
+            <t pos="A" tcomm="no">blekt</t>
+            <t pos="A" tcomm="no">blass</t>
+            <t pos="A" tcomm="no">falmet</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">blek</t>
@@ -5357,8 +5357,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">flat</t>
-            <t pos="A" stat="notpref" tcomm="no">flatt</t>
-            <t pos="A" stat="notpref" tcomm="no">slett</t>
+            <t pos="A" tcomm="no">flatt</t>
+            <t pos="A" tcomm="no">slett</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">flat</t>
@@ -5418,7 +5418,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">brun</t>
-            <t pos="A" stat="notpref" tcomm="no">brunt</t>
+            <t pos="A" tcomm="no">brunt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">brun</t>
@@ -5475,8 +5475,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kraftig</t>
-            <t pos="A" stat="notpref" tcomm="no">sterk</t>
-            <t pos="A" stat="notpref" tcomm="no">sterkt</t>
+            <t pos="A" tcomm="no">sterk</t>
+            <t pos="A" tcomm="no">sterkt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kraftig</t>
@@ -5505,8 +5505,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kraftig</t>
-            <t pos="A" stat="notpref" tcomm="no">sterk</t>
-            <t pos="A" stat="notpref" tcomm="no">sterkt</t>
+            <t pos="A" tcomm="no">sterk</t>
+            <t pos="A" tcomm="no">sterkt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kraftig</t>
@@ -5535,10 +5535,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">effektiv</t>
-            <t pos="A" stat="notpref" tcomm="no">effektivt</t>
-            <t pos="A" stat="notpref" tcomm="no">rask</t>
-            <t pos="A" stat="notpref" tcomm="no">raskt</t>
-            <t pos="A" stat="notpref" tcomm="no">snar</t>
+            <t pos="A" tcomm="no">effektivt</t>
+            <t pos="A" tcomm="no">rask</t>
+            <t pos="A" tcomm="no">raskt</t>
+            <t pos="A" tcomm="no">snar</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">effektiv</t>
@@ -5551,7 +5551,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">reipas</t>
-            <t pos="A" stat="notpref" tcomm="no">tehokas</t>
+            <t pos="A" tcomm="no">tehokas</t>
          </tg>
       </mg>
    </e>
@@ -5572,12 +5572,12 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">ferdig</t>
-            <t pos="A" stat="notpref" tcomm="no">klar</t>
-            <t pos="A" stat="notpref" tcomm="no">reiseklar</t>
+            <t pos="A" tcomm="no">klar</t>
+            <t pos="A" tcomm="no">reiseklar</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ferdig</t>
-            <t pos="A" stat="notpref" tcomm="no">klar</t>
+            <t pos="A" tcomm="no">klar</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">ferdig_ENG</t>
@@ -5604,9 +5604,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">underlig</t>
-            <t pos="A" stat="notpref" tcomm="no">rar</t>
-            <t pos="A" stat="notpref" tcomm="no">rart</t>
-            <t pos="A" stat="notpref" tcomm="no">merkelig</t>
+            <t pos="A" tcomm="no">rar</t>
+            <t pos="A" tcomm="no">rart</t>
+            <t pos="A" tcomm="no">merkelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">konstig</t>
@@ -5619,8 +5619,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kummallinen</t>
-            <t pos="A" stat="notpref" tcomm="no">erikoinen</t>
-            <t pos="A" stat="notpref" tcomm="no">outo</t>
+            <t pos="A" tcomm="no">erikoinen</t>
+            <t pos="A" tcomm="no">outo</t>
          </tg>
       </mg>
    </e>
@@ -5637,7 +5637,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">brun</t>
-            <t pos="A" stat="notpref" tcomm="no">brunt</t>
+            <t pos="A" tcomm="no">brunt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">brun</t>
@@ -5658,7 +5658,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">rødbrun</t>
-            <t pos="A" stat="notpref" tcomm="no">rødbrunt</t>
+            <t pos="A" tcomm="no">rødbrunt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">rödbrun</t>
@@ -5717,8 +5717,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">rett</t>
-            <t pos="A" stat="notpref" tcomm="no">bein</t>
-            <t pos="A" stat="notpref" tcomm="no">ben</t>
+            <t pos="A" tcomm="no">bein</t>
+            <t pos="A" tcomm="no">ben</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">rak</t>
@@ -5752,11 +5752,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">rød</t>
-            <t pos="A" stat="notpref" tcomm="no">rødt</t>
+            <t pos="A" tcomm="no">rødt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">röd</t>
-            <t pos="A" stat="notpref" tcomm="no">rött</t>
+            <t pos="A" tcomm="no">rött</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">rød_ENG</t>
@@ -5783,11 +5783,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">sant</t>
-            <t pos="A" stat="notpref" tcomm="no">sann</t>
+            <t pos="A" tcomm="no">sann</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sant</t>
-            <t pos="A" stat="notpref" tcomm="no">sann</t>
+            <t pos="A" tcomm="no">sann</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">sant_ENG</t>
@@ -5797,7 +5797,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tosi</t>
-            <t pos="A" stat="notpref" tcomm="no">todellinen</t>
+            <t pos="A" tcomm="no">todellinen</t>
          </tg>
       </mg>
    </e>
@@ -5842,7 +5842,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">saltet</t>
-            <t pos="A" stat="notpref" tcomm="no">salta</t>
+            <t pos="A" tcomm="no">salta</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">saltad</t>
@@ -5871,7 +5871,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">fredelig</t>
-            <t pos="A" stat="notpref" tcomm="no">rolig</t>
+            <t pos="A" tcomm="no">rolig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">fridfull</t>
@@ -5884,7 +5884,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">rauhallinen</t>
-            <t pos="A" stat="notpref" tcomm="no">rauhaisa</t>
+            <t pos="A" tcomm="no">rauhaisa</t>
          </tg>
       </mg>
    </e>
@@ -5904,8 +5904,8 @@ For the full license text, see the link above.</lic>
             <t tcomm="no">likt utseende</t>
             <t pos="A" tcomm="no">samme utseende</t>
             <t pos="A" tcomm="no">lik av utseende</t>
-            <t pos="A" stat="notpref" tcomm="no">lik</t>
-            <t pos="A" stat="notpref" tcomm="no">likens</t>
+            <t pos="A" tcomm="no">lik</t>
+            <t pos="A" tcomm="no">likens</t>
             <t pos="A" tcomm="no">som har samme utseende</t>
             <t pos="A" tcomm="no">som ligner</t>
          </tg>
@@ -5920,8 +5920,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">samanlainen</t>
-            <t pos="A" stat="notpref" tcomm="no">samankaltainen</t>
-            <t pos="A" stat="notpref" tcomm="no">samannäköinen</t>
+            <t pos="A" tcomm="no">samankaltainen</t>
+            <t pos="A" tcomm="no">samannäköinen</t>
          </tg>
       </mg>
    </e>
@@ -5939,7 +5939,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om runde ting og mennesker</re>
             <t pos="A" stat="pref" tcomm="no">tynn</t>
-            <t pos="A" stat="notpref" tcomm="no">slank</t>
+            <t pos="A" tcomm="no">slank</t>
          </tg>
          <tg xml:lang="swe">
             <re>om runda ting och människor</re>
@@ -5969,11 +5969,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">søt</t>
-            <t pos="A" stat="notpref" tcomm="no">søtt</t>
+            <t pos="A" tcomm="no">søtt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">söt</t>
-            <t pos="A" stat="notpref" tcomm="no">sött</t>
+            <t pos="A" tcomm="no">sött</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">søt_ENG</t>
@@ -6004,12 +6004,12 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">stille</t>
-            <t pos="A" stat="notpref" tcomm="no">stilt</t>
-            <t pos="A" stat="notpref" tcomm="no">tyst</t>
+            <t pos="A" tcomm="no">stilt</t>
+            <t pos="A" tcomm="no">tyst</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tyst</t>
-            <t pos="A" stat="notpref" tcomm="no">lugn</t>
+            <t pos="A" tcomm="no">lugn</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">stille_ENG</t>
@@ -6019,7 +6019,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hiljaa</t>
-            <t pos="A" stat="notpref" tcomm="no">ääneti</t>
+            <t pos="A" tcomm="no">ääneti</t>
          </tg>
       </mg>
    </e>
@@ -6038,7 +6038,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">høflig</t>
-            <t pos="A" stat="notpref" tcomm="no">forekommende</t>
+            <t pos="A" tcomm="no">forekommende</t>
             <t tcomm="no">høflig og forekommende</t>
          </tg>
          <tg xml:lang="swe">
@@ -6060,9 +6060,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">passelig</t>
-            <t pos="A" stat="notpref" tcomm="no">passende</t>
-            <t pos="A" stat="notpref" tcomm="no">liketil</t>
-            <t pos="A" stat="notpref" tcomm="no">høvelig</t>
+            <t pos="A" tcomm="no">passende</t>
+            <t pos="A" tcomm="no">liketil</t>
+            <t pos="A" tcomm="no">høvelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">lagom</t>
@@ -6092,7 +6092,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">mørk</t>
-            <t pos="A" stat="notpref" tcomm="no">mørkt</t>
+            <t pos="A" tcomm="no">mørkt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mörk</t>
@@ -6121,7 +6121,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">glatt</t>
-            <t pos="A" stat="notpref" tcomm="no">jevn</t>
+            <t pos="A" tcomm="no">jevn</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">glatt</t>
@@ -6152,9 +6152,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">spesiell</t>
-            <t pos="A" stat="notpref" tcomm="no">særskilt</t>
-            <t pos="A" stat="notpref" tcomm="no">særegen</t>
-            <t pos="A" stat="notpref" tcomm="no">spesielt</t>
+            <t pos="A" tcomm="no">særskilt</t>
+            <t pos="A" tcomm="no">særegen</t>
+            <t pos="A" tcomm="no">spesielt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">speciell</t>
@@ -6167,7 +6167,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">erillinen</t>
-            <t pos="A" stat="notpref" tcomm="no">oma</t>
+            <t pos="A" tcomm="no">oma</t>
          </tg>
       </mg>
    </e>
@@ -6184,7 +6184,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kantet</t>
-            <t pos="A" stat="notpref" tcomm="no">kantete</t>
+            <t pos="A" tcomm="no">kantete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kantig</t>
@@ -6214,8 +6214,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">syk</t>
-            <t pos="A" stat="notpref" tcomm="no">sjuk</t>
-            <t pos="A" stat="notpref" tcomm="no">sykt</t>
+            <t pos="A" tcomm="no">sjuk</t>
+            <t pos="A" tcomm="no">sykt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sjuk</t>
@@ -6260,7 +6260,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">rikki</t>
-            <t pos="A" stat="notpref" tcomm="no">epäkunnossa</t>
+            <t pos="A" tcomm="no">epäkunnossa</t>
          </tg>
       </mg>
    </e>
@@ -6277,10 +6277,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">skitten</t>
-            <t pos="A" stat="notpref" tcomm="no">skittent</t>
-            <t pos="A" stat="notpref" tcomm="no">tilgriset</t>
-            <t pos="A" stat="notpref" tcomm="no">griset</t>
-            <t pos="A" stat="notpref" tcomm="no">grisete</t>
+            <t pos="A" tcomm="no">skittent</t>
+            <t pos="A" tcomm="no">tilgriset</t>
+            <t pos="A" tcomm="no">griset</t>
+            <t pos="A" tcomm="no">grisete</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">smutsig</t>
@@ -6337,15 +6337,15 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">slu</t>
-            <t pos="A" stat="notpref" tcomm="no">farkete</t>
-            <t pos="A" stat="notpref" tcomm="no">listig</t>
-            <t pos="A" stat="notpref" tcomm="no">lur</t>
+            <t pos="A" tcomm="no">farkete</t>
+            <t pos="A" tcomm="no">listig</t>
+            <t pos="A" tcomm="no">lur</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">listig</t>
-            <t pos="A" stat="notpref" tcomm="no">klipsk</t>
-            <t pos="A" stat="notpref" tcomm="no">lur</t>
-            <t pos="A" stat="notpref" tcomm="no">knepig</t>
+            <t pos="A" tcomm="no">klipsk</t>
+            <t pos="A" tcomm="no">lur</t>
+            <t pos="A" tcomm="no">knepig</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">farkete_ENG</t>
@@ -6372,7 +6372,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">liten</t>
-            <t pos="A" stat="notpref" tcomm="no">små</t>
+            <t pos="A" tcomm="no">små</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">liten</t>
@@ -6404,8 +6404,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">snar</t>
-            <t pos="A" stat="notpref" tcomm="no">hurtig</t>
-            <t pos="A" stat="notpref" tcomm="no">rask</t>
+            <t pos="A" tcomm="no">hurtig</t>
+            <t pos="A" tcomm="no">rask</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">snabb</t>
@@ -6470,9 +6470,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hurtig</t>
-            <t pos="A" stat="notpref" tcomm="no">rask</t>
-            <t pos="A" stat="notpref" tcomm="no">snar</t>
-            <t pos="A" stat="notpref" tcomm="no">snåp</t>
+            <t pos="A" tcomm="no">rask</t>
+            <t pos="A" tcomm="no">snar</t>
+            <t pos="A" tcomm="no">snåp</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">snabb</t>
@@ -6485,7 +6485,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">nopeasti</t>
-            <t pos="A" stat="notpref" tcomm="no">reippaasti</t>
+            <t pos="A" tcomm="no">reippaasti</t>
          </tg>
       </mg>
    </e>
@@ -6500,7 +6500,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">stødig</t>
-            <t pos="A" stat="notpref" tcomm="no">stadig</t>
+            <t pos="A" tcomm="no">stadig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">stadig</t>
@@ -6538,9 +6538,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">riktig</t>
-            <t pos="A" stat="notpref" tcomm="no">rett</t>
-            <t pos="A" stat="notpref" tcomm="no">ordentlig</t>
-            <t pos="A" stat="notpref" tcomm="no">stadfestet</t>
+            <t pos="A" tcomm="no">rett</t>
+            <t pos="A" tcomm="no">ordentlig</t>
+            <t pos="A" tcomm="no">stadfestet</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">rätt</t>
@@ -6575,8 +6575,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">stor</t>
-            <t pos="A" stat="notpref" tcomm="no">stort</t>
-            <t pos="A" stat="notpref" tcomm="no">diger</t>
+            <t pos="A" tcomm="no">stort</t>
+            <t pos="A" tcomm="no">diger</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">stor</t>
@@ -6589,7 +6589,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">iso</t>
-            <t pos="A" stat="notpref" tcomm="no">suuri</t>
+            <t pos="A" tcomm="no">suuri</t>
          </tg>
       </mg>
    </e>
@@ -6607,13 +6607,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">sliten</t>
-            <t pos="A" stat="notpref" tcomm="no">trett</t>
-            <t pos="A" stat="notpref" tcomm="no">trøtt</t>
-            <t pos="A" stat="notpref" tcomm="no">utmattet</t>
+            <t pos="A" tcomm="no">trett</t>
+            <t pos="A" tcomm="no">trøtt</t>
+            <t pos="A" tcomm="no">utmattet</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sliten</t>
-            <t pos="A" stat="notpref" tcomm="no">trött</t>
+            <t pos="A" tcomm="no">trött</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">sliten_ENG</t>
@@ -6640,7 +6640,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">vanlig</t>
-            <t pos="A" stat="notpref" tcomm="no">alminnelig</t>
+            <t pos="A" tcomm="no">alminnelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">vanlig</t>
@@ -6669,13 +6669,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">sein</t>
-            <t pos="A" stat="notpref" tcomm="no">treg</t>
-            <t pos="A" stat="notpref" tcomm="no">langsom</t>
-            <t pos="A" stat="notpref" tcomm="no">sen</t>
-            <t pos="A" stat="notpref" tcomm="no">seint</t>
-            <t pos="A" stat="notpref" tcomm="no">tregt</t>
-            <t pos="A" stat="notpref" tcomm="no">sent</t>
-            <t pos="A" stat="notpref" tcomm="no">langsomt</t>
+            <t pos="A" tcomm="no">treg</t>
+            <t pos="A" tcomm="no">langsom</t>
+            <t pos="A" tcomm="no">sen</t>
+            <t pos="A" tcomm="no">seint</t>
+            <t pos="A" tcomm="no">tregt</t>
+            <t pos="A" tcomm="no">sent</t>
+            <t pos="A" tcomm="no">langsomt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">sen</t>
@@ -6712,12 +6712,12 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">vakker</t>
-            <t pos="A" stat="notpref" tcomm="no">vakkert</t>
-            <t pos="A" stat="notpref" tcomm="no">pen</t>
-            <t pos="A" stat="notpref" tcomm="no">pent</t>
-            <t pos="A" stat="notpref" tcomm="no">skjønn</t>
-            <t pos="A" stat="notpref" tcomm="no">fin</t>
-            <t pos="A" stat="notpref" tcomm="no">fint</t>
+            <t pos="A" tcomm="no">vakkert</t>
+            <t pos="A" tcomm="no">pen</t>
+            <t pos="A" tcomm="no">pent</t>
+            <t pos="A" tcomm="no">skjønn</t>
+            <t pos="A" tcomm="no">fin</t>
+            <t pos="A" tcomm="no">fint</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">vacker</t>
@@ -6762,20 +6762,20 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">skjult</t>
+            <t pos="A" tcomm="no">skjult</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">gömd</t>
+            <t pos="A" tcomm="no">gömd</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">skjult_ENG</t>
+            <t pos="A" tcomm="no">skjult_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">skjult_DEU</t>
+            <t pos="A" tcomm="no">skjult_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">piilotettu</t>
-            <t pos="A" stat="notpref" tcomm="no">piilossa</t>
+            <t pos="A" tcomm="no">piilossa</t>
          </tg>
       </mg>
    </e>
@@ -6797,7 +6797,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">svart</t>
-            <t pos="A" stat="notpref" tcomm="no">sort</t>
+            <t pos="A" tcomm="no">sort</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">svart</t>
@@ -6868,7 +6868,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">utelias</t>
-            <t pos="A" stat="notpref" tcomm="no">kiinnostunut</t>
+            <t pos="A" tcomm="no">kiinnostunut</t>
          </tg>
       </mg>
    </e>
@@ -6899,7 +6899,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tiukkalihainen</t>
-            <t pos="A" stat="notpref" tcomm="no">tuore kala</t>
+            <t pos="A" tcomm="no">tuore kala</t>
          </tg>
       </mg>
    </e>
@@ -6915,18 +6915,18 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN_A" />
          </semantics>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">hendig</t>
+            <t pos="A" tcomm="no">hendig</t>
             <t pos="A" stat="pref" tcomm="no">flink</t>
-            <t pos="A" stat="notpref" tcomm="no">dyktig</t>
+            <t pos="A" tcomm="no">dyktig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">flink</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">hendig_ENG</t>
+            <t pos="A" tcomm="no">hendig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">hendig_DEU</t>
+            <t pos="A" tcomm="no">hendig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">kätevä</t>
@@ -6947,7 +6947,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">lys</t>
-            <t pos="A" stat="notpref" tcomm="no">lyst</t>
+            <t pos="A" tcomm="no">lyst</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ljus</t>
@@ -6976,7 +6976,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hardhendt</t>
-            <t pos="A" stat="notpref" tcomm="no">brutal</t>
+            <t pos="A" tcomm="no">brutal</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hårdhänt</t>
@@ -7005,8 +7005,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">kald</t>
-            <t pos="A" stat="notpref" tcomm="no">kaldt</t>
-            <t pos="A" stat="notpref" tcomm="no">kjølig</t>
+            <t pos="A" tcomm="no">kaldt</t>
+            <t pos="A" tcomm="no">kjølig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">kall</t>
@@ -7083,7 +7083,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">trivelig</t>
-            <t pos="A" stat="notpref" tcomm="no">hyggelig</t>
+            <t pos="A" tcomm="no">hyggelig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">trevsam</t>
@@ -7128,7 +7128,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
 <re>poroelosta</re>
             <t pos="A" stat="pref" tcomm="no">paikallaan pysyvä</t>
-            <t pos="A" stat="notpref" tcomm="no">koossa oleva</t>
+            <t pos="A" tcomm="no">koossa oleva</t>
          </tg>
       </mg>
    </e>
@@ -7148,7 +7148,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">få</t>
-            <t pos="A" stat="notpref" tcomm="no">lite</t>
+            <t pos="A" tcomm="no">lite</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">få</t>
@@ -7178,7 +7178,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om kjøtt</re>
             <t pos="A" stat="pref" tcomm="no">fersk</t>
-            <t pos="A" stat="notpref" tcomm="no">ferskt</t>
+            <t pos="A" tcomm="no">ferskt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om kött</re>
@@ -7210,8 +7210,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">sterk</t>
-            <t pos="A" stat="notpref" tcomm="no">sterkt</t>
-            <t pos="A" stat="notpref" tcomm="no">kraftig</t>
+            <t pos="A" tcomm="no">sterkt</t>
+            <t pos="A" tcomm="no">kraftig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">stark</t>
@@ -7224,7 +7224,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">vahva</t>
-            <t pos="A" stat="notpref" tcomm="no">voimakas</t>
+            <t pos="A" tcomm="no">voimakas</t>
          </tg>
       </mg>
    </e>
@@ -7247,8 +7247,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hvit</t>
-            <t pos="A" stat="notpref" tcomm="no">hvitt</t>
-            <t pos="A" stat="notpref" tcomm="no">kvit</t>
+            <t pos="A" tcomm="no">hvitt</t>
+            <t pos="A" tcomm="no">kvit</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">vit</t>
@@ -7278,7 +7278,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">frisk</t>
-            <t pos="A" stat="notpref" tcomm="no">rørlig</t>
+            <t pos="A" tcomm="no">rørlig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">frisk</t>
@@ -7308,7 +7308,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">stygg</t>
-            <t pos="A" stat="notpref" tcomm="no">stygt</t>
+            <t pos="A" tcomm="no">stygt</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ful</t>
@@ -7329,7 +7329,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">ond</t>
-            <t pos="A" stat="notpref" tcomm="no">stygg</t>
+            <t pos="A" tcomm="no">stygg</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">ond</t>
@@ -7362,7 +7362,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">säädytön</t>
-            <t pos="A" stat="notpref" tcomm="no">rivo</t>
+            <t pos="A" tcomm="no">rivo</t>
          </tg>
       </mg>
    </e>
@@ -7379,8 +7379,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">trivelig</t>
-            <t pos="A" stat="notpref" tcomm="no">vennlig</t>
-            <t pos="A" stat="notpref" tcomm="no">grei</t>
+            <t pos="A" tcomm="no">vennlig</t>
+            <t pos="A" tcomm="no">grei</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">trevsam</t>
@@ -7397,20 +7397,20 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">vennligsinnet</t>
+            <t pos="A" tcomm="no">vennligsinnet</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">vänligsinnad</t>
+            <t pos="A" tcomm="no">vänligsinnad</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">vennligsinnet_ENG</t>
+            <t pos="A" tcomm="no">vennligsinnet_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">vennligsinnet_DEU</t>
+            <t pos="A" tcomm="no">vennligsinnet_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">ystävällinen</t>
-            <t pos="A" stat="notpref" tcomm="no">ystävällismielinen</t>
+            <t pos="A" tcomm="no">ystävällismielinen</t>
          </tg>
       </mg>
    </e>
@@ -7446,16 +7446,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">formålstjenlig</t>
+            <t pos="A" tcomm="no">formålstjenlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">ändamålsenlig</t>
+            <t pos="A" tcomm="no">ändamålsenlig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">formålstjenlig_ENG</t>
+            <t pos="A" tcomm="no">formålstjenlig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">formålstjenlig_DEU</t>
+            <t pos="A" tcomm="no">formålstjenlig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hyödyllinen</t>
@@ -7508,7 +7508,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">tunnettu</t>
-            <t pos="A" stat="notpref" tcomm="no">tietty</t>
+            <t pos="A" tcomm="no">tietty</t>
          </tg>
       </mg>
    </e>
@@ -7528,7 +7528,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">gul</t>
-            <t pos="A" stat="notpref" tcomm="no">gult</t>
+            <t pos="A" tcomm="no">gult</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">gul</t>
@@ -7557,7 +7557,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tålmodig</t>
-            <t pos="A" stat="notpref" tcomm="no">utholdende</t>
+            <t pos="A" tcomm="no">utholdende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tålmodig</t>
@@ -7574,16 +7574,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">flittig</t>
+            <t pos="A" tcomm="no">flittig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">flitig</t>
+            <t pos="A" tcomm="no">flitig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">flittig_ENG</t>
+            <t pos="A" tcomm="no">flittig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">flittig_DEU</t>
+            <t pos="A" tcomm="no">flittig_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">ahkera</t>
@@ -7604,14 +7604,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om fugl, fisk og ville dyr</re>
             <t pos="A" stat="pref" tcomm="no">var</t>
-            <t pos="A" stat="notpref" tcomm="no">sky</t>
-            <t pos="A" stat="notpref" tcomm="no">forsiktig</t>
+            <t pos="A" tcomm="no">sky</t>
+            <t pos="A" tcomm="no">forsiktig</t>
          </tg>
          <tg xml:lang="swe">
             <re>om fågel och fisk</re>
             <t pos="A" stat="pref" tcomm="no">var</t>
-            <t pos="A" stat="notpref" tcomm="no">vaksam</t>
-            <t pos="A" stat="notpref" tcomm="no">skygg</t>
+            <t pos="A" tcomm="no">vaksam</t>
+            <t pos="A" tcomm="no">skygg</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">var_ENG</t>
@@ -7621,8 +7621,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">varovainen</t>
-            <t pos="A" stat="notpref" tcomm="no">arka</t>
-            <t pos="A" stat="notpref" tcomm="no">valpas</t>
+            <t pos="A" tcomm="no">arka</t>
+            <t pos="A" tcomm="no">valpas</t>
          </tg>
       </mg>
    </e>
@@ -7643,7 +7643,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">flink</t>
-            <t pos="A" stat="notpref" tcomm="no">dyktig</t>
+            <t pos="A" tcomm="no">dyktig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">duktig</t>
@@ -7656,21 +7656,21 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">taitava</t>
-            <t pos="A" stat="notpref" tcomm="no">kelpo</t>
+            <t pos="A" tcomm="no">kelpo</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">intelligent</t>
+            <t pos="A" tcomm="no">intelligent</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">intelligent</t>
+            <t pos="A" tcomm="no">intelligent</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">intelligent_ENG</t>
+            <t pos="A" tcomm="no">intelligent_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">intelligent_DEU</t>
+            <t pos="A" tcomm="no">intelligent_DEU</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">älykäs</t>
@@ -7690,7 +7690,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">klok</t>
-            <t pos="A" stat="notpref" tcomm="no">vis</t>
+            <t pos="A" tcomm="no">vis</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">klok</t>
@@ -7721,8 +7721,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">utmerket</t>
-            <t pos="A" stat="notpref" tcomm="no">god</t>
-            <t pos="A" stat="notpref" tcomm="no">bra</t>
+            <t pos="A" tcomm="no">god</t>
+            <t pos="A" tcomm="no">bra</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">utmerkt</t>
@@ -7735,25 +7735,25 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">oiva</t>
-            <t pos="A" stat="notpref" tcomm="no">oivallinen</t>
-            <t pos="A" stat="notpref" tcomm="no">hyvä</t>
+            <t pos="A" tcomm="no">oivallinen</t>
+            <t pos="A" tcomm="no">hyvä</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" stat="notpref" tcomm="no">prektig</t>
+            <t pos="A" tcomm="no">prektig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" stat="notpref" tcomm="no">präktig</t>
+            <t pos="A" tcomm="no">präktig</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="A" stat="notpref" tcomm="no">prektig_ENG</t>
+            <t pos="A" tcomm="no">prektig_ENG</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="A" stat="notpref" tcomm="no">prektig_DEU</t>
+            <t pos="A" tcomm="no">prektig_DEU</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="A" stat="notpref" tcomm="no">mainio</t>
+            <t pos="A" tcomm="no">mainio</t>
          </tg>
       </mg>
    </e>
@@ -7804,7 +7804,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">høyre</t>
-            <t pos="A" stat="notpref" tcomm="no">høgre</t>
+            <t pos="A" tcomm="no">høgre</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">höger</t>
@@ -7896,7 +7896,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">tidligere</t>
-            <t pos="A" stat="notpref" tcomm="no">forrige</t>
+            <t pos="A" tcomm="no">forrige</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tidigare</t>
@@ -7909,7 +7909,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">edellinen</t>
-            <t pos="A" stat="notpref" tcomm="no">viime</t>
+            <t pos="A" tcomm="no">viime</t>
          </tg>
       </mg>
    </e>
@@ -7926,8 +7926,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">glemsom</t>
-            <t pos="A" stat="notpref" tcomm="no">glemsk</t>
-            <t pos="A" stat="notpref" tcomm="no">glømsk</t>
+            <t pos="A" tcomm="no">glemsk</t>
+            <t pos="A" tcomm="no">glømsk</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">glömsk</t>
@@ -7940,7 +7940,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">unohtavainen</t>
-            <t pos="A" stat="notpref" tcomm="no">hajamielinen</t>
+            <t pos="A" tcomm="no">hajamielinen</t>
          </tg>
       </mg>
    </e>
@@ -7957,12 +7957,12 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">brukelig</t>
-            <t pos="A" stat="notpref" tcomm="no">brukbar</t>
+            <t pos="A" tcomm="no">brukbar</t>
             <t pos="A" tcomm="no">god å ha</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">användbar</t>
-            <t pos="A" stat="notpref" tcomm="no">dräglig</t>
+            <t pos="A" tcomm="no">dräglig</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">brukelig_ENG</t>
@@ -7972,8 +7972,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hyvä</t>
-            <t pos="A" stat="notpref" tcomm="no">sopiva</t>
-            <t pos="A" stat="notpref" tcomm="no">mukava</t>
+            <t pos="A" tcomm="no">sopiva</t>
+            <t pos="A" tcomm="no">mukava</t>
          </tg>
       </mg>
    </e>
@@ -7988,7 +7988,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">hugen</t>
             <t pos="A" tcomm="no">lysten</t>
-            <t pos="A" stat="notpref" tcomm="no">glad</t>
+            <t pos="A" tcomm="no">glad</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">hågad</t>
@@ -8018,8 +8018,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om pulk</re>
             <t pos="A" stat="pref" tcomm="no">lukket</t>
-            <t pos="A" stat="notpref" tcomm="no">innestengt</t>
-            <t pos="A" stat="notpref" tcomm="no">stengt</t>
+            <t pos="A" tcomm="no">innestengt</t>
+            <t pos="A" tcomm="no">stengt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om pulka</re>
@@ -8064,7 +8064,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om rom uten lufting</re>
             <t pos="A" stat="pref" tcomm="no">innestengt</t>
-            <t pos="A" stat="notpref" tcomm="no">innstengt</t>
+            <t pos="A" tcomm="no">innstengt</t>
          </tg>
          <tg xml:lang="swe">
             <re>om rum utan luftning</re>
@@ -8095,11 +8095,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">mjuk</t>
-            <t pos="A" stat="notpref" tcomm="no">mjuke</t>
-            <t pos="A" stat="notpref" tcomm="no">mjukt</t>
-            <t pos="A" stat="notpref" tcomm="no">myk</t>
-            <t pos="A" stat="notpref" tcomm="no">mykt</t>
-            <t pos="A" stat="notpref" tcomm="no">myke</t>
+            <t pos="A" tcomm="no">mjuke</t>
+            <t pos="A" tcomm="no">mjukt</t>
+            <t pos="A" tcomm="no">myk</t>
+            <t pos="A" tcomm="no">mykt</t>
+            <t pos="A" tcomm="no">myke</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">mjuk</t>
@@ -8151,7 +8151,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">stille</t>
-            <t pos="A" stat="notpref" tcomm="no">tyst</t>
+            <t pos="A" tcomm="no">tyst</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">tyst</t>
@@ -8164,7 +8164,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="A" stat="pref" tcomm="no">hiljaa</t>
-            <t pos="A" stat="notpref" tcomm="no">ääneti</t>
+            <t pos="A" tcomm="no">ääneti</t>
          </tg>
       </mg>
    </e>
@@ -8235,7 +8235,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">liggende på siden</t>
-            <t pos="A" stat="notpref" tcomm="yes">liggende</t>
+            <t pos="A" tcomm="yes">liggende</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">liggande på sidan</t>
@@ -8264,9 +8264,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">klok</t>
-            <t pos="A" stat="notpref" tcomm="no">forstandig</t>
-            <t pos="A" stat="notpref" tcomm="no">smart</t>
-            <t pos="A" stat="notpref" tcomm="no">vis</t>
+            <t pos="A" tcomm="no">forstandig</t>
+            <t pos="A" tcomm="no">smart</t>
+            <t pos="A" tcomm="no">vis</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">klok</t>
@@ -8324,7 +8324,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">ukjent</t>
-            <t pos="A" stat="notpref" tcomm="no">fremmed</t>
+            <t pos="A" tcomm="no">fremmed</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">okänt</t>
@@ -8413,7 +8413,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>om rein</re>
             <t pos="A" stat="pref" tcomm="no">lysegrå</t>
-            <t pos="A" stat="notpref" tcomm="no">lysgrå</t>
+            <t pos="A" tcomm="no">lysgrå</t>
          </tg>
          <tg xml:lang="swe">
             <re>om ren</re>
@@ -8443,7 +8443,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">ferdig</t>
-            <t pos="A" stat="notpref" tcomm="no">stødig</t>
+            <t pos="A" tcomm="no">stødig</t>
             <t pos="A" tcomm="no">ferdig tilberedt</t>
             <t pos="A" tcomm="no">som er tilstede</t>
          </tg>
@@ -8474,9 +8474,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">elskede</t>
-            <t pos="A" stat="notpref" tcomm="no">elsket</t>
-            <t pos="A" stat="notpref" tcomm="no">kjære</t>
-            <t pos="A" stat="notpref" tcomm="no">kjær</t>
+            <t pos="A" tcomm="no">elsket</t>
+            <t pos="A" tcomm="no">kjære</t>
+            <t pos="A" tcomm="no">kjær</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">älskade</t>
@@ -8506,11 +8506,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="nob">
             <t pos="A" stat="pref" tcomm="no">velsmakende</t>
-            <t pos="A" stat="notpref" tcomm="no">saftig</t>
+            <t pos="A" tcomm="no">saftig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="A" stat="pref" tcomm="no">saftig</t>
-            <t pos="A" stat="notpref" tcomm="no">smaklig</t>
+            <t pos="A" tcomm="no">smaklig</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="A" stat="pref" tcomm="no">tasty</t>
