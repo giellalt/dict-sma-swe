@@ -241,6 +241,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e note="checked">
+      <lg>
+         <l pos="N">jollemaaksoevaarjelimmie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="swe">
+         	<re>Dïhte jollemes åasa maam tjïelte åådtje hoksejïh såjhtose krïebpesjidh laaken mietie.</re> 
+            <t pos="N">högkostnadsskydd </t>
+        </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l margo="e" pos="N" soggi="oe" stem="3syll">aajjove</l>
