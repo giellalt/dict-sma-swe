@@ -1,11 +1,6 @@
-# Documentation for South Sámi ⇒ Swedish
+# Documentation for South Saami ⇒ Swedish
 
-Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
-
-
-# Online dictionaries
-
-- [South Sámi dictionary page](https://dicts.uit.no/smedicts.eng.html)
+Please see [this page](https://giellalt.github.io/dicts/index.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
 # Other information
 
